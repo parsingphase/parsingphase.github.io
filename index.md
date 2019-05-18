@@ -34,7 +34,7 @@ https://parsingphase.github.io/rosetta-ppj/
 A guide to Test-Driven Development built around the functionality of the Engima, based on my time 
 volunteering at [Bletchley Park](https://bletchleypark.org.uk)
 
-https://tdddeciphered.com
+https://tdddeciphered.com (Enigma simulator code at https://github.com/parsingphase/enigma-simulator)
 
 ### Beerbot
 
@@ -58,3 +58,22 @@ A small salute to the most important of standardised comparison units, the metri
 A management app for a karaoke-style event that I used to run with my wife and friends
 
 http://parsingphase.github.io/takeAticket/
+
+### Minor projects
+
+- https://github.com/parsingphase/technical-hitch
+- https://github.com/parsingphase/4sl2gpx
+
+### Created for clients and open-sourced
+
+- https://github.com/MapleSyrupGroup/dbsampler
+
+---
+
+Contact: richard@parsingphase.dev
+
+Keys: https://keybase.io/parsingphase
+
+Github: https://github.com/parsingphase
+
+Photos: https://www.flickr.com/photos/parsingphase/
