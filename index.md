@@ -25,7 +25,7 @@ My online, personal projects include:
 
 A cheat sheet for anyone who, like me, finds swapping between multiple C-type languages confusing
 
-https://parsingphase.github.io/rosetta-ppj/
+[https://parsingphase.github.io/rosetta-ppj/](https://parsingphase.github.io/rosetta-ppj/)
 
 ### TDD Deciphered 
 
@@ -43,7 +43,7 @@ https://tdddeciphered.com (Enigma simulator code at https://github.com/parsingph
 
 A processing tool for paid supporters of [Untappd](https://untappd.com/), supporting stocklist management and consumption tracking
 
-https://beerbot.phase.org
+[https://beerbot.phase.org](https://beerbot.phase.org)
 
 ### WeightInWhales
 
@@ -51,18 +51,20 @@ https://beerbot.phase.org
 
 A small salute to the most important of standardised comparison units, the metric blue whale
 
+[https://weightinwhales.com/](https://weightinwhales.com/)
+
 ### TakeATicket 
 
 ![TakeATicket](images/TAT.png)
 
 A management app for a karaoke-style event that I used to run with my wife and friends
 
-http://parsingphase.github.io/takeAticket/
+[http://parsingphase.github.io/takeAticket/](http://parsingphase.github.io/takeAticket/)
 
 ### Minor projects
 
-- https://github.com/parsingphase/technical-hitch
-- https://github.com/parsingphase/4sl2gpx
+- [https://github.com/parsingphase/technical-hitch](https://github.com/parsingphase/technical-hitch)
+- [https://github.com/parsingphase/4sl2gpx](https://github.com/parsingphase/4sl2gpx)
 
 ### Created for clients and open-sourced
 
@@ -70,10 +72,10 @@ http://parsingphase.github.io/takeAticket/
 
 ---
 
-Contact: richard@parsingphase.dev
+Contact: [mailto:richard@parsingphase.dev](richard@parsingphase.dev)
 
-Keys: https://keybase.io/parsingphase
+Keys: [https://keybase.io/parsingphase](https://keybase.io/parsingphase)
 
-Github: https://github.com/parsingphase
+Github: [https://github.com/parsingphase](https://github.com/parsingphase)
 
-Photos: https://www.flickr.com/photos/parsingphase/
+Photos: [https://www.flickr.com/photos/parsingphase/](https://www.flickr.com/photos/parsingphase/)
