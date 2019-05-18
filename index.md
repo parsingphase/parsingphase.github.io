@@ -31,7 +31,7 @@ https://parsingphase.github.io/rosetta-ppj/
 
 ![TDD Deciphered](images/TDD.png)
 
-A guide to Test-Driven Development built around the functionality of the Engima Decoder, based on my time 
+A guide to Test-Driven Development built around the functionality of the Engima, based on my time 
 volunteering at [Bletchley Park](https://bletchleypark.org.uk)
 
 https://tdddeciphered.com
@@ -41,7 +41,20 @@ https://tdddeciphered.com
 ![Beerbot Menu](images/BB1.png)
 ![Beerbot Tracker](images/BB2.png)
 
-A processing tool for paid supporters of [Untappd], supporting stocklist management and consumption tracking
+A processing tool for paid supporters of [Untappd](https://untappd.com/), supporting stocklist management and consumption tracking
 
 https://beerbot.phase.org
 
+### WeightInWhales
+
+![Weight In Whales](images/WIW.png)
+
+A small salute to the most important of standardised comparison units, the metric blue whale
+
+### TakeATicket 
+
+![TakeATicket](images/TAT.png)
+
+A management app for a karaoke-style event that I used to run with my wife and friends
+
+http://parsingphase.github.io/takeAticket/
