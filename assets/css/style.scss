@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+h3 { color: black }
+a { color: #444 }
+header h2 { display: none }
+section#downloads { display: none }
+ul li { padding-left: 0 }

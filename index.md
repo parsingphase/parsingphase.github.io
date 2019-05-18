@@ -1,5 +1,6 @@
 ---
 ---
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 Hi, I'm **Richard**, AKA parsingphase
 
 I build things in PHP, Python and Javascript
@@ -34,7 +35,8 @@ A cheat sheet for anyone who, like me, finds swapping between multiple C-type la
 A guide to Test-Driven Development built around the functionality of the Engima, based on my time 
 volunteering at [Bletchley Park](https://bletchleypark.org.uk)
 
-https://tdddeciphered.com (Enigma simulator code at https://github.com/parsingphase/enigma-simulator)
+[https://tdddeciphered.com](https://tdddeciphered.com) 
+(Enigma simulator code at [https://github.com/parsingphase/enigma-simulator](https://github.com/parsingphase/enigma-simulator))
 
 ### Beerbot
 
@@ -68,14 +70,16 @@ A management app for a karaoke-style event that I used to run with my wife and f
 
 ### Created for clients and open-sourced
 
-- https://github.com/MapleSyrupGroup/dbsampler
+- [https://github.com/MapleSyrupGroup/dbsampler](https://github.com/MapleSyrupGroup/dbsampler)
 
 ---
 
-Contact: [mailto:richard@parsingphase.dev](richard@parsingphase.dev)
+<i class="fas fa-envelope"></i> Contact: [richard@parsingphase.dev](mailto:richard@parsingphase.dev)
 
-Keys: [https://keybase.io/parsingphase](https://keybase.io/parsingphase)
+<i class="fas fa-key"></i> Keys: [https://keybase.io/parsingphase](https://keybase.io/parsingphase)
 
-Github: [https://github.com/parsingphase](https://github.com/parsingphase)
+<i class="fab fa-github"></i> Github: [https://github.com/parsingphase](https://github.com/parsingphase)
 
-Photos: [https://www.flickr.com/photos/parsingphase/](https://www.flickr.com/photos/parsingphase/)
+<i class="fab fa-linkedin"></i> CV / Resume: [https://www.linkedin.com/in/richardgeorge/](https://www.linkedin.com/in/richardgeorge/)
+
+<i class="fab fa-flickr"></i> Photos: [https://www.flickr.com/photos/parsingphase/](https://www.flickr.com/photos/parsingphase/)
