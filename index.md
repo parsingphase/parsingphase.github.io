@@ -9,13 +9,13 @@ I create documentation and guides as well as software
 
 Commercially, I've worked for companies including -
 
-- The London Internet Exchange
-- Snatch (aka Bandana)
-- Quidco 
-- Amazon
-- Fitch Learning
-- Dennis Publishing
-- The Mind Gym
+- [The London Internet Exchange](https://www.linx.net)
+- [Snatch](https://www.snatchvip.com)
+- [Quidco](https://www.quidco.com) 
+- Amazon (at [The Book Depository](https://www.bookdepository.com))
+- [Fitch Learning](https://www.fitchlearning.com)
+- [Dennis Publishing](https://www.dennis.co.uk)
+- [The Mind Gym](https://uk.themindgym.com)
 
 
 My online, personal projects include:
@@ -32,11 +32,10 @@ A cheat sheet for anyone who, like me, finds swapping between multiple C-type la
 
 ![TDD Deciphered](images/TDD.png)
 
-A guide to Test-Driven Development built around the functionality of the Engima, based on my time 
+A guide to Test-Driven Development built around [a simulation of the Engima machine](https://github.com/parsingphase/enigma-simulator), based on my time 
 volunteering at [Bletchley Park](https://bletchleypark.org.uk)
 
 [https://tdddeciphered.com](https://tdddeciphered.com) 
-(Enigma simulator code at [https://github.com/parsingphase/enigma-simulator](https://github.com/parsingphase/enigma-simulator))
 
 ### Beerbot
 
@@ -72,6 +71,13 @@ A management app for a karaoke-style event that I used to run with my wife and f
 
 - [https://github.com/MapleSyrupGroup/dbsampler](https://github.com/MapleSyrupGroup/dbsampler)
 
+
+### Blog
+
+Somewhat in hiatus, but the [archive](https://phase.org/blog/archive) has a fair bit of content
+
+- [https://phase.org/](https://phase.org/)
+
 ---
 
 <i class="fas fa-envelope"></i> Contact: [richard@parsingphase.dev](mailto:richard@parsingphase.dev)
@@ -80,6 +86,6 @@ A management app for a karaoke-style event that I used to run with my wife and f
 
 <i class="fab fa-github"></i> Github: [https://github.com/parsingphase](https://github.com/parsingphase)
 
-<i class="fab fa-linkedin"></i> CV / Resume: [https://www.linkedin.com/in/richardgeorge/](https://www.linkedin.com/in/richardgeorge/)
+<i class="fab fa-linkedin"></i> CV / Resumé: [https://www.linkedin.com/in/richardgeorge/](https://www.linkedin.com/in/richardgeorge/)
 
 <i class="fab fa-flickr"></i> Photos: [https://www.flickr.com/photos/parsingphase/](https://www.flickr.com/photos/parsingphase/)
