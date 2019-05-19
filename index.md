@@ -26,7 +26,7 @@ My online, personal projects include:
 
 A cheat sheet for anyone who, like me, finds swapping between multiple C-type languages confusing
 
-[https://parsingphase.github.io/rosetta-ppj/](https://parsingphase.github.io/rosetta-ppj/)
+ - [https://parsingphase.github.io/rosetta-ppj/](https://parsingphase.github.io/rosetta-ppj/)
 
 ### TDD Deciphered 
 
@@ -35,7 +35,7 @@ A cheat sheet for anyone who, like me, finds swapping between multiple C-type la
 A guide to Test-Driven Development built around [a simulation of the Engima machine](https://github.com/parsingphase/enigma-simulator), based on my time 
 volunteering at [Bletchley Park](https://bletchleypark.org.uk)
 
-[https://tdddeciphered.com](https://tdddeciphered.com) 
+ - [https://tdddeciphered.com](https://tdddeciphered.com) 
 
 ### Beerbot
 
@@ -44,7 +44,7 @@ volunteering at [Bletchley Park](https://bletchleypark.org.uk)
 
 A processing tool for paid supporters of [Untappd](https://untappd.com/), supporting stocklist management and consumption tracking
 
-[https://beerbot.phase.org](https://beerbot.phase.org)
+ - [https://beerbot.phase.org](https://beerbot.phase.org)
 
 ### WeightInWhales
 
@@ -52,7 +52,7 @@ A processing tool for paid supporters of [Untappd](https://untappd.com/), suppor
 
 A small salute to the most important of standardised comparison units, the metric blue whale
 
-[https://weightinwhales.com/](https://weightinwhales.com/)
+ - [https://weightinwhales.com/](https://weightinwhales.com/)
 
 ### TakeATicket 
 
@@ -60,7 +60,7 @@ A small salute to the most important of standardised comparison units, the metri
 
 A management app for a karaoke-style event that I used to run with my wife and friends
 
-[http://parsingphase.github.io/takeAticket/](http://parsingphase.github.io/takeAticket/)
+ - [http://parsingphase.github.io/takeAticket/](http://parsingphase.github.io/takeAticket/)
 
 ### Minor projects
 
