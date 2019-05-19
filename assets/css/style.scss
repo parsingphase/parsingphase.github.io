@@ -11,8 +11,9 @@ p {
   font-weight: normal
 }
 
-h3 {
-  color: black
+h2, h3 {
+  color: black;
+  margin-top: 1.2em;
 }
 
 a {
@@ -34,6 +35,6 @@ ul li {
 }
 
 ul li::before {
-  content: '-';
-  padding-right: 0.4em;
+  //content: '-';
+  //padding-right: 0.4em;
 }

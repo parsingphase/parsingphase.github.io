@@ -9,85 +9,90 @@ I create documentation and guides as well as software
 
 Commercially, I've worked for companies including -
 
-- [The London Internet Exchange](https://www.linx.net), including the [Member Portal](https://portal.linx.net)
-- [Snatch](https://www.snatchvip.com)
-- [Quidco](https://www.quidco.com) 
-- Amazon (at [The Book Depository](https://www.bookdepository.com))
-- [Fitch Learning](https://www.fitchlearning.com)
-- [Dennis Publishing](https://www.dennis.co.uk)
-- [The Mind Gym](https://uk.themindgym.com)
+- \- [The London Internet Exchange](https://www.linx.net), including the [Member Portal](https://portal.linx.net)
+- \- [Snatch](https://www.snatchvip.com)
+- \- [Quidco](https://www.quidco.com) 
+- \- Amazon (at [The Book Depository](https://www.bookdepository.com))
+- \- [Fitch Learning](https://www.fitchlearning.com)
+- \- [Dennis Publishing](https://www.dennis.co.uk)
+- \- [The Mind Gym](https://uk.themindgym.com)
 
 
 My online, personal projects include:
 
-### Rosetta PPJ
+## [Rosetta PPJ](https://parsingphase.dev/rosetta-ppj/)
 
 ![PHP-Python-Javascript Rosetta](images/PPJ.png)
 
- PHP \| Python \| Javascript
+ <i class="fab fa-php fa-lg"></i> PHP \| <i class="fab fa-python"></i> Python \| <i class="fab fa-js-square"></i> Javascript
 
 A cheat sheet for anyone who, like me, finds swapping between multiple C-type languages confusing
 
- - [https://parsingphase.dev/rosetta-ppj/](https://parsingphase.dev/rosetta-ppj/)
- 
+ - <i class="fas fa-globe"></i> [https://parsingphase.dev/rosetta-ppj](https://parsingphase.dev/rosetta-ppj/)
+ - <i class="fab fa-github"></i> [https://github.com/parsingphase/rosetta-ppj](https://github.com/parsingphase/rosetta-ppj)
+<!--  - TODO: Add repos, logos (https://fontawesome.com/icons/php?style=brands) -->
+  
 
-### TDD Deciphered 
+## [TDD Deciphered](https://tdddeciphered.com) 
 
 ![TDD Deciphered](images/TDD.png)
 
- PHP \| TDD
+ <i class="fab fa-php fa-lg"></i> PHP \| <i class="fas fa-check-square"></i> TDD
 
 A guide to Test-Driven Development built around [a simulation of the Engima machine](https://github.com/parsingphase/enigma-simulator), based on my time 
 volunteering at [Bletchley Park](https://bletchleypark.org.uk)
 
- - [https://tdddeciphered.com](https://tdddeciphered.com) 
+ - <i class="fas fa-globe"></i> [https://tdddeciphered.com](https://tdddeciphered.com) 
+ - <i class="fab fa-github"></i> [https://github.com/parsingphase/enigma-simulator](https://github.com/parsingphase/enigma-simulator)
 
-### Beerbot
+## [Beerbot](https://beerbot.phase.org)
 
 ![Beerbot Menu](images/BB1.png)
 ![Beerbot Tracker](images/BB2.png)
 
- Python \| AWS Serverless
+ <i class="fab fa-python"></i> Python \| <i class="fab fa-aws"></i> AWS Serverless
 
 A processing tool for paid supporters of [Untappd](https://untappd.com/), supporting stocklist management and consumption tracking
 
- - [https://beerbot.phase.org](https://beerbot.phase.org)
+ - <i class="fas fa-globe"></i> [https://beerbot.phase.org](https://beerbot.phase.org)
+ - <i class="fab fa-github"></i> [https://github.com/parsingphase/untappd-tools](https://github.com/parsingphase/untappd-tools)
  
-### WeightInWhales
+## [WeightInWhales](https://weightinwhales.com/)
 
 ![Weight In Whales](images/WIW.png)
 
 A small salute to the most important of standardised comparison units, the metric blue whale
 
- PHP \| Javascript \| Symfony \| Angular
+ <i class="fab fa-php fa-lg"></i> PHP \| <i class="fab fa-js-square"></i> Javascript \| <i class="fab fa-symfony"></i> Symfony \| <i class="fab fa-angular"></i> Angular
 
- - [https://weightinwhales.com/](https://weightinwhales.com/) 
+ - <i class="fas fa-globe"></i> [https://weightinwhales.com](https://weightinwhales.com/) 
 
-### TakeATicket 
+## [TakeATicket](https://parsingphase.dev/takeAticket/)
 
 ![TakeATicket](images/TAT.png)
 
 A management app for a karaoke-style event that I used to run with my wife and friends
 
- PHP \| Javascript \| Symfony \| jQuery \| Docker
+ <i class="fab fa-php fa-lg"></i> PHP \| <i class="fab fa-js-square"></i> Javascript \| <i class="fab fa-symfony"></i> Symfony \| <i class="fas fa-dollar-sign"></i> jQuery \| <i class="fab fa-docker"></i> Docker
 
- - [https://parsingphase.dev/takeAticket/](https://parsingphase.dev/takeAticket/)
+ - <i class="fas fa-globe"></i> [https://parsingphase.dev/takeAticket](https://parsingphase.dev/takeAticket/)
+ - <i class="fab fa-github"></i> [https://github.com/parsingphase/takeAticket](https://github.com/parsingphase/takeAticket)
 
-### Minor projects
+## Minor projects
 
-- [https://github.com/parsingphase/technical-hitch](https://github.com/parsingphase/technical-hitch)
-- [https://github.com/parsingphase/4sl2gpx](https://github.com/parsingphase/4sl2gpx)
+- <i class="fab fa-github"></i> [https://github.com/parsingphase/technical-hitch](https://github.com/parsingphase/technical-hitch)
+- <i class="fab fa-github"></i> [https://github.com/parsingphase/4sl2gpx](https://github.com/parsingphase/4sl2gpx)
 
-### Created for clients and open-sourced
+## Created for clients and open-sourced
 
-- [https://github.com/MapleSyrupGroup/dbsampler](https://github.com/MapleSyrupGroup/dbsampler)
+- <i class="fab fa-github"></i> [https://github.com/MapleSyrupGroup/dbsampler](https://github.com/MapleSyrupGroup/dbsampler)
 
 
-### Blog
+## [Blog](https://phase.org/)
 
 Somewhat in hiatus, but the [archive](https://phase.org/blog/archive) has a fair bit of content
 
-- [https://phase.org/](https://phase.org/)
+- <i class="fas fa-globe"></i> [https://phase.org](https://phase.org/)
 
 ---
 
@@ -97,6 +102,6 @@ Somewhat in hiatus, but the [archive](https://phase.org/blog/archive) has a fair
 
 <i class="fab fa-github"></i> Github: [https://github.com/parsingphase](https://github.com/parsingphase)
 
-<i class="fab fa-linkedin"></i> CV / Résumé: [https://www.linkedin.com/in/richardgeorge/](https://www.linkedin.com/in/richardgeorge/)
+<i class="fab fa-linkedin"></i> CV / Résumé: [https://www.linkedin.com/in/richardgeorge](https://www.linkedin.com/in/richardgeorge/)
 
-<i class="fab fa-flickr"></i> Photos: [https://www.flickr.com/photos/parsingphase/](https://www.flickr.com/photos/parsingphase/)
+<i class="fab fa-flickr"></i> Photos: [https://www.flickr.com/photos/parsingphase](https://www.flickr.com/photos/parsingphase/)
