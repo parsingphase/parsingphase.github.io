@@ -9,7 +9,7 @@ I create documentation and guides as well as software
 
 Commercially, I've worked for companies including -
 
-- [The London Internet Exchange](https://www.linx.net)
+- [The London Internet Exchange](https://www.linx.net), including the [Member Portal](https://portal.linx.net)
 - [Snatch](https://www.snatchvip.com)
 - [Quidco](https://www.quidco.com) 
 - Amazon (at [The Book Depository](https://www.bookdepository.com))
@@ -24,13 +24,18 @@ My online, personal projects include:
 
 ![PHP-Python-Javascript Rosetta](images/PPJ.png)
 
+ PHP \| Python \| Javascript
+
 A cheat sheet for anyone who, like me, finds swapping between multiple C-type languages confusing
 
- - [https://parsingphase.github.io/rosetta-ppj/](https://parsingphase.github.io/rosetta-ppj/)
+ - [https://parsingphase.dev/rosetta-ppj/](https://parsingphase.dev/rosetta-ppj/)
+ 
 
 ### TDD Deciphered 
 
 ![TDD Deciphered](images/TDD.png)
+
+ PHP \| TDD
 
 A guide to Test-Driven Development built around [a simulation of the Engima machine](https://github.com/parsingphase/enigma-simulator), based on my time 
 volunteering at [Bletchley Park](https://bletchleypark.org.uk)
@@ -42,17 +47,21 @@ volunteering at [Bletchley Park](https://bletchleypark.org.uk)
 ![Beerbot Menu](images/BB1.png)
 ![Beerbot Tracker](images/BB2.png)
 
+ Python \| AWS Serverless
+
 A processing tool for paid supporters of [Untappd](https://untappd.com/), supporting stocklist management and consumption tracking
 
  - [https://beerbot.phase.org](https://beerbot.phase.org)
-
+ 
 ### WeightInWhales
 
 ![Weight In Whales](images/WIW.png)
 
 A small salute to the most important of standardised comparison units, the metric blue whale
 
- - [https://weightinwhales.com/](https://weightinwhales.com/)
+ PHP \| Javascript \| Symfony \| Angular
+
+ - [https://weightinwhales.com/](https://weightinwhales.com/) 
 
 ### TakeATicket 
 
@@ -60,7 +69,9 @@ A small salute to the most important of standardised comparison units, the metri
 
 A management app for a karaoke-style event that I used to run with my wife and friends
 
- - [http://parsingphase.github.io/takeAticket/](http://parsingphase.github.io/takeAticket/)
+ PHP \| Javascript \| Symfony \| jQuery \| Docker
+
+ - [https://parsingphase.dev/takeAticket/](https://parsingphase.dev/takeAticket/)
 
 ### Minor projects
 
@@ -86,6 +97,6 @@ Somewhat in hiatus, but the [archive](https://phase.org/blog/archive) has a fair
 
 <i class="fab fa-github"></i> Github: [https://github.com/parsingphase](https://github.com/parsingphase)
 
-<i class="fab fa-linkedin"></i> CV / Resumé: [https://www.linkedin.com/in/richardgeorge/](https://www.linkedin.com/in/richardgeorge/)
+<i class="fab fa-linkedin"></i> CV / Résumé: [https://www.linkedin.com/in/richardgeorge/](https://www.linkedin.com/in/richardgeorge/)
 
 <i class="fab fa-flickr"></i> Photos: [https://www.flickr.com/photos/parsingphase/](https://www.flickr.com/photos/parsingphase/)
