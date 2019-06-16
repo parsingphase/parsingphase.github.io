@@ -29,9 +29,18 @@ My online, personal projects include:
 A cheat sheet for anyone who, like me, finds swapping between multiple C-type languages confusing
 
  - <i class="fas fa-globe"></i> [https://parsingphase.dev/rosetta-ppj](https://parsingphase.dev/rosetta-ppj/)
- - <i class="fab fa-github"></i> [https://github.com/parsingphase/rosetta-ppj](https://github.com/parsingphase/rosetta-ppj)
-<!--  - TODO: Add repos, logos (https://fontawesome.com/icons/php?style=brands) -->
-  
+ - <i class="fab fa-github"></i> [https://github.com/parsingphase/rosetta-ppj](https://github.com/parsingphase/rosetta-ppj)  
+
+## [Batbox](https://batbox.phase.org) 
+
+![Batbox](images/BAT1.png)
+
+ <i class="fab fa-python"></i> Python \| <i class="fab fa-python"></i> Django \| <i class="fab fa-js-square"></i> Javascript \| <i class="fas fa-dollar-sign"></i> jQuery \| <i class="fab fa-docker"></i> Docker
+
+A geovisualisation and search tool for audio recordings of bats tagged with the GUANO format.
+
+ - <i class="fas fa-globe"></i> [https://batbox.phase.org](https://batbox.phase.org) 
+ - <i class="fab fa-github"></i> [https://github.com/parsingphase/batbox](https://github.com/parsingphase/batbox)
 
 ## [TDD Deciphered](https://tdddeciphered.com) 
 
