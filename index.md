@@ -28,8 +28,8 @@ My online, personal projects include:
 
 A cheat sheet for anyone who, like me, finds swapping between multiple C-type languages confusing
 
- - <i class="fas fa-globe"></i> [https://parsingphase.dev/rosetta-ppj](https://parsingphase.dev/rosetta-ppj/)
- - <i class="fab fa-github"></i> [https://github.com/parsingphase/rosetta-ppj](https://github.com/parsingphase/rosetta-ppj)  
+ - <i class="fas fa-globe" title="Site"></i> [https://parsingphase.dev/rosetta-ppj](https://parsingphase.dev/rosetta-ppj/)
+ - <i class="fab fa-github" title="Source"></i> [https://github.com/parsingphase/rosetta-ppj](https://github.com/parsingphase/rosetta-ppj)  
 
 ## [Batbox](https://batbox.phase.org) 
 
@@ -39,8 +39,9 @@ A cheat sheet for anyone who, like me, finds swapping between multiple C-type la
 
 A geovisualisation and search tool for audio recordings of bats tagged with the GUANO format.
 
- - <i class="fas fa-globe"></i> [https://batbox.phase.org](https://batbox.phase.org) 
- - <i class="fab fa-github"></i> [https://github.com/parsingphase/batbox](https://github.com/parsingphase/batbox)
+ - <i class="fas fa-globe" title="Site"></i> [https://batbox.phase.org](https://batbox.phase.org) 
+ - <i class="fas fa-book" title="Documentation"></i> [https://parsingphase.dev/batbox](https://parsingphase.dev/batbox) 
+ - <i class="fab fa-github" title="Source"></i> [https://github.com/parsingphase/batbox](https://github.com/parsingphase/batbox)
 
 ## [TDD Deciphered](https://tdddeciphered.com) 
 
@@ -51,8 +52,8 @@ A geovisualisation and search tool for audio recordings of bats tagged with the 
 A guide to Test-Driven Development built around [a simulation of the Engima machine](https://github.com/parsingphase/enigma-simulator), based on my time 
 volunteering at [Bletchley Park](https://bletchleypark.org.uk)
 
- - <i class="fas fa-globe"></i> [https://tdddeciphered.com](https://tdddeciphered.com) 
- - <i class="fab fa-github"></i> [https://github.com/parsingphase/enigma-simulator](https://github.com/parsingphase/enigma-simulator)
+ - <i class="fas fa-globe" title="Site"></i> [https://tdddeciphered.com](https://tdddeciphered.com) 
+ - <i class="fab fa-github" title="Source"></i> [https://github.com/parsingphase/enigma-simulator](https://github.com/parsingphase/enigma-simulator)
 
 ## [Beerbot](https://beerbot.phase.org)
 
@@ -63,8 +64,8 @@ volunteering at [Bletchley Park](https://bletchleypark.org.uk)
 
 A processing tool for paid supporters of [Untappd](https://untappd.com/), supporting stocklist management and consumption tracking
 
- - <i class="fas fa-globe"></i> [https://beerbot.phase.org](https://beerbot.phase.org)
- - <i class="fab fa-github"></i> [https://github.com/parsingphase/untappd-tools](https://github.com/parsingphase/untappd-tools)
+ - <i class="fas fa-globe" title="Site"></i> [https://beerbot.phase.org](https://beerbot.phase.org)
+ - <i class="fab fa-github" title="Source"></i> [https://github.com/parsingphase/untappd-tools](https://github.com/parsingphase/untappd-tools)
  
 ## [WeightInWhales](https://weightinwhales.com/)
 
@@ -74,7 +75,7 @@ A small salute to the most important of standardised comparison units, the metri
 
  <i class="fab fa-php fa-lg"></i> PHP \| <i class="fab fa-js-square"></i> Javascript \| <i class="fab fa-symfony"></i> Symfony \| <i class="fab fa-angular"></i> Angular
 
- - <i class="fas fa-globe"></i> [https://weightinwhales.com](https://weightinwhales.com/) 
+ - <i class="fas fa-globe" title="Site"></i> [https://weightinwhales.com](https://weightinwhales.com/) 
 
 ## [TakeATicket](https://parsingphase.dev/takeAticket/)
 
@@ -84,17 +85,17 @@ A management app for a karaoke-style event that I used to run with my wife and f
 
  <i class="fab fa-php fa-lg"></i> PHP \| <i class="fab fa-js-square"></i> Javascript \| <i class="fab fa-symfony"></i> Symfony \| <i class="fas fa-dollar-sign"></i> jQuery \| <i class="fab fa-docker"></i> Docker
 
- - <i class="fas fa-globe"></i> [https://parsingphase.dev/takeAticket](https://parsingphase.dev/takeAticket/)
- - <i class="fab fa-github"></i> [https://github.com/parsingphase/takeAticket](https://github.com/parsingphase/takeAticket)
+ - <i class="fas fa-book" title="Documentation"></i> [https://parsingphase.dev/takeAticket](https://parsingphase.dev/takeAticket/)
+ - <i class="fab fa-github" title="Source"></i> [https://github.com/parsingphase/takeAticket](https://github.com/parsingphase/takeAticket)
 
 ## Minor projects
 
-- <i class="fab fa-github"></i> [https://github.com/parsingphase/technical-hitch](https://github.com/parsingphase/technical-hitch)
-- <i class="fab fa-github"></i> [https://github.com/parsingphase/4sl2gpx](https://github.com/parsingphase/4sl2gpx)
+- <i class="fab fa-github" title="Source"></i> [https://github.com/parsingphase/technical-hitch](https://github.com/parsingphase/technical-hitch)
+- <i class="fab fa-github" title="Source"></i> [https://github.com/parsingphase/4sl2gpx](https://github.com/parsingphase/4sl2gpx)
 
 ## Created for clients and open-sourced
 
-- <i class="fab fa-github"></i> [https://github.com/MapleSyrupGroup/dbsampler](https://github.com/MapleSyrupGroup/dbsampler)
+- <i class="fab fa-github" title="Source"></i> [https://github.com/MapleSyrupGroup/dbsampler](https://github.com/MapleSyrupGroup/dbsampler)
 
 
 ## [Blog](https://phase.org/)
