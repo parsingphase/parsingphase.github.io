@@ -9,7 +9,7 @@ I create documentation and guides as well as software
 
 Commercially, I've worked for companies including -
 
-- \- [The London Internet Exchange](https://www.linx.net), including the [Member Portal](https://portal.linx.net)
+- \- [The London Internet Exchange](https://www.linx.net), including the [Portal](https://portal.linx.net) and [IX-API](https://ix-api.net)
 - \- [Snatch](https://www.snatchvip.com)
 - \- [Quidco](https://www.quidco.com) 
 - \- Amazon (at [The Book Depository](https://www.bookdepository.com))
