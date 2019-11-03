@@ -21,9 +21,12 @@ I spent most of the last year working on [IX-API](https://ix-api.net),
 and I've [written up my experience](https://medium.com/parsing-tech/ix-api-design-notes-and-recollections-27c55829d9e8)
 
 -----
+## Hire me!
+
 I've just relocated to Boston, Massachusetts, and I'm **looking for a job**! If you might be interested in employing me,
 take a look at the bottom of this page for my résumé on LinkedIn and my contact details. Or feel free to pass this page
 along!
+
 -----
 
 My online, personal projects include:
