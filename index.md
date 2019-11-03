@@ -20,7 +20,6 @@ Commercially, I've worked for companies including -
 I spent most of the last year working on [IX-API](https://ix-api.net), 
 and I've [written up my experience](https://medium.com/parsing-tech/ix-api-design-notes-and-recollections-27c55829d9e8)
 
------
 ## Hire me!
 
 I've just relocated to Boston, Massachusetts, and I'm **looking for a job**! If you might be interested in employing me,
