@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 Hi, I'm **Richard**, AKA parsingphase
 
-I build things in PHP, Python and Javascript
+I build things in PHP, Python and Javascript/Typescript
 
 I create documentation and guides as well as software
 
@@ -17,16 +17,8 @@ Commercially, I've worked for companies including -
 - \- [Dennis Publishing](https://www.dennis.co.uk)
 - \- [The Mind Gym](https://uk.themindgym.com)
 
-I spent most of the last year working on [IX-API](https://ix-api.net), 
+I spent most of 2019 working on [IX-API](https://ix-api.net), 
 and I've [written up my experience](https://medium.com/parsing-tech/ix-api-design-notes-and-recollections-27c55829d9e8)
-
-## Hire me!
-
-I've just relocated to Boston, Massachusetts, and I'm **looking for a job**! If you might be interested in employing me,
-take a look at the bottom of this page for my résumé on LinkedIn and my contact details. Or feel free to pass this page
-along!
-
------
 
 My online, personal projects include:
 
