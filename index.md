@@ -5,8 +5,9 @@ Hi, I'm **Richard**, AKA parsingphase
 
 I take photos as a hobby, and write code as a profession.
 
-![Red Squirrel](images/squirrel.jpg) ![Quabbin MA](images/quabbin.jpg)  ![Painted Turtle](images/turtle.jpg) 
+![Red Squirrel](images/squirrel.jpg) ![Quabbin MA](images/quabbin.jpg) ![Painted Turtle](images/turtle.jpg) ![Sunderland MA](images/sunderland.jpg) 
 
+<i class="fab fa-flickr"></i> More can be found at [https://photography.parsingphase.com](https://photography.parsingphase.com)
 
 I build things in PHP, Python and Javascript/Typescript
 
@@ -120,5 +121,3 @@ Somewhat in hiatus, but the [archive](https://phase.org/blog/archive) has a fair
 <i class="fab fa-github"></i> Github: [https://github.com/parsingphase](https://github.com/parsingphase)
 
 <i class="fab fa-linkedin"></i> CV / Résumé: [https://www.linkedin.com/in/richardgeorge](https://www.linkedin.com/in/richardgeorge/)
-
-<i class="fab fa-flickr"></i> Photos: [https://www.flickr.com/photos/parsingphase](https://www.flickr.com/photos/parsingphase/)
