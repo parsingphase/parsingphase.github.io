@@ -5,7 +5,10 @@ Hi, I'm **Richard**, AKA parsingphase
 
 I take photos as a hobby, and write code as a profession.
 
-![Red Squirrel](images/squirrel.jpg) ![Quabbin MA](images/quabbin.jpg) ![Painted Turtle](images/turtle.jpg) ![Sunderland MA](images/sunderland.jpg) 
+[![Cape May Warbler](images/capemay.jpg)](https://www.flickr.com/photos/parsingphase/49905996707/in/album-72157714145527936/)
+[![Red Squirrel](images/squirrel.jpg)](https://www.flickr.com/photos/parsingphase/50498975057/in/album-72157714807457311/)
+[![Quabbin MA](images/quabbin.jpg)](https://www.flickr.com/photos/parsingphase/50498248583/in/album-72157716509712352/) 
+[![Song Sparrow](images/songsparrow.jpg)](https://www.flickr.com/photos/parsingphase/50006813521/in/album-72157714145527936/) 
 
 <i class="fab fa-flickr"></i> More can be found at [https://photography.parsingphase.com](https://photography.parsingphase.com)
 
