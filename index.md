@@ -12,9 +12,11 @@ I take photos as a hobby, and write code as a profession.
 
 <i class="fab fa-flickr"></i> More can be found at [https://photography.parsingphase.com](https://photography.parsingphase.com)
 
-I build things in PHP, Python and Javascript/Typescript
+<i class="fab fa-medium"></i> I've written up [some notes on technique and equipment](https://medium.com/@parsingphase/some-notes-on-wildlife-photography-6370ea4f8965) on Medium.
 
-I create documentation and guides as well as software
+**On the software side**, I build things in PHP, Python and Javascript/Typescript
+
+I create documentation and guides as well as code
 
 Commercially, I've worked for companies including -
 
@@ -31,11 +33,11 @@ and I've [written up my experience](https://medium.com/parsing-tech/ix-api-desig
 
 My online, personal projects include:
 
-## [Rosetta PPJ](https://parsingphase.dev/rosetta-ppj/)
+## [Rosetta PPJ](https://parsingphase.dev/rosetta-ppj/) (now with Java added!)
 
-![PHP-Python-Javascript Rosetta](images/PPJ.png)
+![PHP-Python-Javascript Rosetta](images/PPJ.png))
 
- <i class="fab fa-php fa-lg"></i> PHP \| <i class="fab fa-python"></i> Python \| <i class="fab fa-js-square"></i> Javascript
+ <i class="fab fa-php fa-lg"></i> PHP \| <i class="fab fa-python"></i> Python \| <i class="fab fa-js-square"></i> Javascript \| <i class="fab fa-java"></i> Java
 
 A cheat sheet for anyone who, like me, finds swapping between multiple C-type languages confusing
 
