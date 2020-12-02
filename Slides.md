@@ -27,5 +27,5 @@ I take photos as a hobby, and write code as a profession.
 
 
 <script>
-	new Splide('.splide').mount();
+	new Splide('.splide', {autoplay:true, perPage: 3}).mount();
 </script>
