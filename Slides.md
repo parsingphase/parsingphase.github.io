@@ -22,3 +22,10 @@ I take photos as a hobby, and write code as a profession.
 		</ul>
 	</div>
 </div>
+
+
+
+
+<script>
+	new Splide('.splide').mount();
+</script>
