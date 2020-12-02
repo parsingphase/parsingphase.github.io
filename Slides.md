@@ -11,13 +11,13 @@ I take photos as a hobby, and write code as a profession.
 	<div class="splide__track">
 		<ul class="splide__list">
 			<li class="splide__slide">
-[![Cape May Warbler](images/capemay.jpg)](https://www.flickr.com/photos/parsingphase/49905996707/in/album-72157714145527936/)
+<img alt="Cape May Warbler" src="images/capemay.jpg" />
 			</li>
 			<li class="splide__slide">
-[![Red Squirrel](images/squirrel.jpg)](https://www.flickr.com/photos/parsingphase/50498975057/in/album-72157714807457311/)
+<img alt="Red Squirrel" src="images/squirrel.jpg" />
 			</li>
 			<li class="splide__slide">
-[![Quabbin MA](images/quabbin.jpg)](https://www.flickr.com/photos/parsingphase/50498248583/in/album-72157716509712352/) 
+<img alt="Quabbin MA" src="images/quabbin.jpg" />
 			</li>
 		</ul>
 	</div>
