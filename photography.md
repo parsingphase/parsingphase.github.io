@@ -7,7 +7,7 @@ Hi, I'm **Richard**, AKA parsingphase
 
 I take photos as a hobby, and write code as a profession.
 
-<p><a href="/"> <i class="fab fa-laptop-code"></i> Software</a> | <i class="fab fa-camera"></i> Photography</p>
+<p class="nav"><a href="/"> <i class="fas fa-laptop-code"></i> Software</a> | <i class="fas fa-camera"></i> Photography</p>
 
 {% include carousel.html height="427" unit="px" duration="7" %}
 
@@ -28,7 +28,7 @@ This has proven to be more than just a hobby now - it's fresh air, it's family t
 that are incredibly calming and satisfying to browse in a difficult year.
 
 Many of these images - back to first picking up a DSLR - can be found at [https://photography.parsingphase.com](https://photography.parsingphase.com). 
-Some of the best recent wildlife images are collected in my <i class="fab fa-camera"></i> [Wildlife Showcase](https://www.flickr.com/photos/parsingphase/albums/72157717026953392), mostly
+Some of the best recent wildlife images are collected in my <i class="fab fa-flickr"></i> [Wildlife Showcase](https://www.flickr.com/photos/parsingphase/albums/72157717026953392), mostly
 under a [cc by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/) license.
 
 In addition to the images themselves, I've also given [a talk on the topic](https://www.dropbox.com/s/g5wvf6jg6kpxwep/WildlifePhotographyWithPreamble.pdf)
