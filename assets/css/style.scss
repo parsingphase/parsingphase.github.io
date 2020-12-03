@@ -26,12 +26,30 @@ a {
   color: #303030
 }
 
-header h2 {
+header {
+  padding: 5px 0;
+}
+
+header h1 {
   display: none
 }
 
+header h2 {
+  //color: black;
+  //font-size: 2em;
+  //font-weight: bolder;
+  //margin: 0;
+
+  font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 48px;
+  font-weight: 900;
+  line-height: 1.2;
+  color: #303030;
+  letter-spacing: -1px;
+}
+
 section#downloads {
-  display: none
+  display: none; // shows as blank space even with show_downloads: false
 }
 
 ul li {

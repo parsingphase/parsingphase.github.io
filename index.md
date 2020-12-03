@@ -1,20 +1,14 @@
 ---
+description: parsingphase.dev
 ---
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 Hi, I'm **Richard**, AKA parsingphase
 
 I take photos as a hobby, and write code as a profession.
 
-[![Cape May Warbler](images/capemay.jpg)](https://www.flickr.com/photos/parsingphase/49905996707/in/album-72157714145527936/)
-[![Red Squirrel](images/squirrel.jpg)](https://www.flickr.com/photos/parsingphase/50498975057/in/album-72157714807457311/)
-[![Quabbin MA](images/quabbin.jpg)](https://www.flickr.com/photos/parsingphase/50498248583/in/album-72157716509712352/) 
-[![Song Sparrow](images/songsparrow.jpg)](https://www.flickr.com/photos/parsingphase/50006813521/in/album-72157714145527936/) 
+<p class="nav"><i class="fas fa-laptop-code"></i> Software | <a href="/photography.html"> <i class="fas fa-camera"></i> Photography</a></p>
 
-<i class="fab fa-flickr"></i> More can be found at [https://photography.parsingphase.com](https://photography.parsingphase.com)
-
-<i class="fab fa-medium"></i> I've written up [some notes on technique and equipment](https://medium.com/@parsingphase/some-notes-on-wildlife-photography-6370ea4f8965) on Medium.
-
-**On the software side**, I build things in PHP, Python and Javascript/Typescript
+On the software side, I build things in PHP, Python and Javascript/Typescript
 
 I create documentation and guides as well as code
 
@@ -35,7 +29,7 @@ My online, personal projects include:
 
 ## [Rosetta PPJ](https://parsingphase.dev/rosetta-ppj/) (now with Java added!)
 
-![PHP-Python-Javascript Rosetta](images/PPJ.png))
+![PHP-Python-Javascript Rosetta](images/PPJ.png)
 
  <i class="fab fa-php fa-lg"></i> PHP \| <i class="fab fa-python"></i> Python \| <i class="fab fa-js-square"></i> Javascript \| <i class="fab fa-java"></i> Java
 
