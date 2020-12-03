@@ -1,8 +1,6 @@
 ---
 ---
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
-<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/js/splide.min.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/css/splide.min.css">
 Hi, I'm **Richard**, AKA parsingphase
 
 I take photos as a hobby, and write code as a profession.
@@ -27,11 +25,13 @@ and I were out shooting around once a week - and finding just how close to home 
 This has proven to be more than just a hobby now - it's fresh air, it's family time, but it's also a great collection of images and memories
 that are incredibly calming and satisfying to browse in a difficult year.
 
-Many of these images - back to first picking up a DSLR - can be found at [https://photography.parsingphase.com](https://photography.parsingphase.com). 
+Many of these images - back to first picking up a DSLR - can be found at 
+<i class="fas fa-globe"></i> [https://photography.parsingphase.com](https://photography.parsingphase.com). 
 Some of the best recent wildlife images are collected in my <i class="fab fa-flickr"></i> [Wildlife Showcase](https://www.flickr.com/photos/parsingphase/albums/72157717026953392), mostly
 under a [cc by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/) license.
 
-In addition to the images themselves, I've also given [a talk on the topic](https://www.dropbox.com/s/g5wvf6jg6kpxwep/WildlifePhotographyWithPreamble.pdf)
+In addition to the images themselves, I've also given <i class="far fa-images"></i>
+ [a talk on the topic](https://www.dropbox.com/s/g5wvf6jg6kpxwep/WildlifePhotographyWithPreamble.pdf)
  and written up <i class="fab fa-medium"></i>
 [Some Notes on DSLR Wildlife Photography](https://medium.com/@parsingphase/some-notes-on-wildlife-photography-6370ea4f8965) for new photographers 
 which have proven popular.
