@@ -7,21 +7,7 @@ Hi, I'm **Richard**, AKA parsingphase
 
 I take photos as a hobby, and write code as a profession.
 
-<div class="splide">
-	<div class="splide__track">
-		<ul class="splide__list">
-			<li class="splide__slide">
-<img alt="Cape May Warbler" src="images/capemay.jpg" />
-			</li>
-			<li class="splide__slide">
-<img alt="Red Squirrel" src="images/squirrel.jpg" />
-			</li>
-			<li class="splide__slide">
-<img alt="Quabbin MA" src="images/quabbin.jpg" />
-			</li>
-		</ul>
-	</div>
-</div>
+  {% include carousel.html height="50" unit="%" duration="7" %}
 
 
 
