@@ -9,7 +9,7 @@ I take photos as a hobby, and write code as a profession.
 
 <p class="nav"><a href="/"> <i class="fas fa-laptop-code"></i> Software</a> | <i class="fas fa-camera"></i> Photography</p>
 
-{% include carousel.html height="427" unit="px" duration="7" %}
+{% include carousel.html height="410" unit="px" duration="7" %}
 
 I've been a casual photographer for most of my life, starting with a [Disc Camera](https://clickamericana.com/media/photography/what-happened-to-kodak-disc-camera-debuted-in-1982) when I was about 10.
 I got my first DSLR in about 2005, and it was a background hobby for a few years until lighter devices improved enough to take over and 
