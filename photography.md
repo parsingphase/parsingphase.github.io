@@ -16,8 +16,8 @@ I got my first DSLR in about 2005, and it was a background hobby for a few years
 the DSLRs sat on the shelf for a while.
 
 Roll forward to 2020, a relocation to Massachusetts and COVID precautions resulting in spending a lot of time indoors, watching migratory warblers in
-the maple tree outside our apartment window. Incredibly, the 15-year-old hobbyist DLRs (Canon 350D and 400D, aka Digital Rebel XT and XTi) and cheap 70-300mm 
-zoom still worked perfectly and got some decent (8 Megapixel) shots.
+the maple tree outside our apartment window. Incredibly, the 15-year-old hobbyist DSLRs (Canon 350D and 400D, aka Digital Rebel XT and XTi) and cheap 70-300mm 
+zoom still worked perfectly and got some decent shots (at all of 8 megapixels).
 
 Then, just as the hobby was taking off again, I blew out the USB port, and got to remember the retro "joys" of downloading from a Compact Flash card
 through a card reader. This was the tipping point to getting a new device - and wow, had they improved in 15 years. Shooting with a new Canon EOS 90D, 
