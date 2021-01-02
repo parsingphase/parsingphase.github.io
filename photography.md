@@ -29,17 +29,17 @@ and I were out shooting around once a week - and finding just how close to home 
 This has proven to be more than just a hobby now - it's fresh air, it's family time, but it's also a great collection of
 images and memories that are incredibly calming and satisfying to browse in a difficult year.
 
-Many of these images - back to first picking up a DSLR - can be found at <br />
-<i class="fas fa-globe"></i> [photography.parsingphase.com](https://photography.parsingphase.com). Some of the best
-recent wildlife images are collected in
-my <i class="fab fa-flickr"></i> [Wildlife Showcase](https://www.flickr.com/photos/parsingphase/albums/72157717026953392)
-, mostly under a <i class="fab fa-creative-commons"></i> [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)
-license.
+I've collected my favorites from this first year of wildlife photography at<br />
+<i class="fas fa-globe"></i> [photography.parsingphase.com](https://photography.parsingphase.com). Many more images
+can be found on
+<i class="fab fa-flickr"></i> [my Flickr account](https://www.flickr.com/photos/parsingphase), where many of the 
+wildlife images are available under a 
+<i class="fab fa-creative-commons"></i> [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/) license.
 
 In addition to the images themselves, I've also given <i class="far fa-images"></i>
 [a talk on the topic](https://www.dropbox.com/s/g5wvf6jg6kpxwep/WildlifePhotographyWithPreamble.pdf)
 and written up <i class="fab fa-medium"></i>
-[Some Notes on DSLR Wildlife Photography](https://medium.com/@parsingphase/some-notes-on-wildlife-photography-6370ea4f8965)
+[Some Notes on DSLR Wildlife Photography](https://parsingphase.medium.com/some-notes-on-wildlife-photography-6370ea4f8965)
 for new photographers which have proven popular.
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
