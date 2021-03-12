@@ -31,6 +31,16 @@ a {
   color: #303030
 }
 
+a:hover {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+}
+
+p strong a {
+  font-weight: bold;
+  color: #404040;
+}
+
 header {
   padding: 5px 0;
 }

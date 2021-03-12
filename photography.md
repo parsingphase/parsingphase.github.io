@@ -10,6 +10,11 @@ I take photos as a hobby, and write code as a profession.
 
 {% include carousel.html height="410" unit="px" duration="7" %}
 
+<strong>Are you here because I gave you a card while birding? <br />You might be looking for my main collection at
+<i class="fab fa-flickr"></i> [my Flickr account](https://www.flickr.com/photos/parsingphase).</strong>
+
+---
+
 I've been a casual photographer for most of my life, starting with
 a [Disc Camera](https://clickamericana.com/media/photography/what-happened-to-kodak-disc-camera-debuted-in-1982) when I
 was about 10. I got my first DSLR in about 2005, and it was a background hobby for a few years until lighter devices
