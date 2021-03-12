@@ -8,12 +8,13 @@ I take photos as a hobby, and write code as a profession.
 
 <p class="nav"><i class="fas fa-laptop-code"></i> Software | <a href="/photography.html"> <i class="fas fa-camera"></i> Photography</a></p>
 
-On the software side, I build things in PHP, Python and Javascript/Typescript
+On the software side, I build things in Javascript, Python, PHP and occasionally Java
 
 I create documentation and guides as well as code
-
+        
 Commercially, I've worked for companies including -
 
+- \- [Forcepoint](https://www.forcepoint.com/)
 - \- [The London Internet Exchange](https://www.linx.net)
 - \- [Snatch](https://www.snatchvip.com)
 - \- [Quidco](https://www.quidco.com) 
