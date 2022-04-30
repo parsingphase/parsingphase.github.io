@@ -107,11 +107,10 @@ A management app for a karaoke-style event that I used to run with my wife and f
 - <i class="fab fa-github" title="Source"></i> [https://github.com/MapleSyrupGroup/dbsampler](https://github.com/MapleSyrupGroup/dbsampler)
 
 
-## [Blog](https://phase.org/)
+## Social
 
-Somewhat in hiatus, but the [archive](https://phase.org/blog/archive) has a fair bit of content
-
-- <i class="fas fa-globe"></i> [https://phase.org](https://phase.org/)
+- Twitter: [@parsingphase](https://twitter.com/parsingphase)
+- Mastodon: <a rel="me" href="https://mastodon.social/@parsingphase">@parsingphase@mastodon.social</a>
 
 ---
 
