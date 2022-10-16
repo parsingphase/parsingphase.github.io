@@ -11,7 +11,8 @@ I take photos as a hobby, and write code as a profession.
 {% include carousel.html height="410" unit="px" duration="7" %}
 
 <strong>Are you here because I gave you a card while birding? <br />You might be looking for my main collection at
-<i class="fab fa-flickr"></i> [my Flickr account](https://www.flickr.com/photos/parsingphase).</strong>
+<i class="fab fa-flickr"></i> [my Flickr account](https://www.flickr.com/photos/parsingphase).</strong> or 
+<i class="fa fa-leaf"></i> [my iNaturalist sightings](https://www.inaturalist.org/observations?user_id=parsingphase)
 
 ---
 
