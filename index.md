@@ -4,6 +4,10 @@ description: parsingphase.dev
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 Hi, I'm **Richard**, AKA parsingphase
 
+<strong>Are you here because I gave you a card while birding? <br />You might be looking for my main collection at
+<i class="fab fa-flickr"></i> [my Flickr account](https://www.flickr.com/photos/parsingphase) or 
+<i class="fa fa-leaf"></i> [my iNaturalist sightings](https://www.inaturalist.org/observations?user_id=parsingphase).</strong>
+
 I take photos as a hobby, and write code as a profession.
 
 <p class="nav"><i class="fas fa-laptop-code"></i> Software | <a href="/photography.html"> <i class="fas fa-camera"></i> Photography</a></p>
