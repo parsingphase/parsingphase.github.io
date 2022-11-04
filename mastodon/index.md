@@ -150,6 +150,17 @@ As with instances, you can try one app now and another later (but without having
 
 For more apps, see [joinmastodon.org/apps](https://joinmastodon.org/apps) - make sure you scroll down to "Third-party Apps" to see a wide choice.
 
+# Trivia
+
+## Is there an edit button?
+
+Yes, on some flagship servers that are testing the new v4 Mastodon software. It'll be available to other servers once that server's fully released.
+
+## Is there verification?
+
+Sort-of. There's no "blue tick" to say you've shown someone your ID or paid a few bucks (if you see blue ticks, users have added an emoji to their username). 
+But if you own a website, you can "prove" that you're the owner of that site and it'll be highlighted on your profile.
+
 # Finally
 
 I'm deliberately keeping this guide *really* short, as there are other great ones online. If you want to find me on Mastodon to follow
