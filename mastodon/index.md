@@ -1,6 +1,7 @@
 ---
-description: Mastodon: Day One
+description: Mastodon Day One
 ---
+<style>.inner { width: 80% }</style>
 # Mastodon "Day One" Guide
 
 This guide, focussed towards Twitter migrants, is intended to tell you enough about Mastodon to let you decide whether 

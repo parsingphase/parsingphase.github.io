@@ -32,7 +32,7 @@ Disclaimer - I'm a software developer and systems admin, not a cryptographer. I'
 
 ---
 
-[Back to Mastodon guide](/mastodon)
+[Back to Mastodon guide](/mastodon) |
 [Back to site index](..)
 
 
