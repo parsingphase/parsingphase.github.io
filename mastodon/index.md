@@ -1,5 +1,5 @@
 ---
-description: Mastodon Day One
+description: Mastodon Day One Guide
 ---
 <style>.inner { min-width: 80% }</style>
 
