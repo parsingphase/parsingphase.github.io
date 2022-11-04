@@ -1,7 +1,6 @@
 ---
 description: Social Media DM Security
 ---
-
 # Social Media DM Security
 
 (NB - this is copied from a twitter thread I wrote, I'll tidy it up a bit over time)
@@ -31,6 +30,9 @@ That doesn't mean you *have* to run your own server to be "secure"; frankly for 
 
 Disclaimer - I'm a software developer and systems admin, not a cryptographer. I'm sure there's a thousand technical "yeah, but"s out there. But for the average social media user, the above is a reasonable grounding.
 
+---
 
+[Back to Mastodon guide](/mastodon)
+[Back to site index](..)
 
 

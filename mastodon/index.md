@@ -1,7 +1,6 @@
 ---
 description: Mastodon: Day One
 ---
-
 # Mastodon "Day One" Guide
 
 This guide, focussed towards Twitter migrants, is intended to tell you enough about Mastodon to let you decide whether 
@@ -155,4 +154,6 @@ Those other guides include:
 - [(An Increasingly Less-Brief) Guide To Mastodon](http://guidetomastodon.com)
 - [Fedi.tips](https://fedi.tips/)
 
+---
 
+[Back to site index](..)
