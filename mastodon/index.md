@@ -120,6 +120,13 @@ The general purpose answer to a lot of things in the web interface of most Masto
 - \- Browse the "explore", "local" or "federated" feeds of your site
 - \- Check our directories like [Fedi.directory](https://fedi.directory/)  
 
+## Do people have to approve my follow requests?
+
+It varies by server, and users can set this setting for themselves, but in most cases, you won't need a user's permission to follow them.
+However! When you follow someone on a slower server (and some of the larger servers such as Mastodon.social are currently struggling to
+cope with the Twitter inrush), it can take a while for that remote server to confirm a successful follow. In the meantime, that user
+will show as "awaiting follow permission" or similar, while the servers sync up.
+
 # What next?
 
 Dive in and enjoy, but please remember: Mastodon's instances are more than just lifeboats for Twitter. They're pre-existing communities with their own rules and conventions - please try to follow them. 
