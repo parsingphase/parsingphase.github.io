@@ -1,7 +1,7 @@
 ---
 description: 'Mastodon "Day One" Guide'
 ---
-<style>.body { color: #000 } .inner { min-width: 80% }</style>
+<style>body { color: #000 } .inner { min-width: 80% }</style>
 
 This guide, focussed towards Twitter migrants, is intended to tell you enough about Mastodon to let you decide whether 
 to create an account, and if so, to get started, all in well under an hour.
