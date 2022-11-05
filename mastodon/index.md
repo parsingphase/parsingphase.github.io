@@ -14,7 +14,7 @@ It is *not* an in-depth guide, but I'll provide links to more advanced ones at t
 Essentially, it's "like Twitter, but distributed". Twitter you probably know, but what does "distributed" (or
 commonly, "federated") mean here?
 
-- \- Twitter runs on multiple, separate systems called "instances" each with their own web address, as opposed to
+- \- Mastodon runs on multiple, separate systems called "instances" each with their own web address, as opposed to
   Twitter which runs on one central system at Twitter.com
 
 - \- Each of these instances is run by a different group, mostly non-profit or community, so the whole thing isn't under
