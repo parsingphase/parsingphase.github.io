@@ -11,8 +11,10 @@ It is *not* an in-depth guide, but I'll provide links to more advanced ones at t
 
 # What *is* Mastodon?
 
-Essentially, it's "like Twitter, but distributed". Twitter you probably know, but what does "distributed" (or
-commonly, "federated") mean here?
+Essentially, it's "like Twitter, but distributed". Like Twitter, content is public by default, open to the world, and
+you can read such anyone's public content without signing up to anything.
+
+The differences are that it's non-commercial, and distributed (or "federated"). What does that mean?
 
 - \- Mastodon runs on multiple, separate systems called "instances" each with their own web address, as opposed to
   Twitter which runs on one central system at Twitter.com
@@ -20,7 +22,7 @@ commonly, "federated") mean here?
 - \- Each of these instances is run by a different group, mostly non-profit or community, so the whole thing isn't under
   the control of one company, and can't suddenly all change hands at once.
 
-Once you're on it… it feels pretty much like Twitter, but less commercialized.
+Once you're on it… it feels pretty much like Twitter, but with no ads or algorithms.
 
 # Before I dive in…
 
@@ -36,10 +38,14 @@ this, or anything else, before you sign up - which doesn't feel like a great exp
 
 Personally I would (and did) just create a Mastodon account on a less self-consciously edgy server.
 
-### Cohost.org
+### cohost
 
-I've not used this, but my understanding is that it doesn't communicate with Mastodon. If you want both a Cohost and
-Mastodon account, there's no reason you can't.
+Cohost also doesn't expose any of its posts, or much detail on its services, to the public. Its Terms of Service however
+make clear that it's set up as a walled garden intended as a place for users to sell content to each other.
+While this does give them a revenue stream that's not ad-dependant, this is clearly a single-company, non-interoperable
+commercial product.
+
+As a closed, age-limited community, this doesn't feel like a direct alternative to either Twitter or Mastodon.
 
 ## Concerns
 
@@ -52,18 +58,19 @@ want more detail, read [Social Media DM Security](socialMediaDMSecurity.md)
 
 ### Speed & reliability
 
-Right now, a lot of people are moving from Twitter either into entirely new accounts, or into accounts they've not used
-much previously, and some of the servers are running very slow or throwing errors. This shouldn't put you off joining,
-and you should find the experience improving as time passes.
+Right now, a lot of people are moving from Twitter either into entirely new accounts, or into accounts that have sat
+idle for years, and the resulting surge in load means some of the servers are running very slow or throwing errors.
+However, this shouldn't put you off joining, and you should find the experience improves as the instances scale up.
+A lot of instance admins are doing incredible work to make this happen.
 
 ### Adult or aggressive content
 
 All human life is on Mastodon, for better or worse, and the federation system both supports and deals with this. All
 instances have their own moderators, usually fairly explicit in their rules and beliefs, and they will deal with issues
-within their own instances. And while there are almost certainly Nazi and similar instances out there (because humans),
-you can generally avoid their content by simply not creating your account on one of them. While the federation system
-means that all instances *can* intercommunicate, it doesn't mean they have to, meaning that instances can - and do -
-block whole communities of objectionable imbeciles from sharing their content.
+within their own instances. While there are, unfortunately, Nazi and similar instances out there (because humans),
+you can generally avoid that content by simply not creating your account on one, because most instances simply cut off
+communication with them. While the federation system means that all instances *can* intercommunicate, it doesn't mean
+they have to, and blocking an instance is an easy way to isolate aggressors en-masse.
 
 On the flip side, this also means some instances very explicitly allow adult content. The extent to which this content
 is federated varies, and you won't generally be flooded with adult material on a general instance, but if you want to
@@ -126,6 +133,7 @@ all other Mastodon users:
 
 - \- [Mastodon.Scot](https://mastodon.scot/about)
 - \- [Toot.Wales](https://toot.wales/about)
+- \- [Mastodon.IE (Ireland)](https://mastodon.ie/about)
 - \- [Mastodon.Uno (Italy)](https://mastodon.uno/about)
 - \- [Masto.PT (Portugal)](https://masto.pt/about)
 - \- [Mastodon.Top (France)](https://mastodon.top/about)
@@ -141,7 +149,7 @@ old account to a future one later on.
 
 # How do I create an account?
 
-There should be a "sign up" button or form somewhere on the server's main or 'About' page. 
+There should be a "sign up" button or form somewhere on the server's main or 'About' page.
 It varies in location depending on the version of the software they're running.
 
 ## Can I have the same username as I did on Twitter?
