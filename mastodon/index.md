@@ -32,20 +32,47 @@ There are a few sites often suggested as alternatives:
 
 I keep referring to CounterSocial as "Mastodon in a Trenchcoat". It's essentially Mastodon under the hood, and you can
 communicate with any other CounterSocial account from any Mastodon account, and vice-versa. It's just quite hard to see
-this, or anything else, before you sign up - which doesn't feel like a great experience to me. Personally I would (and
-did) just create a Mastodon account on a less self-consciously edgy server.
+this, or anything else, before you sign up - which doesn't feel like a great experience to me.
+
+Personally I would (and did) just create a Mastodon account on a less self-consciously edgy server.
 
 ### Cohost.org
 
 I've not used this, but my understanding is that it doesn't communicate with Mastodon. If you want both a Cohost and
-Mastodon acocunt, there's no reason you can't.
+Mastodon account, there's no reason you can't.
 
 ## Concerns
 
+### Security
+
 You might have head that "Mastodon admins can read your DMs".
 
-The short answer: Yes, if they really want to, but so can Twitter's. I'm not worrying about it, but if you want more
-detail, read [Social Media DM Security](socialMediaDMSecurity.md)
+The short answer: Yes, if they really want to, but so can Twitter's & Facebook's. I'm not worrying about it, but if you
+want more detail, read [Social Media DM Security](socialMediaDMSecurity.md)
+
+### Speed & reliability
+
+Right now, a lot of people are moving from Twitter either into entirely new accounts, or into accounts they've not used
+much previously, and some of the servers are running very slow or throwing errors. This shouldn't put you off joining,
+and you should find the experience improving as time passes.
+
+### Adult or aggressive content
+
+All human life is on Mastodon, for better or worse, and the federation system both supports and deals with this. All
+instances have their own moderators, usually fairly explicit in their rules and beliefs, and they will deal with issues
+within their own instances. And while there are almost certainly Nazi and similar instances out there (because humans),
+you can generally avoid their content by simply not creating your account on one of them. While the federation system
+means that all instances *can* intercommunicate, it doesn't mean they have to, meaning that instances can - and do -
+block whole communities of objectionable imbeciles from sharing their content.
+
+On the flip side, this also means some instances very explicitly allow adult content. The extent to which this content
+is federated varies, and you won't generally be flooded with adult material on a general instance, but if you want to
+join a sex-positive instance (possibly in addition to another more public account), you can do so without the fear that
+advertisers will be pushing it to become "family friendly".
+
+One thing to remember is that Mastodon servers are run by different communities all around the world, all with local
+laws and norms. Many are in Europe, where the sort of free-speech absolutism that protects violent or hate-speech isn't
+prevalent, and most particularly in Germany, which has strong laws against Nazi content.
 
 # How do I get an account?
 
@@ -154,12 +181,9 @@ to follow an account with a very useful set of daily tips.
 ## Do people have to approve my follow requests?
 
 It varies by server, and users can set this setting for themselves, but in most cases, you won't need a user's
-permission to follow them.
-However! When you follow someone on a slower server (and some of the larger servers such as Mastodon.social are
-currently struggling to
-cope with the Twitter inrush), it can take a while for that remote server to confirm a successful follow. In the
-meantime, that user
-will show as "awaiting follow permission" or similar, while the servers sync up.
+permission to follow them. However, because of the speed issues mentioned above, if you follow someone on one of the
+busiest servers from elsewhere, you might see them as "pending approval" for a bit, while the remote server gets around
+to processing and confirming that "follow".
 
 # What next?
 
@@ -201,7 +225,7 @@ that server's fully released.
 ## Is there verification?
 
 Sort-of. There's no "blue tick" to say you've shown someone your ID or paid a few bucks (if you see blue ticks, users
-have added an emoji to their username).
+have added an emoji to their username, as a bit of an in-joke).
 But if you own a website, you can "prove" that you're the owner of that site and it'll be highlighted on your profile.
 
 # Finally
@@ -218,4 +242,4 @@ Those other guides include:
 
 ---
 
-[Back to site index](..)
+[Back to site index](..) | [Changelog](https://github.com/parsingphase/parsingphase.github.io/commits/main/mastodon/index.md)
