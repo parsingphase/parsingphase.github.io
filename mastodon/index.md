@@ -1,5 +1,6 @@
 ---
 description: 'Mastodon "Day One" Guide'
+title: 'Mastodon "Day One" Guide'
 ---
 <style>body { color: #000 } .inner { min-width: 80% } a { color: #d5000d }</style>
 
