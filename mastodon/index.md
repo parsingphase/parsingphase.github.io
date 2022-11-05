@@ -158,7 +158,8 @@ you can choose a `username` that matches what you had on Twitter.
 - \- Follow people
 
 Strictly, you can do these in any order, but if you do them in the order above, it'll give people more idea who just
-followed them and you'll be more likely to get a follow back.
+followed them and you'll be more likely to get a follow back. If you're short on inspiration for your bio, or can't
+find that perfect profile / header pic, just grab the ones from your Twitter account until you get a chance to update!
 
 The bio and first post are easy. Finding people is a little trickier.
 
