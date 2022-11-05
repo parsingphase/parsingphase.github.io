@@ -104,9 +104,8 @@ anyone whose account is on a different instance, almost as if you were on the sa
 means later, but it's not a major issue).
 
 You can think of it a bit like email: you can log onto Hotmail, I can log onto GMail, and we can both communicate with
-each other by letting
-the server sort out where to hand the messages. This is the key difference from Twitter: on Twitter, you go to the site
-with the messages, on Mastodon the messages come to your site.
+each other by letting the servers sort out where to send the messages. This is the key difference from Twitter: on
+Twitter, you go to the site with the messages, on Mastodon the messages come to your site.
 
 If you find later that you'd rather be on another instance, you can very easily move, so the important thing is really
 just to pick one and dive in. For example, I started off on [Mastodon.Social](https://mastodon.social/), left the
@@ -120,6 +119,9 @@ account: [@parsingphase@mastodon.social](https://mastodon.social/@parsingphase).
 
 Short answer: If you know someone who already has an account and they say their server works, and they can either invite
 you or the server is open, join them.
+
+Rather helpfully, the [Debirdify](https://pruvisto.org/debirdify/) tool can not only tell you which instances your
+Twitter friends and followers are using, but find their Mastodon accounts for you, if they've surfaced that data.
 
 Otherwise, pick one of these general-purpose servers at random, which are accepting self-signups at the time of writing:
 
@@ -173,17 +175,18 @@ The bio and first post are easy. Finding people is a little trickier.
 
 # How do I find people to follow?
 
-## How do I find my Twitter friends on Mastodon?
+## How do I follow my Twitter friends on Mastodon?
 
-Visit [Debirdify](https://pruvisto.org/debirdify/) and hit "Authorise with Twitter". This will ask to use your twitter
-access to scan through the bios and pinned posts of everyone you follow to find any that include a Mastodon address. If
-it finds any, it'll then let you download a list that you can import into your Mastodon account at Preferences => Import
-and export => Import.
+As mentioned above, [Debirdify](https://pruvisto.org/debirdify/) has a few handy tricks in this area.
+Visit the site and hit "Authorise with Twitter", and it will ask to use your Twitter access to scan through the bios and
+pinned posts of everyone you follow to find any that include a Mastodon address.
+If it finds any, it'll then let you download a list that you can import into your Mastodon account at `Preferences` =>
+`Import and export` => `Import` to follow them en-masse.
 
 [Fedifinder](https://fedifinder.glitch.me/) will also generate a similar list, with slightly different options.
 
-To make yourself findable by these tools (and by your twitter friends), add your full account name
-(`@username@host.tld`, eg `me@mastodon.online`) to your twitter bio. This lets the tools find you, but doesn't give
+To make yourself findable by these tools (and by your Twitter friends), add your full account name
+(`@username@host.tld`, eg `me@mastodon.online`) to your Twitter bio. This lets the tools find you, but doesn't give
 visitors a clickable link. For that, add the address of your Mastodon profile (eg `mastodon.online/@me`).
 
 ## How do I follow someone whose address I know?
