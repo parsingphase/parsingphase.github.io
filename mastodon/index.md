@@ -163,9 +163,9 @@ and export => Import.
 
 [Fedifinder](https://fedifinder.glitch.me/) will also generate a similar list, with slightly different options.
 
-To make yourself findable by these tools (and by your twitter friends), add your full account name (`@username@host.tld`
-, eg `me@mastodon.online`) to your twitter bio. This lets the tools find you, but doesn't give visitors a clickable
-link. For that, add the address of your Mastodon profile (eg `mastodon.online/@me`).
+To make yourself findable by these tools (and by your twitter friends), add your full account name
+(`@username@host.tld`, eg `me@mastodon.online`) to your twitter bio. This lets the tools find you, but doesn't give
+visitors a clickable link. For that, add the address of your Mastodon profile (eg `mastodon.online/@me`).
 
 ## How do I follow someone whose address I know?
 
@@ -177,6 +177,9 @@ to follow an account with a very useful set of daily tips.
 
 - \- Browse the "explore", "local" or "federated" feeds of your site
 - \- Check our directories like [Fedi.directory](https://fedi.directory/)
+- \- Search for hashtags. Mastodon doesn't have a full-text search function (this would be near impossible in a
+  federated system), but you can search by hashtag. Also, make liberal use of **relevant** hashtags in your own posts to
+  let them and you be found.
 
 ## Do people have to approve my follow requests?
 
@@ -188,11 +191,12 @@ to processing and confirming that "follow".
 # What next?
 
 Dive in and enjoy, but please remember: Mastodon's instances are more than just lifeboats for Twitter. They're
-pre-existing communities with their own rules and conventions - please try to follow them.
-Fortunately the rules are generally short, and not onerous.
+pre-existing communities with their own rules and conventions, and generally a higher "duty of care" for each other.
+Please help maintain these conventions to keep Mastodon a healthy and inclusive place.
 
-The conventions aren't difficult either, but please:
+So, please:
 
+- \- Read and follow your local instance's rules
 - \- Add Alt Text to all your images
 - \- Use #CamelCase to make hashtags easier to read, and clearer for screen readers
 - \- Use the "Content Warning" function where appropriate.
@@ -200,10 +204,11 @@ The conventions aren't difficult either, but please:
 It's also worth remembering that Mastodon is non-commercial, it's not selling adverts or blue ticks, and running servers
 and developing software cost money.
 If you can afford it, you're heartily encouraged to send a few bucks a month to your server host via their tip jar if
-they have one on their home page, or, if you want to support development of the software itself and some of the "
-flagship" servers, you can support [Mastodon on Patreon](https://www.patreon.com/mastodon). This will help keep the
-servers running and managed, and stave off commercial pressures. Of course, if you can't afford it, or don't know if you
-want to yet, there's no obligation, and no way of seeing if a given account does or not.
+they have one (most do and it'll usually be on the `/about` page rather than the homepage), or, if you want to support
+development of the software itself and some of the "flagship" servers, you can support
+[Mastodon on Patreon](https://www.patreon.com/mastodon). This will help keep the servers running and managed, and stave
+off commercial pressures. Of course, if you can't afford it, or don't know if you want to yet, there's no obligation,
+and no way of seeing if a given account does or not.
 
 ## Use an app on your phone or tablet
 
@@ -242,4 +247,5 @@ Those other guides include:
 
 ---
 
-[Back to site index](..) | [Changelog](https://github.com/parsingphase/parsingphase.github.io/commits/main/mastodon/index.md)
+[Back to site index](..)
+| [Changelog](https://github.com/parsingphase/parsingphase.github.io/commits/main/mastodon/index.md)
