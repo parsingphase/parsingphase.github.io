@@ -185,6 +185,9 @@ If it finds any, it'll then let you download a list that you can import into you
 
 [Fedifinder](https://fedifinder.glitch.me/) will also generate a similar list, with slightly different options.
 
+At the moment, it's worth repeating the search and import every few days, as more and more twitter users move and share
+their Mastodon accounts.
+
 To make yourself findable by these tools (and by your Twitter friends), add your full account name
 (`@username@host.tld`, eg `me@mastodon.online`) to your Twitter bio. This lets the tools find you, but doesn't give
 visitors a clickable link. For that, add the address of your Mastodon profile (eg `mastodon.online/@me`).
