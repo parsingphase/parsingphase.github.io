@@ -111,15 +111,25 @@ account: [@parsingphase@mastodon.social](https://mastodon.social/@parsingphase).
 
 # OK, so how do I find a first instance?
 
-Short answer: If you know someone who already has an account and they say their server works,
-and they can either invite you or the server is open, join them.
+Short answer: If you know someone who already has an account and they say their server works, and they can either invite
+you or the server is open, join them.
 
-Otherwise, pick one of these large, open (at the time of writing), general-purpose servers at random:
+Otherwise, pick one of these general-purpose servers at random, which are accepting self-signups at the time of writing:
 
-- \- [Mstdn.social](https://mstdn.social/)
-- \- [Mastodon.online](https://mastodon.online/)
-- \- [Mas.to](https://mas.to/)
-- \- [C.IM](https://c.im/)
+- \- [Mstdn.social](https://mstdn.social/about)
+- \- [Mastodon.online](https://mastodon.online/about)
+- \- [Mas.to](https://mas.to/about)
+- \- [C.IM](https://c.im/about)
+
+Or one of these smaller, regional ones, which are sometimes less heavily loaded, but can still fully interconnect with
+all other Mastodon users:
+
+- \- [Mastodon.Scot](https://mastodon.scot/about)
+- \- [Toot.Wales](https://toot.wales/about)
+- \- [Mastodon.Uno (Italy)](https://mastodon.uno/about)
+- \- [Masto.PT (Portugal)](https://masto.pt/about)
+- \- [Mastodon.Top (France)](https://mastodon.top/about)
+- \- [Social.tchncs (Germany)](https://social.tchncs.de/about)
 
 Less direct answer: Take a look at one of the following lists and pick one that's open and looks interesting.
 
@@ -131,8 +141,8 @@ old account to a future one later on.
 
 # How do I create an account?
 
-There should be a "sign up" button or form somewhere on the server's main page. It varies in location depending on the
-version of the software they're running.
+There should be a "sign up" button or form somewhere on the server's main or 'About' page. 
+It varies in location depending on the version of the software they're running.
 
 ## Can I have the same username as I did on Twitter?
 
@@ -236,8 +246,7 @@ But if you own a website, you can "prove" that you're the owner of that site and
 # Finally
 
 I'm deliberately keeping this guide *really* short, as there are other great ones online. If you want to find me on
-Mastodon to follow
-(you'll get a daily feed of pretty decent wild bird photography, for a start), or to ask questions,
+Mastodon to follow (you'll get a daily feed of pretty decent wild bird photography, for a start), or to ask questions,
 I'm at [@parsingphase@m.phase.org](https://m.phase.org/@parsingphase).
 
 Those other guides include:
