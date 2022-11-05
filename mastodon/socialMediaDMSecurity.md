@@ -2,6 +2,8 @@
 description: Social Media DM Security
 title: Social Media DM Security
 ---
+<style>body { color: #000 } .inner { min-width: 80% } a { color: #d5000d }</style>
+
 I'm not quite sure why there's quite so much energy being put into knocking Mastodon, but the two favorite scare stories
 see to be "It's hard" (Nope, you can probably [get running in 30 minutes](/mastodon)) and
 "Instance admins can read your DMs" (so can Facebook's & Twitter's, and your Email provider's can read your unencrypted
