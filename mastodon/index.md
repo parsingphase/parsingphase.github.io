@@ -125,14 +125,17 @@ Twitter friends and followers are using, but find their Mastodon accounts for yo
 
 Otherwise, pick one of these general-purpose servers at random, which are accepting self-signups at the time of writing:
 
-- \- [Mstdn.social](https://mstdn.social/about)
 - \- [Mastodon.online](https://mastodon.online/about)
-- \- [Mas.to](https://mas.to/about)
 - \- [C.IM](https://c.im/about)
+- \- [Mastodon.cloud](https://mastodon.cloud/about)
 
-Or one of these smaller, regional ones, which are sometimes less heavily loaded, but can still fully interconnect with
-all other Mastodon users:
+Note that with the surge of users from Twitter, many servers are having to temporarily limit signups. This list may
+change or become outdated frequently.
 
+You can also consider one of these smaller, regional instances, which are sometimes less heavily loaded, but can still
+fully interconnect with all other Mastodon users:
+
+- \- [Mastodonapp.UK](https://mastodonapp.uk/about)
 - \- [Mastodon.Scot](https://mastodon.scot/about)
 - \- [Toot.Wales](https://toot.wales/about)
 - \- [Mastodon.IE (Ireland)](https://mastodon.ie/about)
@@ -141,13 +144,15 @@ all other Mastodon users:
 - \- [Mastodon.Top (France)](https://mastodon.top/about)
 - \- [Social.tchncs (Germany)](https://social.tchncs.de/about)
 
-Less direct answer: Take a look at one of the following lists and pick one that's open and looks interesting.
+Less direct answer (but more reliable long-term): Take a look at one of the following lists and pick one that's open and
+looks interesting.
 
 - \- [joinmastodon.org/servers](https://joinmastodon.org/servers)
 - \- [instances.social](https://instances.social/)
 
 Remember… you can choose a new server in future if you want; you're not limited to one account, and you can redirect an
-old account to a future one later on.
+old account to a future one later on. Whichever server you choose, please make sure you read their rules and policies to
+avoid surprises later.
 
 # How do I create an account?
 
@@ -156,7 +161,7 @@ It varies in location depending on the version of the software they're running.
 
 ## Can I have the same username as I did on Twitter?
 
-Well… sort-of. Mastodon names are always two parts: `@username@host.tld`, where `user` is for you to choose,
+Well… sort-of. Mastodon names are always two parts: `@username@host.tld`, where `username` is for you to choose,
 and `host.tld` is the server's address, used by other servers and tools to find your account. You'll always need to
 share the account in this full form; if you just give the username, people won't find you. That said though, chances are
 you can choose a `username` that matches what you had on Twitter.
