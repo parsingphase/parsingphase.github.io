@@ -195,7 +195,7 @@ At the moment, it's worth repeating the search and import every few days, as mor
 their Mastodon accounts.
 
 To make yourself findable by these tools (and by your Twitter friends), add your full account name
-(`@username@host.tld`, eg `me@mastodon.online`) to your Twitter bio. This lets the tools find you, but doesn't give
+(`@username@host.tld`, eg `@me@mastodon.online`) to your Twitter bio. This lets the tools find you, but doesn't give
 visitors a clickable link. For that, add the address of your Mastodon profile (eg `mastodon.online/@me`).
 
 ## How do I follow someone whose address I know?
@@ -256,7 +256,7 @@ Apps" to see a wide choice.
 ## Is there an edit button?
 
 Yes, on some flagship servers that are testing the new v4 Mastodon software. It'll be available to other servers once
-that server's fully released.
+that version is fully released.
 
 ## Is there verification?
 
