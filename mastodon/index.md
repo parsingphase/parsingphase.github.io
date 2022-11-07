@@ -128,6 +128,7 @@ Otherwise, pick one of these general-purpose servers at random, which are accept
 - \- [Mastodon.online](https://mastodon.online/about)
 - \- [C.IM](https://c.im/about)
 - \- [Mastodon.cloud](https://mastodon.cloud/about)
+- \- [Masto.AI](https://masto.ai/about) - a second server from the admin behind the popular but overloaded Mstdn.social
 
 Note that with the surge of users from Twitter, many servers are having to temporarily limit signups. This list may
 change or become outdated frequently.
