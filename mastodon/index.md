@@ -32,11 +32,12 @@ There are a few sites often suggested as alternatives:
 
 ### CounterSocial
 
-I keep referring to CounterSocial as "Mastodon in a Trenchcoat". It's essentially Mastodon under the hood, and you can
-communicate with any other CounterSocial account from any Mastodon account, and vice-versa. It's just quite hard to see
-this, or anything else, before you sign up - which doesn't feel like a great experience to me.
-
-Personally I would (and did) just create a Mastodon account on a less self-consciously edgy server.
+CounterSocial is a Mastodon-based service whose admins had a public falling-out with the lead developer of Mastodon,
+copied the code and tried to remove the sharing features and turn it into a closed-by-default service. Strangely, 
+CounterSocial profiles still advertise themselves as standard Mastodon ones for wider access, and private pages are 
+very weakly protected. The backstory and obvious software issues mean that I suggest people avoid this service; if you
+want public sharing, use a public Mastodon instance, and if you want a closed system, use one designed that way in the 
+first place.
 
 ### cohost
 
