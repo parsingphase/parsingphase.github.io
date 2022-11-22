@@ -126,7 +126,6 @@ Twitter friends and followers are using, but find their Mastodon accounts for yo
 
 Otherwise, pick one of these general-purpose servers at random, which are accepting self-signups at the time of writing:
 
-- \- [Mastodon.online](https://mastodon.online/about)
 - \- [C.IM](https://c.im/about)
 - \- [Mastodon.cloud](https://mastodon.cloud/about)
 - \- [Masto.AI](https://masto.ai/about) - a second server from the admin behind the popular but overloaded Mstdn.social
@@ -203,7 +202,12 @@ visitors a clickable link. For that, add the address of your Mastodon profile (e
 
 The general purpose answer to a lot of things in the web interface of most Mastodon websites is "stick it in the search
 bar". For example, if you paste `@feditips@mstdn.social` into the search bar and hit search, it'll give you the chance
-to follow an account with a very useful set of daily tips.
+to follow an account with a very useful set of daily tips. This also generally works with the URL of a user's profile 
+page, which can be useful if the address itself isn't clear.
+
+Another alternative, if you want to follow someone from their profile page that's not on your server, is to use the 
+[Mastodon "Instance Changer" bookmarklet](https://homepages.inf.ed.ac.uk/imurray2/code/mastodon.html), which smooths out
+a lot of the friction caused by Mastodon's multi-server nature.
 
 ## How do I find new people?
 
@@ -256,8 +260,8 @@ Apps" to see a wide choice.
 
 ## Is there an edit button?
 
-Yes, on some flagship servers that are testing the new v4 Mastodon software. It'll be available to other servers once
-that version is fully released.
+Yes, on some servers that have upgraded to the new v4 Mastodon software. It'll be available to other servers as they
+upgrade.
 
 ## Is there verification?
 
