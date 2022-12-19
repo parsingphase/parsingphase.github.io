@@ -191,6 +191,8 @@ If it finds any, it'll then let you download a list that you can import into you
 
 [Fedifinder](https://fedifinder.glitch.me/) will also generate a similar list, with slightly different options.
 
+If you'd prefer a more guided / mobile-friendly version without having to download & upload files: [MoveToDon](https://www.movetodon.org/).
+
 At the moment, it's worth repeating the search and import every few days, as more and more Twitter users move and share
 their Mastodon accounts.
 
