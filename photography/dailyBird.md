@@ -1,6 +1,6 @@
 ---
-description: #DailyBird
-title: #DailyBird | parsingphase.dev
+description: "#DailyBird"
+title: "#DailyBird | parsingphase.dev"
 ---
 
 # Posting a bird photo a day, 365 days a year
