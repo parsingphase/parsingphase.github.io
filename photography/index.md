@@ -1,7 +1,7 @@
 ---
 description: parsingphase.dev 
 title: Photography
-redirect: /photography/
+permalink: /photography
 ---
 Hi, I'm **Richard**, AKA parsingphase
 
