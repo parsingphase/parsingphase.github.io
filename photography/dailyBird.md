@@ -1,7 +1,8 @@
 ---
 description: "#DailyBird"
-title: "#DailyBird | parsingphase.dev"
+title: "#DailyBird"
 ---
+<style>ul li { list-style-position: inherit; list-style-type: disc; padding-left: 0.5em; }</style>
 
 # Posting a bird photo a day, 365 days a year
 
