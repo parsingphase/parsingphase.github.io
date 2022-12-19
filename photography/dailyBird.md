@@ -1,6 +1,6 @@
 ---
-description: parsingphase.dev
-title: #DailyBird
+description: #DailyBird
+title: #DailyBird | parsingphase.dev
 ---
 
 # Posting a bird photo a day, 365 days a year
@@ -46,14 +46,14 @@ Extract EXIF data such as the camera, lens and settings used, and process those 
 
 The above tools result in a 26-column spreadsheet describing every detail of a given set of images. This gives me a document to which I can add custom manual descriptions for each line, with the photo in front of me. As you can imagine, adding a description to each of 365 files takes a while, but once I've done this I can shuffle the contents and add a posting date to each, and the revised spreadsheet can be used as the input for the lambda. It's triggered once per day and simply scans the spreadsheet for the matching posting date, then combines these into a post and publishes them.
 
-Feedback on those descriptions is greatly welcomed as I've limited expertise in such areas of accessibility.
+Feedback on those descriptions is greatly welcomed as I've limited expertise in such areas of accessibility. Part of my intent in putting the effort into describing so many images is to help normalize the usage of such descriptions across the Fediverse.
 
 ## Image usage
 
 The images are posted on Mastodon primarily for enjoyment. Each is watermarked with my website/email and licenced as [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/4.0/). This allows viewers to view and share the images, but prevents modification of any sort (including removing or obscuring the watermark) or any sort of commercial usage. It also specifies that the image is attributed to me (also handled by the watermark).
 
 These terms apply specifically to the copy of the image obtained from social media in this way, although other sources of my images have similar requirements.
-However, many of these images are available under other (generally non-commercial) terms. For example I've agree to their usage by local community journalists, by environmental educators, and on podcasts. In general, if I am able to grant non-commercial usage rights, I'm generally happy to do so, although it's important to verify this on a per-image basis, as some may have been taken in locations that do not allow such usage without licencing agreements with the landowners. As I have no intent at this time to make any money from my photography, I have no interest in dealing with such complexities.
+However, many of these images are available under other (generally non-commercial) terms. For example I've agreed to their usage by local community journalists, by environmental educators, and on podcasts. In general, if I am able to grant non-commercial usage rights, I'm generally happy to do so, although it's important to verify this on a per-image basis, as some may have been taken in locations that do not allow such usage without licencing agreements with the landowners. As I have no intent at this time to make any money from my photography, I have no interest in dealing with such complexities.
 
 Nevertheless, I have occasionally been asked if I will sell prints of my images. Again I have no intention to do so directly, but occasionally I may allow printing of unencumbered images in return for a donation to a named charity or organization.
 
