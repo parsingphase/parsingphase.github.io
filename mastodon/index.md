@@ -124,14 +124,10 @@ you or the server is open, join them.
 Rather helpfully, the [Debirdify](https://pruvisto.org/debirdify/) tool can not only tell you which instances your
 Twitter friends and followers are using, but find their Mastodon accounts for you, if they've surfaced that data.
 
-Otherwise, pick one of these general-purpose servers at random, which are accepting self-signups at the time of writing:
+Otherwise, there are a few larger servers which are accepting self-signups at the time of writing, including:
 
 - \- [C.IM](https://c.im/about)
-- \- [Mastodon.cloud](https://mastodon.cloud/about)
-- \- [Masto.AI](https://masto.ai/about) - a second server from the admin behind the popular but overloaded Mstdn.social
-
-Note that with the surge of users from Twitter, many servers are having to temporarily limit signups. This list may
-change or become outdated frequently.
+- \- [Masto.AI](https://masto.ai/about) 
 
 You can also consider one of these smaller, regional instances, which are sometimes less heavily loaded, but can still
 fully interconnect with all other Mastodon users:
