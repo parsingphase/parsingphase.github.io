@@ -128,6 +128,7 @@ Otherwise, there are a few larger servers which are accepting self-signups at th
 
 - \- [C.IM](https://c.im/about)
 - \- [Masto.AI](https://masto.ai/about) 
+- \- [Federate.Social](https://federate.social/about)
 
 You can also consider one of these smaller, regional instances, which are sometimes less heavily loaded, but can still
 fully interconnect with all other Mastodon users:
