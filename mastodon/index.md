@@ -4,15 +4,16 @@ title: 'Mastodon "Day One" Guide'
 ---
 <style>body { color: #000 } .inner { min-width: 80% } a { color: #d5000d }</style>
 
-This guide, focussed towards Twitter migrants, is intended to tell you enough about Mastodon to let you decide whether
-to create an account, and if so, to get started, all in well under an hour.
+This guide, focussed towards Twitter / "𝕏" migrants, is intended to tell you enough about Mastodon to let you decide 
+whether to create an account, and if so, to get started, all in well under an hour.
 
 It is *not* an in-depth guide, but I'll provide links to more advanced ones at the end.
 
 # What *is* Mastodon?
 
-Essentially, it's "like Twitter, but distributed". Like Twitter, content is public by default, open to the world, and
-you can read such anyone's public content without signing up to anything.
+Essentially, it's "like Twitter (or rather, like it was before its technical and social suicide), but distributed". 
+Content is public by default, open to the world, and you can read such anyone's public content without signing up to 
+anything.
 
 The differences are that it's non-commercial, and distributed (or "federated"). What does that mean?
 
@@ -22,7 +23,7 @@ The differences are that it's non-commercial, and distributed (or "federated"). 
 - \- Each of these instances is run by a different group, mostly non-profit or community, so the whole thing isn't under
   the control of one company, and can't suddenly all change hands at once.
 
-Once you're on it… it feels pretty much like Twitter, but with no ads or algorithms.
+Once you're on it… it feels pretty much like Twitter used to, but with no ads or algorithms.
 
 # Before I dive in…
 
@@ -48,6 +49,12 @@ commercial product.
 
 As a closed, age-limited community, this doesn't feel like a direct alternative to either Twitter or Mastodon.
 
+### Threads & BlueSky
+
+These are both commercial services where your interactions are subject to algorithmic control, created and run by the 
+same techbros who created Facebook and Bluesky, with the same underlying politics. Neither of these services appear 
+fully-featured or fully-functional at this time, and neither - yet - allow you to connect to other services.
+
 ## Concerns
 
 ### Security
@@ -59,10 +66,10 @@ want more detail, read [Social Media DM Security](socialMediaDMSecurity.md)
 
 ### Speed & reliability
 
-Right now, a lot of people are moving from Twitter either into entirely new accounts, or into accounts that have sat
-idle for years, and the resulting surge in load means some of the servers are running very slow or throwing errors.
-However, this shouldn't put you off joining, and you should find the experience improves as the instances scale up.
-A lot of instance admins are doing incredible work to make this happen.
+During the first few waves of mass exodus from Twitter, a lot of users were either creating entirely new accounts, or 
+reviving old accounts that had sat idle for years, and the resulting surge in load meant that Mastodon servers ran 
+slowly or poorly for a while. These days, the system is far more resilient against twitter's tantrums, and most servers
+are running without a problem.
 
 ### Adult or aggressive content
 
@@ -121,9 +128,6 @@ account: [@parsingphase@mastodon.social](https://mastodon.social/@parsingphase).
 Short answer: If you know someone who already has an account and they say their server works, and they can either invite
 you or the server is open, join them.
 
-Rather helpfully, the [Debirdify](https://pruvisto.org/debirdify/) tool can not only tell you which instances your
-Twitter friends and followers are using, but find their Mastodon accounts for you, if they've surfaced that data.
-
 Otherwise, there are a few larger servers which are accepting self-signups at the time of writing, including:
 
 - \- [Masto.AI](https://masto.ai/about) 
@@ -140,7 +144,6 @@ fully interconnect with all other Mastodon users:
 - \- [Mastodon.IE (Ireland)](https://mastodon.ie/about)
 - \- [Mastodon.Uno (Italy)](https://mastodon.uno/about)
 - \- [Masto.PT (Portugal)](https://masto.pt/about)
-- \- [Mastodon.Top (France)](https://mastodon.top/about)
 - \- [Social.tchncs (Germany)](https://social.tchncs.de/about)
 
 Less direct answer (but more reliable long-term): Take a look at one of the following lists and pick one that's open and
@@ -181,22 +184,8 @@ The bio and first post are easy. Finding people is a little trickier.
 
 ## How do I follow my Twitter friends on Mastodon?
 
-As mentioned above, [Debirdify](https://pruvisto.org/debirdify/) has a few handy tricks in this area.
-Visit the site and hit "Authorise with Twitter", and it will ask to use your Twitter access to scan through the bios and
-pinned posts of everyone you follow to find any that include a Mastodon address.
-If it finds any, it'll then let you download a list that you can import into your Mastodon account at `Preferences` =>
-`Import and export` => `Import` to follow them en-masse.
-
-[Fedifinder](https://fedifinder.glitch.me/) will also generate a similar list, with slightly different options.
-
-If you'd prefer a more guided / mobile-friendly version without having to download & upload files: [MoveToDon](https://www.movetodon.org/).
-
-At the moment, it's worth repeating the search and import every few days, as more and more Twitter users move and share
-their Mastodon accounts.
-
-To make yourself findable by these tools (and by your Twitter friends), add your full account name
-(`@username@host.tld`, eg `@me@mastodon.online`) to your Twitter bio. This lets the tools find you, but doesn't give
-visitors a clickable link. For that, add the address of your Mastodon profile (eg `mastodon.online/@me`).
+There used to be tools to scan your friends list, but these were all deliberately broken by Twitter when they closed 
+their API months ago. You can *try* asking them, but Twitter may just block your post.
 
 ## How do I follow someone whose address I know?
 
@@ -248,8 +237,9 @@ and no way of seeing if a given account does or not.
 
 ## Use an app on your phone or tablet
 
-I can only speak for Apple devices as that's what I use, but I
-like [MetaText](https://apps.apple.com/us/app/metatext/id1523996615).
+I can only speak for Apple devices as that's what I use. My preferred client is [Ivory](https://tapbots.com/ivory/), 
+but [MetaText](https://apps.apple.com/us/app/metatext/id1523996615) is also worth checking out if you want a completely
+free option.
 
 As with instances, you can try one app now and another later (but without having to change your account in any way).
 
