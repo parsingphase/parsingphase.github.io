@@ -23,7 +23,10 @@ The differences are that it's non-commercial, and distributed (or "federated"). 
 - \- Each of these instances is run by a different group, mostly non-profit or community, so the whole thing isn't under
   the control of one company, and can't suddenly all change hands at once.
 
-Once you're on it… it feels pretty much like Twitter used to, but with no ads or algorithms.
+Once you're on it… it feels pretty much like Twitter used to, but with no ads or algorithms. Strictly, it's not a network
+in its own right, merely the most visible face of a collection of interoperable systems known as the "Fediverse".
+Once you're on Mastodon, you're on the Fediverse, and you'll discover how the different types of services focus on
+microblogging, reviews, long-form, photography - it's a very diverse place.
 
 # Before I dive in…
 
@@ -202,9 +205,12 @@ a lot of the friction caused by Mastodon's multi-server nature.
 
 - \- Browse the "explore", "local" or "federated" feeds of your site
 - \- Check our directories like [Fedi.directory](https://fedi.directory/)
-- \- Search for hashtags. Mastodon doesn't have a full-text search function (this would be near impossible in a
-  federated system), but you can search by hashtag. Also, make liberal use of **relevant** hashtags in your own posts to
-  let them and you be found.
+- \- Search for hashtags, and **follow them** - hashtags are far more powerful on the Fediverse than on Twitter - 
+firstly, on most instances they're the only thing you can search for (apart from usernames), and secondly, you can 
+follow them to get all the locally available posts on that topic. Not only do they get you into the conversation before 
+you can find specific people to follow, but they'll also help you find those people as they post.
+- \- On the flip side, make liberal use of **relevant** hashtags in your own posts to let them and you be found and to 
+get them included in the wider conversation.
 
 ## Do people have to approve my follow requests?
 
