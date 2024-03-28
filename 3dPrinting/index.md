@@ -17,7 +17,7 @@ amount either way, but I figured the higher price for something guaranteed to wo
 To be clear, there are cheaper printers out there. As I understand it you can get a "decent" printer in the $300-500 range
 and a "usable" one for less. 
 
-I picked Prusa because:
+I picked [Prusa](https://www.prusa3d.com/) because:
 
  - It's a long-established brand, with a strong history of delivery
  - Their machines have been consistently well-received across the years
@@ -44,8 +44,8 @@ Yes, it works - really impressively well. It's not particularly hard to use in t
 as you challenge it and yourself with advanced materials or models. However, it's pretty fair to say that it "works out
 of the box". 
 
-It is worth being aware that the MK3S+ is an older model - to the extent of being [recently discontinued](https://blog.prusa3d.com/goodbye-mk3-the-end-of-an-era-is-close-or-is-it_93213/) in favor of the MK4. If you want this model, you'll need to
-head to [Prusa](https://www.prusa3d.com/) or Printed Solid before remaining stock runs out.
+It is worth being aware that the MK3S+ is an older model - to the extent of being [recently discontinued](https://blog.prusa3d.com/goodbye-mk3-the-end-of-an-era-is-close-or-is-it_93213/) in favor of the Mini and MK4. If you want this model, 
+you'll need to head to Prusa or Printed Solid before remaining stock runs out.
 
 But this isn't a review of the MK3S+; it's intended to be a general intro to 3D printing and a reflection on owning a
 printer and learning to use it.
@@ -70,7 +70,7 @@ Given that a decent printer *will* just work off the shelf, the essential guidan
 
  - Get an assembled, reliable printer from a known brand
  - Stick to PLA until it won't do what you need
- - Know the dimension of filament your printer uses, and check it on each purchase
+ - Know the dimension of filament your printer uses, and check it on each purchase. Note that filament size is constant for each printer, and doesn't affect print quality - it's the setup of the print job that decides that.
 
 It's worth being aware of what you'll need in terms of a workspace. Ideally, you'll want to have it on a decent-sized, 
 robust table, in a place where it's out of your way and the noise won't be an issue (they're generally not *that* loud,
@@ -79,7 +79,8 @@ you won't want it in a bedroom or dining area while it's in use. Another thing t
 take hours (even the smallest model will be 30-minutes to a couple hours), depending on the printer, and you may be 
 running a print for 10-24 hours if you want to use your printer's full-size capability.
 
-As to what you can print (initially, you'll be printing single-color prints), there are plenty of prepared models online
+As to what you can print (initially, you'll be printing single-color prints unless you've bought an out-of-the-box 
+multicolor printer), there are plenty of prepared models online
 on several major sites. There are various file formats involved in printing, and you'll ultimately need a "GCODE" file
 prepared for your model of printer - but you can generate these from other formats. If you have a Prusa, the 
 [Printables](https://www.printables.com/) site is the most likely to have prepared files for your printer.
@@ -92,11 +93,46 @@ This is because a GCODE file is highly specific. It's the complete list of moves
 it needs to extrude filament (speed and temperature), as it moves backwards and forwards to deposit plastic. These 
 instructions depend on the capabilities of each printer model.
 
-The more general files aren't specific to a printer, or even to printers in general. They define the shape of the object
-you want to produce, and you use a program known as a "slicer" to determine the list of moves that can make this shape
-on your printer. It's a fairly automated process, and as with many things in 3D printing, the defaults usually work out 
-fine.
+Various other files formats aren't specific to a printer, or even to printers in general. They define the shape of the 
+object you want to produce, and you use a program known as a "slicer" to determine the list of moves that can make this 
+shape on your printer. It's a fairly automated process, and as with many things in 3D printing, the defaults usually 
+work out fine.
 
 The shape files you're likely to find are generally STL, STEP or 3MF files:
 
- - **STL** files are one of the most common, basic interoperable files. Sources disagree on what it stands for, but essentially an STL file describes a single, solid shape. It defines what you want to print, but not how. Almost everything you might download is available in this format.
+ - **STL** files are one of the most common, basic interoperable files. Sources disagree on what it stands for, but essentially an STL file describes a single, solid shape, generally as a triangular mesh. Almost everything you might download is available in this format.
+ - **STEP** files similarly describe shapes, but with a slightly more advanced geometry (although you're unlikely to notice the difference from STL-sourced prints)
+ - **3MF** files are more advanced - think of them as project files rather than single shapes. These can contain one or many shapes, but also color & settings data, eg materials and speeds to use, and possibly printer-specific settings. These are also the file you'll tend to save from your slicer (more below) to be able to return to and modify the settings you used last time. These files *might* be set up for a specific material or printer, but you can often change these in your slicer.
+
+I've probably used the word "slicer" enough now that I should define it.
+
+In brief, a slicer is the graphical software you use to create a printer-ready GCODE file from one or more shapes, or 
+from a project file. You load the shape file, turn it the right way up on the bed if needed, set things like materials 
+and quality levels (on typical models, you can leave everything else at default) and then tell it to slice and export.
+Usually it'll give you a preview of the sliced object, and tell you how much time and material will be needed.
+
+The one I use, because I have a Prusa printer, is [PrusaSlicer](https://www.prusa3d.com/en/page/prusaslicer_424/). 
+However, it works with other printers, and other slicers can also work with Prusa printers. PrusaSlicer is good, though,
+and it doesn't hurt that it's free.
+
+If you've read all the above, you're about ready to buy and print. If you want to make that leap, I'd just underscore 
+two points mentioned above: 
+
+1) Stick to PLA. Other materials are harder to use, may require more hardware, or will only work with certain print plates. If you use the wrong plate/material combination, if you're lucky the print just won't stay in place while printing, and if you're unlucky, it'll stick so well that you have to half-wreck your plate to chisel it off.
+2) Again - check the diameter of the filament!
+
+If you want to learn a bit more, that's also not a bad plan. There are some excellent resources on YouTube in particular, 
+and a good starting point is the [3D Printing Nerd](https://www.youtube.com/@3DPrintingNerd)'s channel, run by Joel 
+Telling, who always comes across as the nicest guy in 3D printing. He covers reviews, interesting prints, and events. 
+Other creators worth following are [Thomas Sanlanderer](https://www.youtube.com/@MadeWithLayers), 
+[Stefan Hermann](https://www.youtube.com/@CNCKitchen) and [3DPrintBunny](https://www.youtube.com/@3dprintbunny). 
+For text-based content, check out [All3DP](https://all3dp.com/).
+
+So far I've dealt with printing preexisting models. Chances are at some point, you might want to create your own. Any 3D 
+CAD program that outputs STEP or STL can be used, but I'll touch on a few of the more commonly used ones here:
+
+**Fusion 360** is probably closest to what most people would consider as a classic CAD program. It's from Autodesk,
+it's [free for personal use](https://www.autodesk.com/products/fusion-360/personal), but it has a definite learning curve. 
+Fortunately, [Product Design Online](https://www.youtube.com/playlist?list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr) on 
+YouTube has an excellent tutorial series. The initial (and entirely sufficient) course is free on YouTube, but good 
+enough that I'd encourage contributing to his Patreon or also looking at the advanced courses on their site.
