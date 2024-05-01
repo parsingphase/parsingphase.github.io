@@ -55,7 +55,7 @@ A geovisualisation and search tool for audio recordings of bats tagged with the 
  - <i class="fas fa-book" title="Documentation"></i> [https://parsingphase.dev/batbox](https://parsingphase.dev/batbox) 
  - <i class="fab fa-github" title="Source"></i> [https://github.com/parsingphase/batbox](https://github.com/parsingphase/batbox)
 
-## [TDD Deciphered](https://tdddeciphered.com) 
+## TDD Deciphered (no longer online)
 
 ![TDD Deciphered](images/TDD.png)
 
@@ -64,7 +64,6 @@ A geovisualisation and search tool for audio recordings of bats tagged with the 
 A guide to Test-Driven Development built around [a simulation of the Engima machine](https://github.com/parsingphase/enigma-simulator), based on my time 
 volunteering at [Bletchley Park](https://bletchleypark.org.uk)
 
- - <i class="fas fa-globe" title="Site"></i> [https://tdddeciphered.com](https://tdddeciphered.com) 
  - <i class="fab fa-github" title="Source"></i> [https://github.com/parsingphase/enigma-simulator](https://github.com/parsingphase/enigma-simulator)
 
 ## [Beerbot](https://beerbot.phase.org)
