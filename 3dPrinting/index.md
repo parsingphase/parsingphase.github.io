@@ -133,10 +133,10 @@ and it doesn't hurt that it's free.
 If you've read all the above, you're about ready to buy and print. If you want to make that leap, I'd just underscore
 two points mentioned above:
 
-1) Stick to PLA. Other materials are harder to use, may require more hardware, or will only work with certain print
+1. Stick to PLA. Other materials are harder to use, may require more hardware, or will only work with certain print
    plates. If you use the wrong plate/material combination, if you're lucky the print just won't stay in place while
    printing, and if you're unlucky, it'll stick so well that you have to half-wreck your plate to chisel it off.
-2) Again - check the diameter of the filament!
+2. Again - check the diameter of the filament!
 
 If you want to learn a bit more, that's also not a bad plan. There are some excellent resources on YouTube in
 particular,
