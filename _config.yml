@@ -3,3 +3,4 @@ lang: en-GB
 title: parsingphase.dev
 show_downloads: false
 exclude: [.idea, .git, tools]
+include: [".well-known"]
