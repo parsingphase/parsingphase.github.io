@@ -2,11 +2,15 @@
 description: "Notes on Bluesky's verification"
 title: "Bluesky's Domain Verification is Good, Actually"
 ---
+<style>body { color: #000 } .inner { min-width: 80% } a { color: #d5000d }</style>
+
 # Custom handle verification at Bluesky
+
+_Don't care about the philosophy and just want to set an existing or new handle? Jump down to **[Setting up your custom handle](#setting-up-your-custom-handle)**._
 
 ## Notes on the Bluesky approach
 
-One of a few features from Twitter that Bluesky users are interested in is identity verification -  the purpose that Twitter's "blue ticks" used to serve before they were corrupted like everything else on that site. Currently, Bluesky allows that by letting the user prove ownership of (or authority to use) a domain, or subdomain, that matches their custom handle. This approach isn't widely loved, but personally, I think it's a very good system, allowing persistence of a web-wide identity, and letting users have a handle that can match their established website.
+One feature on Bluesky that's got a lot of attention recently is identity verification -  the purpose that Twitter's "blue ticks" used to serve before they were corrupted like everything else on that site. Currently, Bluesky allows that by letting the user prove ownership of (or authority to use) a domain, or subdomain, that matches their custom handle. This system isn't widely loved, but personally, I think it's an excellent approach, allowing persistence of a web-wide identity, and letting users have a handle that can match a established website.
 
 One argument in its favor is that DNS is already widely used for identity verification. Besides its original purpose for host lookup (when you go to a website, DNS defines where that is, and it's also DNS that directs your email to the right server), DNS is also used to verify things ownership and authority for things like email sending and identity, or mapping ownership for services like [keybase](https://keybase.io). It's a well established pattern, that should be understood by anyone who manages network services in any way, whether they're a systems administrator, developer, or just a domain owner.
 
@@ -30,7 +34,7 @@ This DID can be hosted in one of two ways - in DNS (like the one for parsingphas
 
 However you host the DID that proves your identity, you'll get the value from your Bluesky settings page at [https://bsky.app/settings/account](https://bsky.app/settings/account) (go to _Handle_ - _I have my own domain_) and you'll see it. This is also where you'll tell Bluesky what your custom domain will be. Once you've entered that custom value and collected the DID, you're halfway there.
 
-The latter half of the process depends on whether you want to use web or DNS hosting for your DID. We'll use `my.identity-example.com" as the example handle here, and assume you already own the `identity-example.com` domain
+The latter half of the process depends on whether you want to use web or DNS hosting for your DID. We'll use `my.identity-example.com` as the example handle here, and assume you already own the `identity-example.com` domain
 
 ### Web hosting
 
@@ -53,3 +57,11 @@ Once you've added the DID, the Bluesky settings page should let you verify it (a
 ## If you don't have a domain yet
 
 Bluesky can sell you a domain via its partner (which also gets them a little funding) and set it up directly as your handle. Login to your Bluesky account on [account.bsky.app](https://account.bsky.app/user/domains), click "Domains" and go from there.
+
+## Verification approaches that don't work
+
+### Verification by unverified users
+
+One ineffective (and not entirely honest approach) to verification I've seen recently is independent users - themselves not verified in any way - offering "official" verification services. Nothing about this works - these services are not official, can easily be duplicated by bad actors, aren't widely supported - won't even be seen - and won't scale practically. Please, just ignore these and use the existing mechanisms as described above - most people I've seen express interest in these have attachments to an organization with a domain that can verify their identity as I've described. 
+
+!["Official verification" by an unverified, unofficial account](../images/unverified_verifier.png)

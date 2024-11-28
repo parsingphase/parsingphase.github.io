@@ -112,7 +112,7 @@ A management app for a karaoke-style event that I used to run with my wife and f
 
 ## Social
 
-- Twitter: [@parsingphase](https://twitter.com/parsingphase)
+- Bluesky: [@parsingphase.dev](https://bsky.app/profile/parsingphase.dev)
 - Mastodon: <a style="display: none" rel="me" href="https://mastodon.social/@parsingphase">@parsingphase@mastodon.social</a> <a rel="me" href="https://m.phase.org/@parsingphase">@parsingphase@m.phase.org</a>
 
 ---
