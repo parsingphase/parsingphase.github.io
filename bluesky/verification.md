@@ -62,7 +62,7 @@ Bluesky can sell you a domain via its partner (which also gets them a little fun
 
 ### Verification by unverified users
 
-One ineffective (and not entirely honest approach) to verification I've seen recently is independent users - themselves not verified in any way - offering "official" verification services. Nothing about this works - these services are not official, can easily be duplicated by bad actors, aren't widely supported - won't even be seen - and won't scale practically. Please, just ignore these and use the existing mechanisms as described above - most people I've seen express interest in these have attachments to an organization with a domain that can verify their identity as I've described. 
+One ineffective (and not entirely honest) approach to verification I've seen recently is independent users - themselves not verified in any way - offering "official" verification services. Nothing about this works - these services are not official, can easily be duplicated by bad actors, aren't widely supported - won't even be seen - and won't scale practically. Please, just ignore these and use the real official mechanisms above - most people with a pressing use case for professional verification, at least, will have a relationship with an organization and a domain that they can delegate that verification to.
 
 <img src="../images/unverified_verifier.png" alt="'Official verification' by an unverified, unofficial account" width="600" />
 
