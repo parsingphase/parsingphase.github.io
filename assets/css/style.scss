@@ -77,3 +77,11 @@ ul li::before {
   //content: '-';
   //padding-right: 0.4em;
 }
+
+ol ul {
+  margin-bottom: 0;
+}
+
+.llms-page ol li {
+  margin-bottom: 0.6em;
+}

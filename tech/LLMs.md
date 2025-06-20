@@ -2,7 +2,7 @@
 description: 'Thoughts on LLMs'
 title: 'Thoughts on LLMs'
 ---
-
+<div class="llms-page">
 In no particular order, and with no claims of completeness even in terms of cataloging existing thoughts.
 
 1. There are numerous psychological factors why we overestimate the performance and utility of LLMs
@@ -45,3 +45,4 @@ In no particular order, and with no claims of completeness even in terms of cata
 17. The black-box nature of LLM mechanisms and datasets produces significant security and privacy issues.
 18. The personal costs of LLM interaction and dependency have already been proven significant, leading to deaths.
     - Both in terms of harm to the user, and to wider society (in terms of radicalization)
+</div>
