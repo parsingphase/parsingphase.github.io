@@ -1,4 +1,7 @@
-# Thoughts on LLMs
+---
+description: 'Thoughts on LLMs'
+title: 'Thoughts on LLMs'
+---
 
 In no particular order, and with no claims of completeness even in terms of cataloging existing thoughts.
 

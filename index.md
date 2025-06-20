@@ -18,14 +18,14 @@ I create documentation and guides as well as code
         
 Commercially, I've worked for companies including -
 
-- \- [Forcepoint](https://www.forcepoint.com/)
-- \- [The London Internet Exchange](https://www.linx.net)
-- \- [Snatch](https://www.snatchvip.com)
-- \- [Quidco](https://www.quidco.com) 
-- \- Amazon (at [The Book Depository](https://www.bookdepository.com))
-- \- [Fitch Learning](https://www.fitchlearning.com)
-- \- [Dennis Publishing](https://www.dennis.co.uk)
-- \- [The Mind Gym](https://uk.themindgym.com)
+ - [Forcepoint](https://www.forcepoint.com/)
+ - [The London Internet Exchange](https://www.linx.net)
+ - [Snatch](https://www.snatchvip.com)
+ - [Quidco](https://www.quidco.com) 
+ - Amazon (at [The Book Depository](https://www.bookdepository.com))
+ - [Fitch Learning](https://www.fitchlearning.com)
+ - [Dennis Publishing](https://www.dennis.co.uk)
+ - [The Mind Gym](https://uk.themindgym.com)
 
 I spent most of 2019 working on [IX-API](https://ix-api.net), 
 and I've [written up my experience](https://medium.com/parsing-tech/ix-api-design-notes-and-recollections-27c55829d9e8)

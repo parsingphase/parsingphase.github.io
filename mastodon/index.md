@@ -17,10 +17,10 @@ anything.
 
 The differences are that it's non-commercial, and distributed (or "federated"). What does that mean?
 
-- \- Mastodon runs on multiple, separate systems called "instances" each with their own web address, as opposed to
+ - Mastodon runs on multiple, separate systems called "instances" each with their own web address, as opposed to
   Twitter which runs on one central system at Twitter.com
 
-- \- Each of these instances is run by a different group, mostly non-profit or community, so the whole thing isn't under
+ - Each of these instances is run by a different group, mostly non-profit or community, so the whole thing isn't under
   the control of one company, and can't suddenly all change hands at once.
 
 Once you're on it… it feels pretty much like Twitter used to, but with no ads or algorithms. Strictly, it's not a network
@@ -94,9 +94,9 @@ prevalent, and most particularly in Germany, which has strong laws against Nazi 
 
 # How do I get an account?
 
-- \- Pick an open instance
-- \- Go to its homepage
-- \- Fill out the signup form
+ - Pick an open instance
+ - Go to its homepage
+ - Fill out the signup form
 
 That first point is the stumbling block for 95% of would-be users, so let's cover what an instance is and how to find
 one.
@@ -133,27 +133,27 @@ you or the server is open, join them.
 
 Otherwise, there are a few larger servers which are accepting self-signups at the time of writing, including:
 
-- \- [Masto.AI](https://masto.ai/about) 
-- \- [Federate.Social](https://federate.social/about)
-- \- [Mstdn.social](https://mstdn.social/about)
-- \- [Mas.to](https://mas.to/about)
+ - [Masto.AI](https://masto.ai/about) 
+ - [Federate.Social](https://federate.social/about)
+ - [Mstdn.social](https://mstdn.social/about)
+ - [Mas.to](https://mas.to/about)
 
 You can also consider one of these smaller, regional instances, which are sometimes less heavily loaded, but can still
 fully interconnect with all other Mastodon users:
 
-- \- [Mastodonapp.UK](https://mastodonapp.uk/about)
-- \- [Mastodon.Scot](https://mastodon.scot/about)
-- \- [Toot.Wales](https://toot.wales/about)
-- \- [Mastodon.IE (Ireland)](https://mastodon.ie/about)
-- \- [Mastodon.Uno (Italy)](https://mastodon.uno/about)
-- \- [Masto.PT (Portugal)](https://masto.pt/about)
-- \- [Social.tchncs (Germany)](https://social.tchncs.de/about)
+ - [Mastodonapp.UK](https://mastodonapp.uk/about)
+ - [Mastodon.Scot](https://mastodon.scot/about)
+ - [Toot.Wales](https://toot.wales/about)
+ - [Mastodon.IE (Ireland)](https://mastodon.ie/about)
+ - [Mastodon.Uno (Italy)](https://mastodon.uno/about)
+ - [Masto.PT (Portugal)](https://masto.pt/about)
+ - [Social.tchncs (Germany)](https://social.tchncs.de/about)
 
 Less direct answer (but more reliable long-term): Take a look at one of the following lists and pick one that's open and
 looks interesting.
 
-- \- [joinmastodon.org/servers](https://joinmastodon.org/servers)
-- \- [instances.social](https://instances.social/)
+ - [joinmastodon.org/servers](https://joinmastodon.org/servers)
+ - [instances.social](https://instances.social/)
 
 Remember… you can choose a new server in future if you want; you're not limited to one account, and you can redirect an
 old account to a future one later on. Whichever server you choose, please make sure you read their rules and policies to
@@ -173,9 +173,9 @@ you can choose a `username` that matches what you had on Twitter.
 
 # I've got an account. Now what?
 
-- \- Fill out your bio
-- \- Start posting, possibly with a brief intro
-- \- Follow people
+ - Fill out your bio
+ - Start posting, possibly with a brief intro
+ - Follow people
 
 Strictly, you can do these in any order, but if you do them in the order above, it'll give people more idea who just
 followed them and you'll be more likely to get a follow back. If you're short on inspiration for your bio, or can't
@@ -203,13 +203,13 @@ a lot of the friction caused by Mastodon's multi-server nature.
 
 ## How do I find new people?
 
-- \- Browse the "explore", "local" or "federated" feeds of your site
-- \- Check our directories like [Fedi.directory](https://fedi.directory/)
-- \- Search for hashtags, and **follow them** - hashtags are far more powerful on the Fediverse than on Twitter - 
+ - Browse the "explore", "local" or "federated" feeds of your site
+ - Check our directories like [Fedi.directory](https://fedi.directory/)
+ - Search for hashtags, and **follow them** - hashtags are far more powerful on the Fediverse than on Twitter - 
 firstly, on most instances they're the only thing you can search for (apart from usernames), and secondly, you can 
 follow them to get all the locally available posts on that topic. Not only do they get you into the conversation before 
 you can find specific people to follow, but they'll also help you find those people as they post.
-- \- On the flip side, make liberal use of **relevant** hashtags in your own posts to let them and you be found and to 
+ - On the flip side, make liberal use of **relevant** hashtags in your own posts to let them and you be found and to 
 get them included in the wider conversation.
 
 ## Do people have to approve my follow requests?
@@ -227,10 +227,10 @@ Please help maintain these conventions to keep Mastodon a healthy and inclusive 
 
 So, please:
 
-- \- Read and follow your local instance's rules
-- \- Add Alt Text to all your images
-- \- Use #CamelCase to make hashtags easier to read, and clearer for screen readers
-- \- Use the "Content Warning" function where appropriate.
+ - Read and follow your local instance's rules
+ - Add Alt Text to all your images
+ - Use #CamelCase to make hashtags easier to read, and clearer for screen readers
+ - Use the "Content Warning" function where appropriate.
 
 It's also worth remembering that Mastodon is non-commercial, it's not selling adverts or blue ticks, and running servers
 and developing software cost money.
@@ -273,8 +273,8 @@ I'm at [@parsingphase@m.phase.org](https://m.phase.org/@parsingphase).
 
 Those other guides include:
 
-- \- [(An Increasingly Less-Brief) Guide To Mastodon](http://guidetomastodon.com)
-- \- [Fedi.tips](https://fedi.tips/)
+ - [(An Increasingly Less-Brief) Guide To Mastodon](http://guidetomastodon.com)
+ - [Fedi.tips](https://fedi.tips/)
 
 ---
 

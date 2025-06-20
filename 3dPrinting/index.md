@@ -22,12 +22,12 @@ and a "usable" one for less.
 
 I picked [Prusa](https://www.prusa3d.com/) because:
 
-- \- It's a long-established brand, with a strong history of delivery
-- \- Their machines have been consistently well-received across the years
-- \- They have (apparently, I've never used it) good customer support, as well as a strong online community
-- \- They have a lot of documentation and guidance online
-- \- They expect you to modify and repair your printer, and doing so doesn't mean a loss of support
-- \- They promise long-term support and spares for their printers
+ - It's a long-established brand, with a strong history of delivery
+ - Their machines have been consistently well-received across the years
+ - They have (apparently, I've never used it) good customer support, as well as a strong online community
+ - They have a lot of documentation and guidance online
+ - They expect you to modify and repair your printer, and doing so doesn't mean a loss of support
+ - They promise long-term support and spares for their printers
 
 A year later, all of the above assumptions have proven to be robust. The one downside I've discovered (and it's not
 *that*
@@ -75,9 +75,9 @@ FDM (Fused Deposition Modeling). So the rest of this piece will be relevant to t
 
 Given that a decent printer *will* just work off the shelf, the essential guidance is pretty minimal:
 
-- \- Get an assembled, reliable printer from a known brand
-- \- Stick to PLA until it won't do what you need
-- \- Know the dimension of filament your printer uses, and check it on each purchase. Note that filament size is constant
+ - Get an assembled, reliable printer from a known brand
+ - Stick to PLA until it won't do what you need
+ - Know the dimension of filament your printer uses, and check it on each purchase. Note that filament size is constant
   for each printer, and doesn't affect print quality - it's the setup of the print job that decides that.
 
 It's worth being aware of what you'll need in terms of a workspace. Ideally, you'll want to have it on a decent-sized,
@@ -108,12 +108,12 @@ work out fine.
 
 The shape files you're likely to find are generally STL, STEP or 3MF files:
 
-- \- **STL** files are one of the most common, basic interoperable files. Sources disagree on what it stands for, but
+ - **STL** files are one of the most common, basic interoperable files. Sources disagree on what it stands for, but
   essentially an STL file describes a single, solid shape, generally as a triangular mesh. Almost everything you might
   download is available in this format.
-- \- **STEP** files similarly describe shapes, but with a slightly more advanced geometry (although you're unlikely to
+ - **STEP** files similarly describe shapes, but with a slightly more advanced geometry (although you're unlikely to
   notice the difference from STL-sourced prints)
-- \- **3MF** files are more advanced - think of them as project files rather than single shapes. These can contain one or
+ - **3MF** files are more advanced - think of them as project files rather than single shapes. These can contain one or
   many shapes, but also color & settings data, eg materials and speeds to use, and possibly printer-specific settings.
   These are also the file you'll tend to save from your slicer (more below) to be able to return to and modify the
   settings you used last time. These files *might* be set up for a specific material or printer, but you can often
