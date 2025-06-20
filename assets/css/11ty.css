@@ -1,0 +1,78 @@
+body {
+    background-color: #eeeeee;
+    font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+
+body {
+    color: #555
+}
+
+p {
+    font-weight: normal
+}
+
+p.nav {
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+h2 {
+    color: black;
+    margin-top: 0.4em;
+}
+
+h3 {
+    color: black;
+    margin-top: 1.2em;
+}
+
+a {
+    color: #303030
+}
+
+a:hover {
+    text-decoration: underline;
+    text-decoration-style: dashed;
+}
+
+p strong a {
+    font-weight: bold;
+    color: #404040;
+}
+
+header {
+    padding: 5px 0;
+}
+
+header h1 {
+    display: none
+}
+
+header h2 {
+    font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 1.2;
+    color: #303030;
+    letter-spacing: -1px;
+}
+
+
+html {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    margin: 0; /* Remove default body margin */
+    /* Optional: Set a width for your content if needed */
+     width: 50%;
+}

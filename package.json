@@ -1,0 +1,24 @@
+{
+  "name": "parsingphase.github.io",
+  "version": "1.0.0",
+  "description": "Static Personal Site",
+  "homepage": "https://github.com/parsingphase/parsingphase.github.io#readme",
+  "bugs": {
+    "url": "https://github.com/parsingphase/parsingphase.github.io/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parsingphase/parsingphase.github.io.git"
+  },
+  "license": "ISC",
+  "author": "Richard George <richard@phase.org>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.1",
+    "typescript": "^5.8.3"
+  }
+}

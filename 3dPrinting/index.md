@@ -1,6 +1,7 @@
 ---
 description: 'Some notes on a year of owning a 3D printer'
 title: '3D printing for the curious'
+layout: mylayout.njk
 ---
 
 <style>body { color: #000 } .inner { min-width: 80% } a { color: #d5000d }</style>
