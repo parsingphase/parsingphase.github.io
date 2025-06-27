@@ -5,7 +5,7 @@ title: 'Thoughts on LLMs'
 <div class="llms-page">
 In no particular order, and with no claims of completeness even in terms of cataloging existing thoughts.
 
-1. There are numerous psychological factors why we overestimate the performance and utility of LLMs
+1. There are numerous [psychological factors](psychologicalFactors.md) why we overestimate the performance and utility of LLMs
    - Lack of existing language to understand and define them
    - Pareidolia of mind
    - Chat factor
