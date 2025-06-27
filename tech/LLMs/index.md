@@ -2,7 +2,6 @@
 description: 'Thoughts on LLMs'
 title: 'Thoughts on LLMs'
 ---
-<div class="llms-page">
 In no particular order, and with no claims of completeness even in terms of cataloging existing thoughts.
 
 1. There are numerous [psychological factors](psychologicalFactors.md) why we overestimate the performance and utility of LLMs
@@ -45,7 +44,6 @@ In no particular order, and with no claims of completeness even in terms of cata
 17. The black-box nature of LLM mechanisms and datasets produces significant security and privacy issues.
 18. The personal costs of LLM interaction and dependency have already been proven significant, leading to deaths.
     - Both in terms of harm to the user, and to wider society (in terms of radicalization)
-</div>
 
 ## References
 
@@ -54,3 +52,4 @@ In no particular order, and with no claims of completeness even in terms of cata
  - [Computing Machinery and Intelligence](http://www.jstor.org/stable/2251299)
  - [ChatGPT is bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)
  - [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://arxiv.org/abs/2506.08872)
+ - [LLMs are Bug Replicators: An Empirical Study on LLMs' Capability in Completing Bug-prone Code](https://arxiv.org/abs/2503.11082)
