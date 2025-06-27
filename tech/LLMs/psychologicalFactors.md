@@ -51,11 +51,11 @@ It might look like a duck, but it won't quack.
 
 ## The Chat Factor
 
-The "chat" interface generally used by LLMs also has subconscious effects; when we engage with something this way we both tend towards considering it somehow equivalent to us, and - because the chat seems to make us an equal partner - invest ourselves in its success. The "chatty" (or often obsequious) language used also inclines us to believe in the presence of a mind, regardless of the quality of the responses themselves.
+The "chat" interface generally used by LLMs also has subconscious effects; when we engage with something this way we both tend towards considering it somehow equivalent to us, and - because the chat seems to make us an equal partner - invest ourselves in its success. The "chatty" (or often obsequious) language used also inclines us to believe in the presence of a mind, regardless of the quality of the responses themselves. Producers of such models increasingly play into this tendency by moving from "machine" names (ChatGPT-*) to "human" ones (Claude et al).
 
 ## Talking Dog Syndrome
 
-We tend to be so astounded that these (computer-based) artifacts are appearing to think, that we fail to adequately analyze how well they're doing so. This always reminds me of a passage from Pratchett's "Moving Pictures", where the protagonist suddenly realizes that the unseen musician he's been criticizing is a dog:
+We tend to be so astounded that these artifacts are appearing to think, that we fail to adequately analyze how well they're doing so. This always reminds me of a passage from Pratchett's "Moving Pictures", where the protagonist suddenly realizes that the unseen musician he's been criticizing is a dog:
 
 “You’re not supposed to recognize the bloody tune,” said Gaspode, sitting down heavily and industriously scratching one ear with his hind leg. “I’m a dog. You’re supposed to be bloody amazed I can bloody well get a squeak out of the bloody thing.””
 

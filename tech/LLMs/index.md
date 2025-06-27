@@ -38,7 +38,7 @@ In no particular order, and with no claims of completeness even in terms of cata
     - Environmental impacts
     - Use to defer action on genuine global issues, because "Tech will save us".
 12. LLMs cannot be accountable, and are used to obscure accountability for others.
-13. The Environmental impacts of LLMs are _at best_ unclear, and deliberately so. They may already be, and likely will become, significant.
+13. The environmental impacts of LLMs are _at best_ unclear, and deliberately so. They may already be, and likely will become, significant.
 14. LLMs, being inherently averaging, will never produce true innovation or insight; at best they can produce eccentricity, a factor of error not of novelty.
 15. By passing composite information as neutral, LLMs will always serve to propagate existing biases (sometimes through the express intent of their operators).
 16. It is not coincidence that many of the primary proponents of LLMs have atrocious political and social views; it is clear that many see them as a way to accumulate wealth and power rather than further knowledge or better society.
@@ -46,3 +46,11 @@ In no particular order, and with no claims of completeness even in terms of cata
 18. The personal costs of LLM interaction and dependency have already been proven significant, leading to deaths.
     - Both in terms of harm to the user, and to wider society (in terms of radicalization)
 </div>
+
+## References
+
+ - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922)
+ - [The lethal trifecta for AI agents: private data, untrusted content, and external communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/)
+ - [Computing Machinery and Intelligence](http://www.jstor.org/stable/2251299)
+ - [ChatGPT is bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)
+ - [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://arxiv.org/abs/2506.08872)
