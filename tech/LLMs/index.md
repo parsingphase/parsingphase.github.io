@@ -2,7 +2,7 @@
 description: 'Thoughts on LLMs'
 title: 'Thoughts on LLMs'
 ---
-In no particular order, and with no claims of completeness even in terms of cataloging existing thoughts.
+A braindump, in no particular order, and with no claims of completeness even in terms of cataloging existing thoughts.
 
 1. There are numerous [psychological factors](psychologicalFactors.md) why we overestimate the performance and utility of LLMs
    - Lack of existing language to understand and define them
@@ -22,8 +22,10 @@ In no particular order, and with no claims of completeness even in terms of cata
    - It is very clear that once the work is produced, the appetite for checking it is limited
    - LLMs steal joy, reducing creative tasks to the drudgery of housekeeping their errors
 5. LLMs have no concepts of "truth" or "harm", because they **have no concepts**.
-6. LLMs are not intelligence; they "pass" (and therefore invalidate) the Turing Test by "copying the answers".
+6. LLMs are not intelligence; they sidestep the Turing Test by "copying the answers".
 7. LLMs will never "threaten" us, because they have no will, even if we try to give them "agency" (itself an overloaded word here).
+    - Agency is both the ability to have independent thought, and the ability to act independently. "Agentic AIs" are LLMs that have no volition of their own, but have been given authority to act without oversight.
+    - Under this description, the script of https://xkcd.com/576/ is "agentic".
 8. LLMs are not AI, in the sense of classical AI research, nor an equivalence of the human (or any other) mind, per cognitive science. They are statistical tricks.
 9. LLMs do not hallucinate, they bullshit, and they do so equally when producing correct or incorrect outputs.
 10. LLM technology will probably not advance significantly over its current state. Any "true" AI will come from very different technologies.
