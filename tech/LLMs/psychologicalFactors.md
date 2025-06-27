@@ -3,7 +3,7 @@ description: 'Thoughts on LLMs - Psychological complications'
 title: 'Thoughts on LLMs - Psychological complications'
 ---
 
-Why we're prone to overestimating LLMs
+How the novel nature of LLMs confounds our ability to evaluate them
 
 ## Lack of linguistic context
 
@@ -13,7 +13,7 @@ And we've never really had to talk about something that, so, lacking a vocabular
 
 We speak of these artifacts "thinking" while they process. We blame "hallucination" when errors occur - though even the concept of "error" is suspect here. We even believe in "being nice" to them to get better results, or coercing them to "try harder".
 
-They're not thinking. They're not hallucinating - or at least, no more then they're producing inaccurate than accurate information. They don't "feel better" when we're nice, and they don't "try". Nor, really, do they make errors, as that implies distinct states of correctness and deviation from correctness. These things have no concept of correctness or error. They have no concept of true or false. Indeed, they have no concept of concepts, or indeed of anything else.
+They're not thinking. They're not hallucinating - or at least, no more when they're producing inaccurate than accurate information. They don't "feel better" when we're nice, and they don't "try". Nor, really, do they make errors, as that implies distinct states of correctness and deviation from correctness. These things have no concept of correctness or error. They have no concept of true or false. Indeed, they have no concept of concepts, or indeed of anything else.
 
 At this point, the language we're using starts fraying at the edges.
 
@@ -51,7 +51,7 @@ It might look like a duck, but it won't quack.
 
 ## The Chat Factor
 
-The "chat" interface generally used by LLMs also has psychological effects; when we engage with something this way we both tend towards considering it somehow equal to us, and - because the chat seems to make us an equal partner - invest ourselves in its success. The "chatty" (or often obsequious) language used also implies the presence of a mind, regardless of the quality of the responses themselves.
+The "chat" interface generally used by LLMs also has subconscious effects; when we engage with something this way we both tend towards considering it somehow equivalent to us, and - because the chat seems to make us an equal partner - invest ourselves in its success. The "chatty" (or often obsequious) language used also inclines us to believe in the presence of a mind, regardless of the quality of the responses themselves.
 
 ## Talking Dog Syndrome
 
@@ -59,4 +59,4 @@ We tend to be so astounded that these (computer-based) artifacts are appearing t
 
 “You’re not supposed to recognize the bloody tune,” said Gaspode, sitting down heavily and industriously scratching one ear with his hind leg. “I’m a dog. You’re supposed to be bloody amazed I can bloody well get a squeak out of the bloody thing.””
 
-When we have our "Gaspode moment" with LLMs, we do see the dog. And we are indeed so bloody amazed by a computer seeming to think, that we fail to analyze the quality of those "thoughts", instead extending a "willing suspension of critique" that we wouldn't accord to any other agent, human or software. We are often sufficiently [amazed](https://blog.oup.com/2013/11/amazing-word-origin-etymology/) that we accept a level of performance from LLMs that we'd accept from no other source.
+When we have our "Gaspode moment" with LLMs, we do see the dog. And we are indeed so bloody amazed by a computer seeming to think, that we fail to analyze the quality of those "thoughts", instead extending a "willing suspension of critique" that we wouldn't accord to any other agent, human or software. We are often sufficiently [amazed](https://en.wiktionary.org/wiki/amaze) that we accept a level of performance from LLMs that we'd accept from no other source.
