@@ -51,12 +51,14 @@ It might look like a duck, but it won't quack.
 
 ## The Chat Factor
 
-The "chat" interface generally used by LLMs also has subconscious effects; when we engage with something this way we both tend towards considering it somehow equivalent to us, and - because the chat seems to make us an equal partner - invest ourselves in its success. The "chatty" (or often obsequious) language used also inclines us to believe in the presence of a mind, regardless of the quality of the responses themselves. Producers of such models increasingly play into this tendency by moving from "machine" names (ChatGPT-*) to "human" ones (Claude et al).
+The "chat" interface generally used by LLMs also has subconscious effects; when we engage with something this way we both tend towards considering it somehow equivalent to us, and - because the chat seems to make us an equal partner - invest ourselves in its success. Indeed, precisely because we expect to have to iterate repeatedly on a response to achieve an acceptable outcome, that we feel we've "put in the work" - and once we reach "acceptable", we're not inclined to iterate further.
+
+The "chatty" (or often obsequious) language used also inclines us to believe in the presence of a mind, regardless of the quality of the responses themselves. Producers of such models increasingly play into this tendency by moving from "machine" names (ChatGPT-*) to "human" ones (Claude et al).
 
 ## Talking Dog Syndrome
 
 We tend to be so astounded that these artifacts are appearing to think, that we fail to adequately analyze how well they're doing so. This always reminds me of a passage from Pratchett's "Moving Pictures", where the protagonist suddenly realizes that the unseen musician he's been criticizing is a dog:
 
-“You’re not supposed to recognize the bloody tune,” said Gaspode, sitting down heavily and industriously scratching one ear with his hind leg. “I’m a dog. You’re supposed to be bloody amazed I can bloody well get a squeak out of the bloody thing.””
+"You’re not supposed to recognize the bloody tune," said Gaspode, sitting down heavily and industriously scratching one ear with his hind leg. "I’m a dog. You’re supposed to be bloody amazed I can bloody well get a squeak out of the bloody thing."
 
 When we have our "Gaspode moment" with LLMs, we do see the dog. And we are indeed so bloody amazed by a computer seeming to think, that we fail to analyze the quality of those "thoughts", instead extending a "willing suspension of critique" that we wouldn't accord to any other agent, human or software. We are often sufficiently [amazed](https://en.wiktionary.org/wiki/amaze) that we accept a level of performance from LLMs that we'd accept from no other source.
