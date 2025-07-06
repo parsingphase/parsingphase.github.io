@@ -114,6 +114,7 @@ A management app for a karaoke-style event that I used to run with my wife and f
 
 - Bluesky: [@parsingphase.dev](https://bsky.app/profile/parsingphase.dev)
 - Mastodon: <a style="display: none" rel="me" href="https://mastodon.social/@parsingphase">@parsingphase@mastodon.social</a> <a rel="me" href="https://m.phase.org/@parsingphase">@parsingphase@m.phase.org</a>
+- PeerTube: [@parsingphase@spectra.video](https://spectra.video/a/parsingphase/video-channels) - mostly trailcam wildlife videos
 
 ---
 

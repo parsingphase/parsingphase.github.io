@@ -14,6 +14,9 @@ I take photos as a hobby, and write code as a profession.
 <i class="fab fa-flickr"></i> [my Flickr account](https://www.flickr.com/photos/parsingphase) or 
 <i class="fa fa-leaf"></i> [my iNaturalist sightings](https://www.inaturalist.org/observations?user_id=parsingphase).</strong>
 
+You might also be interested in my <strong><i class="fas fa-photo-video"></i> 
+[trailcam videos on PeerTube](https://spectra.video/a/parsingphase/video-channels)</strong>.
+
 ---
 
 I've been a casual photographer for most of my life, starting with
@@ -48,7 +51,7 @@ and written up <i class="fab fa-medium"></i>
 [Some Notes on DSLR Wildlife Photography](https://parsingphase.medium.com/some-notes-on-wildlife-photography-6370ea4f8965)
 for new photographers which have proven popular.
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" crossorigin="anonymous">
 <style type="text/css" media="screen">
 .inat-widget { padding: 10px; line-height: 1;}
 .inat-widget-header {margin-bottom: 10px;}
