@@ -55,3 +55,4 @@ A braindump, in no particular order, and with no claims of completeness even in 
  - [ChatGPT is bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)
  - [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://arxiv.org/abs/2506.08872)
  - [LLMs are Bug Replicators: An Empirical Study on LLMs' Capability in Completing Bug-prone Code](https://arxiv.org/abs/2503.11082)
+ - [The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence](https://firstmonday.org/ojs/index.php/fm/article/view/13636)
