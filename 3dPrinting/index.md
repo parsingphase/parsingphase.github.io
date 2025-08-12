@@ -1,8 +1,9 @@
 ---
-description: 'Some notes on a year of owning a 3D printer'
-title: '3D printing for the curious'
+title: "3D printing for the curious"
 layout: mylayout.njk
 ---
+
+## Some notes on a year of owning a 3D printer
 
 <style>body { color: #000 } .inner { min-width: 80% } a { color: #d5000d }</style>
 
@@ -13,7 +14,7 @@ This page intends to provide a bit of that - not a complete introduction, but so
 some pointers to useful resources.
 
 To give a bit of context, the machine I bought was an "Original Prusa i3 MK3S+", usually shortened to "MK3S+".
-Given the choice of buying it assembled, or as a kit, I decided that I wanted the hobby to focus on *using* the printer,
+Given the choice of buying it assembled, or as a kit, I decided that I wanted the hobby to focus on _using_ the printer,
 not building it, and bought the assembled version. This meant an outlay of $999 instead of $749, which isn't a trivial
 amount either way, but I figured the higher price for something guaranteed to work, and to be used, was the better bet.
 
@@ -23,15 +24,15 @@ and a "usable" one for less.
 
 I picked [Prusa](https://www.prusa3d.com/) because:
 
- - It's a long-established brand, with a strong history of delivery
- - Their machines have been consistently well-received across the years
- - They have (apparently, I've never used it) good customer support, as well as a strong online community
- - They have a lot of documentation and guidance online
- - They expect you to modify and repair your printer, and doing so doesn't mean a loss of support
- - They promise long-term support and spares for their printers
+- It's a long-established brand, with a strong history of delivery
+- Their machines have been consistently well-received across the years
+- They have (apparently, I've never used it) good customer support, as well as a strong online community
+- They have a lot of documentation and guidance online
+- They expect you to modify and repair your printer, and doing so doesn't mean a loss of support
+- They promise long-term support and spares for their printers
 
 A year later, all of the above assumptions have proven to be robust. The one downside I've discovered (and it's not
-*that*
+_that_
 significant), is that, because Prusa is a Czech company, a lot of parts (and sometimes, the printers and larger
 accessories)
 tend to have to be shipped from the Czech Republic, which means shipping costs are high - although shipping can be
@@ -39,8 +40,8 @@ surprisingly fast. It's also worth noting that, outside the EU (eg, here in the 
 import
 duty.
 
-Prusa do *have* an official US reseller - [Printed Solid](https://www.printedsolid.com/), which is where I bought my
-original printer, but Prusa are *not* good at keeping them supplied with stock, which means going back to the EU source
+Prusa do _have_ an official US reseller - [Printed Solid](https://www.printedsolid.com/), which is where I bought my
+original printer, but Prusa are _not_ good at keeping them supplied with stock, which means going back to the EU source
 for a lot of parts.
 
 Before I go much further, the key questions:
@@ -52,7 +53,7 @@ as you challenge it and yourself with advanced materials or models. However, it'
 of the box".
 
 It is worth being aware that the MK3S+ is an older model - to the extent of being [recently discontinued](https://blog.prusa3d.com/goodbye-mk3-the-end-of-an-era-is-close-or-is-it_93213/) in favor
-of the Mini and MK4. If you want this model, you'll need to head to Prusa or Printed Solid before remaining stock runs 
+of the Mini and MK4. If you want this model, you'll need to head to Prusa or Printed Solid before remaining stock runs
 out.
 
 But this isn't a review of the MK3S+; it's intended to be a general intro to 3D printing and a reflection on owning a
@@ -74,16 +75,16 @@ from any manufacturer are generally compatible with any filament printer.
 That's about all I know about resin - the MK3S+ is a filament printer, also known as FFF (Fused Filament Fabrication) or
 FDM (Fused Deposition Modeling). So the rest of this piece will be relevant to that technology.
 
-Given that a decent printer *will* just work off the shelf, the essential guidance is pretty minimal:
+Given that a decent printer _will_ just work off the shelf, the essential guidance is pretty minimal:
 
- - Get an assembled, reliable printer from a known brand
- - Stick to PLA until it won't do what you need
- - Know the dimension of filament your printer uses, and check it on each purchase. Note that filament size is constant
+- Get an assembled, reliable printer from a known brand
+- Stick to PLA until it won't do what you need
+- Know the dimension of filament your printer uses, and check it on each purchase. Note that filament size is constant
   for each printer, and doesn't affect print quality - it's the setup of the print job that decides that.
 
 It's worth being aware of what you'll need in terms of a workspace. Ideally, you'll want to have it on a decent-sized,
-robust table, in a place where it's out of your way and the noise won't be an issue (they're generally not *that* loud,
-but they're not work / family friendly). Filament *can* outgas a little, and there can be varying degrees of odor, so
+robust table, in a place where it's out of your way and the noise won't be an issue (they're generally not _that_ loud,
+but they're not work / family friendly). Filament _can_ outgas a little, and there can be varying degrees of odor, so
 you won't want it in a bedroom or dining area while it's in use. Another thing to be aware of is that prints can often
 take hours (even the smallest model will be 30-minutes to a couple hours), depending on the printer, and you may be
 running a print for 10-24 hours if you want to use your printer's full-size capability.
@@ -109,15 +110,15 @@ work out fine.
 
 The shape files you're likely to find are generally STL, STEP or 3MF files:
 
- - **STL** files are one of the most common, basic interoperable files. Sources disagree on what it stands for, but
+- **STL** files are one of the most common, basic interoperable files. Sources disagree on what it stands for, but
   essentially an STL file describes a single, solid shape, generally as a triangular mesh. Almost everything you might
   download is available in this format.
- - **STEP** files similarly describe shapes, but with a slightly more advanced geometry (although you're unlikely to
+- **STEP** files similarly describe shapes, but with a slightly more advanced geometry (although you're unlikely to
   notice the difference from STL-sourced prints)
- - **3MF** files are more advanced - think of them as project files rather than single shapes. These can contain one or
+- **3MF** files are more advanced - think of them as project files rather than single shapes. These can contain one or
   many shapes, but also color & settings data, eg materials and speeds to use, and possibly printer-specific settings.
   These are also the file you'll tend to save from your slicer (more below) to be able to return to and modify the
-  settings you used last time. These files *might* be set up for a specific material or printer, but you can often
+  settings you used last time. These files _might_ be set up for a specific material or printer, but you can often
   change these in your slicer.
 
 I've probably used the word "slicer" enough now that I should define it.

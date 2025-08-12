@@ -1,17 +1,19 @@
 ---
-description: parsingphase.dev 
+description: parsingphase.dev
 title: Photography
+layout: mylayout.njk
 ---
+
 Hi, I'm **Richard**, AKA parsingphase
 
 I take photos as a hobby, and write code as a profession.
 
 <p class="nav"><a href="/"> <i class="fas fa-laptop-code"></i> Software</a> | <i class="fas fa-camera"></i> Photography</p>
 
-{% include carousel.html height="410" unit="px" duration="7" %}
+<img src="../images/harrier.jpg" alt="Northern Harrier" />
 
 <strong>Are you here because I gave you a card while birding? <br />You might be looking for my main collection at
-<i class="fab fa-flickr"></i> [my Flickr account](https://www.flickr.com/photos/parsingphase) or 
+<i class="fab fa-flickr"></i> [my Flickr account](https://www.flickr.com/photos/parsingphase) or
 <i class="fa fa-leaf"></i> [my iNaturalist sightings](https://www.inaturalist.org/observations?user_id=parsingphase).</strong>
 
 ---
@@ -38,8 +40,8 @@ images and memories that are incredibly calming and satisfying to browse in a di
 I've collected my favorites from this first year of wildlife photography at<br />
 <i class="fas fa-globe"></i> [photography.parsingphase.com](https://photography.parsingphase.com). Many more images
 can be found on
-<i class="fab fa-flickr"></i> [my Flickr account](https://www.flickr.com/photos/parsingphase), where many of the 
-wildlife images are available under a 
+<i class="fab fa-flickr"></i> [my Flickr account](https://www.flickr.com/photos/parsingphase), where many of the
+wildlife images are available under a
 <i class="fab fa-creative-commons"></i> [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/) license.
 
 In addition to the images themselves, I've also given <i class="far fa-images"></i>
@@ -49,47 +51,6 @@ and written up <i class="fab fa-medium"></i>
 for new photographers which have proven popular.
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
-<style type="text/css" media="screen">
-.inat-widget { padding: 10px; line-height: 1;}
-.inat-widget-header {margin-bottom: 10px;}
-.inat-widget td {vertical-align: top; padding-bottom: 10px;}
-.inat-label { color: #888; }
-.inat-meta { font-size: smaller; margin-top: 3px; line-height: 1.2}
-.inat-observation-body, .inat-user-body { padding-left: 10px; text-align: left; width: 272px}
-.inat-observation-image {text-align: center;}
-.inat-observation-image, .inat-user-image { width: 48px; display: inline-block; }
-.inat-observation-image img, .inat-user-image img { max-width: 48px; }
-.inat-observation-image img { vertical-align: middle; }
-.inat-widget-small .inat-observation-image { display:block; float: left; margin: 0 3px 3px 0; height:48px;}
-.inat-user-body {vertical-align: middle;}
-.inat-widget td.inat-user-body {vertical-align: middle;}
-.inat-widget .inat-footer td.inat-value {vertical-align: middle; padding-left: 10px;}
-.sightings-container { background-color: #eee; padding: 10px; margin-right: 10px; max-width: 375px }
-@media (min-width: 1500px) {
-    .sightings-container {
-position: absolute; right: 20px; top: 20px; 
-    }
-}
-</style>
+---
 
-<div class="sightings-container">
-    <h2 style="font-size: 1.8em; padding-left: 10px">Latest Sightings</h2>
-    <div class="inat-widget">
-        <div class="inat-widget-header">
-          <a href="https://www.inaturalist.org"><img alt="iNaturalist" src="https://www.inaturalist.org/assets/logo-small-07f1d55e02e592c643a9bd7d52f8c926.gif" /></a>  
-        </div>
-      <script type="text/javascript" charset="utf-8" src="https://www.inaturalist.org/observations/parsingphase.widget?layout=large&limit=5&order=desc&order_by=observed_on"></script>
-      <table class="inat-footer">
-        <tr class="inat-user">
-            <td class="inat-user-image">
-              <a border="0" href="https://www.inaturalist.org/observations/parsingphase"><img class="usericon" src="https://static.inaturalist.org/attachments/users/icons/3220306/thumb.jpeg?1592773303" alt="Thumb" /></a>
-            </td>
-          <td class="inat-value">
-            <strong>
-                <a href="https://www.inaturalist.org/observations/parsingphase">View parsingphase's observations »</a>
-            </strong>
-          </td>
-        </tr>
-      </table>
-    </div>
-</div>
+[Back to site index](..)

@@ -1,26 +1,28 @@
 ---
 description: 'Mastodon "Day One" Guide'
 title: 'Mastodon "Day One" Guide'
+layout: mylayout.njk
 ---
+
 <style>body { color: #000 } .inner { min-width: 80% } a { color: #d5000d }</style>
 
-This guide, focussed towards Twitter / "𝕏" migrants, is intended to tell you enough about Mastodon to let you decide 
+This guide, focussed towards Twitter / "𝕏" migrants, is intended to tell you enough about Mastodon to let you decide
 whether to create an account, and if so, to get started, all in well under an hour.
 
-It is *not* an in-depth guide, but I'll provide links to more advanced ones at the end.
+It is _not_ an in-depth guide, but I'll provide links to more advanced ones at the end.
 
-# What *is* Mastodon?
+# What _is_ Mastodon?
 
-Essentially, it's "like Twitter (or rather, like it was before its technical and social suicide), but distributed". 
-Content is public by default, open to the world, and you can read such anyone's public content without signing up to 
+Essentially, it's "like Twitter (or rather, like it was before its technical and social suicide), but distributed".
+Content is public by default, open to the world, and you can read such anyone's public content without signing up to
 anything.
 
 The differences are that it's non-commercial, and distributed (or "federated"). What does that mean?
 
- - Mastodon runs on multiple, separate systems called "instances" each with their own web address, as opposed to
+- Mastodon runs on multiple, separate systems called "instances" each with their own web address, as opposed to
   Twitter which runs on one central system at Twitter.com
 
- - Each of these instances is run by a different group, mostly non-profit or community, so the whole thing isn't under
+- Each of these instances is run by a different group, mostly non-profit or community, so the whole thing isn't under
   the control of one company, and can't suddenly all change hands at once.
 
 Once you're on it… it feels pretty much like Twitter used to, but with no ads or algorithms. Strictly, it's not a network
@@ -37,10 +39,10 @@ There are a few sites often suggested as alternatives:
 ### CounterSocial
 
 CounterSocial is a Mastodon-based service whose admins had a public falling-out with the lead developer of Mastodon,
-copied the code and tried to remove the sharing features and turn it into a closed-by-default service. Strangely, 
-CounterSocial profiles still advertise themselves as standard Mastodon ones for wider access, and private pages are 
+copied the code and tried to remove the sharing features and turn it into a closed-by-default service. Strangely,
+CounterSocial profiles still advertise themselves as standard Mastodon ones for wider access, and private pages are
 very weakly protected. The backstory and obvious software issues mean that I suggest people avoid this service; if you
-want public sharing, use a public Mastodon instance, and if you want a closed system, use one designed that way in the 
+want public sharing, use a public Mastodon instance, and if you want a closed system, use one designed that way in the
 first place.
 
 ### cohost
@@ -54,8 +56,8 @@ As a closed, age-limited community, this doesn't feel like a direct alternative 
 
 ### Threads & BlueSky
 
-These are both commercial services where your interactions are subject to algorithmic control, created and run by the 
-same techbros who created Facebook and Bluesky, with the same underlying politics. Neither of these services appear 
+These are both commercial services where your interactions are subject to algorithmic control, created and run by the
+same techbros who created Facebook and Bluesky, with the same underlying politics. Neither of these services appear
 fully-featured or fully-functional at this time, and neither - yet - allow you to connect to other services.
 
 ## Concerns
@@ -69,8 +71,8 @@ want more detail, read [Social Media DM Security](socialMediaDMSecurity.md)
 
 ### Speed & reliability
 
-During the first few waves of mass exodus from Twitter, a lot of users were either creating entirely new accounts, or 
-reviving old accounts that had sat idle for years, and the resulting surge in load meant that Mastodon servers ran 
+During the first few waves of mass exodus from Twitter, a lot of users were either creating entirely new accounts, or
+reviving old accounts that had sat idle for years, and the resulting surge in load meant that Mastodon servers ran
 slowly or poorly for a while. These days, the system is far more resilient against twitter's tantrums, and most servers
 are running without a problem.
 
@@ -80,7 +82,7 @@ All human life is on Mastodon, for better or worse, and the federation system bo
 instances have their own moderators, usually fairly explicit in their rules and beliefs, and they will deal with issues
 within their own instances. While there are, unfortunately, Nazi and similar instances out there (because humans),
 you can generally avoid that content by simply not creating your account on one, because most instances simply cut off
-communication with them. While the federation system means that all instances *can* intercommunicate, it doesn't mean
+communication with them. While the federation system means that all instances _can_ intercommunicate, it doesn't mean
 they have to, and blocking an instance is an easy way to isolate aggressors en-masse.
 
 On the flip side, this also means some instances very explicitly allow adult content. The extent to which this content
@@ -94,9 +96,9 @@ prevalent, and most particularly in Germany, which has strong laws against Nazi 
 
 # How do I get an account?
 
- - Pick an open instance
- - Go to its homepage
- - Fill out the signup form
+- Pick an open instance
+- Go to its homepage
+- Fill out the signup form
 
 That first point is the stumbling block for 95% of would-be users, so let's cover what an instance is and how to find
 one.
@@ -133,27 +135,27 @@ you or the server is open, join them.
 
 Otherwise, there are a few larger servers which are accepting self-signups at the time of writing, including:
 
- - [Masto.AI](https://masto.ai/about) 
- - [Federate.Social](https://federate.social/about)
- - [Mstdn.social](https://mstdn.social/about)
- - [Mas.to](https://mas.to/about)
+- [Masto.AI](https://masto.ai/about)
+- [Federate.Social](https://federate.social/about)
+- [Mstdn.social](https://mstdn.social/about)
+- [Mas.to](https://mas.to/about)
 
 You can also consider one of these smaller, regional instances, which are sometimes less heavily loaded, but can still
 fully interconnect with all other Mastodon users:
 
- - [Mastodonapp.UK](https://mastodonapp.uk/about)
- - [Mastodon.Scot](https://mastodon.scot/about)
- - [Toot.Wales](https://toot.wales/about)
- - [Mastodon.IE (Ireland)](https://mastodon.ie/about)
- - [Mastodon.Uno (Italy)](https://mastodon.uno/about)
- - [Masto.PT (Portugal)](https://masto.pt/about)
- - [Social.tchncs (Germany)](https://social.tchncs.de/about)
+- [Mastodonapp.UK](https://mastodonapp.uk/about)
+- [Mastodon.Scot](https://mastodon.scot/about)
+- [Toot.Wales](https://toot.wales/about)
+- [Mastodon.IE (Ireland)](https://mastodon.ie/about)
+- [Mastodon.Uno (Italy)](https://mastodon.uno/about)
+- [Masto.PT (Portugal)](https://masto.pt/about)
+- [Social.tchncs (Germany)](https://social.tchncs.de/about)
 
 Less direct answer (but more reliable long-term): Take a look at one of the following lists and pick one that's open and
 looks interesting.
 
- - [joinmastodon.org/servers](https://joinmastodon.org/servers)
- - [instances.social](https://instances.social/)
+- [joinmastodon.org/servers](https://joinmastodon.org/servers)
+- [instances.social](https://instances.social/)
 
 Remember… you can choose a new server in future if you want; you're not limited to one account, and you can redirect an
 old account to a future one later on. Whichever server you choose, please make sure you read their rules and policies to
@@ -173,9 +175,9 @@ you can choose a `username` that matches what you had on Twitter.
 
 # I've got an account. Now what?
 
- - Fill out your bio
- - Start posting, possibly with a brief intro
- - Follow people
+- Fill out your bio
+- Start posting, possibly with a brief intro
+- Follow people
 
 Strictly, you can do these in any order, but if you do them in the order above, it'll give people more idea who just
 followed them and you'll be more likely to get a follow back. If you're short on inspiration for your bio, or can't
@@ -187,30 +189,30 @@ The bio and first post are easy. Finding people is a little trickier.
 
 ## How do I follow my Twitter friends on Mastodon?
 
-There used to be tools to scan your friends list, but these were all deliberately broken by Twitter when they closed 
-their API months ago. You can *try* asking them, but Twitter may just block your post.
+There used to be tools to scan your friends list, but these were all deliberately broken by Twitter when they closed
+their API months ago. You can _try_ asking them, but Twitter may just block your post.
 
 ## How do I follow someone whose address I know?
 
 The general purpose answer to a lot of things in the web interface of most Mastodon websites is "stick it in the search
 bar". For example, if you paste `@feditips@mstdn.social` into the search bar and hit search, it'll give you the chance
-to follow an account with a very useful set of daily tips. This also generally works with the URL of a user's profile 
+to follow an account with a very useful set of daily tips. This also generally works with the URL of a user's profile
 page, which can be useful if the address itself isn't clear.
 
-Another alternative, if you want to follow someone from their profile page that's not on your server, is to use the 
+Another alternative, if you want to follow someone from their profile page that's not on your server, is to use the
 [Mastodon "Instance Changer" bookmarklet](https://homepages.inf.ed.ac.uk/imurray2/code/mastodon.html), which smooths out
 a lot of the friction caused by Mastodon's multi-server nature.
 
 ## How do I find new people?
 
- - Browse the "explore", "local" or "federated" feeds of your site
- - Check our directories like [Fedi.directory](https://fedi.directory/)
- - Search for hashtags, and **follow them** - hashtags are far more powerful on the Fediverse than on Twitter - 
-firstly, on most instances they're the only thing you can search for (apart from usernames), and secondly, you can 
-follow them to get all the locally available posts on that topic. Not only do they get you into the conversation before 
-you can find specific people to follow, but they'll also help you find those people as they post.
- - On the flip side, make liberal use of **relevant** hashtags in your own posts to let them and you be found and to 
-get them included in the wider conversation.
+- Browse the "explore", "local" or "federated" feeds of your site
+- Check our directories like [Fedi.directory](https://fedi.directory/)
+- Search for hashtags, and **follow them** - hashtags are far more powerful on the Fediverse than on Twitter -
+  firstly, on most instances they're the only thing you can search for (apart from usernames), and secondly, you can
+  follow them to get all the locally available posts on that topic. Not only do they get you into the conversation before
+  you can find specific people to follow, but they'll also help you find those people as they post.
+- On the flip side, make liberal use of **relevant** hashtags in your own posts to let them and you be found and to
+  get them included in the wider conversation.
 
 ## Do people have to approve my follow requests?
 
@@ -227,10 +229,10 @@ Please help maintain these conventions to keep Mastodon a healthy and inclusive 
 
 So, please:
 
- - Read and follow your local instance's rules
- - Add Alt Text to all your images
- - Use #CamelCase to make hashtags easier to read, and clearer for screen readers
- - Use the "Content Warning" function where appropriate.
+- Read and follow your local instance's rules
+- Add Alt Text to all your images
+- Use #CamelCase to make hashtags easier to read, and clearer for screen readers
+- Use the "Content Warning" function where appropriate.
 
 It's also worth remembering that Mastodon is non-commercial, it's not selling adverts or blue ticks, and running servers
 and developing software cost money.
@@ -243,7 +245,7 @@ and no way of seeing if a given account does or not.
 
 ## Use an app on your phone or tablet
 
-I can only speak for Apple devices as that's what I use. My preferred client is [Ivory](https://tapbots.com/ivory/), 
+I can only speak for Apple devices as that's what I use. My preferred client is [Ivory](https://tapbots.com/ivory/),
 but [MetaText](https://apps.apple.com/us/app/metatext/id1523996615) is also worth checking out if you want a completely
 free option.
 
@@ -267,14 +269,14 @@ But if you own a website, you can "prove" that you're the owner of that site and
 
 # Finally
 
-I'm deliberately keeping this guide *really* short, as there are other great ones online. If you want to find me on
+I'm deliberately keeping this guide _really_ short, as there are other great ones online. If you want to find me on
 Mastodon to follow (you'll get a daily feed of pretty decent wild bird photography, for a start), or to ask questions,
 I'm at [@parsingphase@m.phase.org](https://m.phase.org/@parsingphase).
 
 Those other guides include:
 
- - [(An Increasingly Less-Brief) Guide To Mastodon](http://guidetomastodon.com)
- - [Fedi.tips](https://fedi.tips/)
+- [(An Increasingly Less-Brief) Guide To Mastodon](http://guidetomastodon.com)
+- [Fedi.tips](https://fedi.tips/)
 
 ---
 

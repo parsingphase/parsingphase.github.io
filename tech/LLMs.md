@@ -1,7 +1,8 @@
 ---
-description: 'Thoughts on LLMs'
-title: 'Thoughts on LLMs'
+description: "Thoughts on LLMs"
+title: "Thoughts on LLMs"
 ---
+
 <div class="llms-page">
 In no particular order, and with no claims of completeness even in terms of cataloging existing thoughts.
 
@@ -43,6 +44,9 @@ In no particular order, and with no claims of completeness even in terms of cata
 15. By passing composite information as neutral, LLMs will always serve to propagate existing biases (sometimes through the express intent of their operators).
 16. It is not coincidence that many of the primary proponents of LLMs have atrocious political and social views; it is clear that many see them as a way to accumulate wealth and power rather than further knowledge or better society.
 17. The black-box nature of LLM mechanisms and datasets produces significant security and privacy issues.
-18. The personal costs of LLM interaction and dependency have already been proven significant, leading to deaths.
-    - Both in terms of harm to the user, and to wider society (in terms of radicalization)
+18. The personal costs of LLM interaction and dependency have already been proven significant, leading to deaths. - Both in terms of harm to the user, and to wider society (in terms of radicalization)
 </div>
+
+---
+
+[Back to site index](..)
