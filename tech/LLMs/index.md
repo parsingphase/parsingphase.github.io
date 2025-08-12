@@ -1,12 +1,13 @@
 ---
 description: "Thoughts on LLMs"
 title: "Thoughts on LLMs"
+layout: mylayout.njk
 ---
 
 <div class="llms-page">
-In no particular order, and with no claims of completeness even in terms of cataloging existing thoughts.
+A braindump, in no particular order, and with no claims of completeness even in terms of cataloging existing thoughts.
 
-1. There are numerous psychological factors why we overestimate the performance and utility of LLMs
+1. There are numerous [psychological factors](psychologicalFactors) why we overestimate the performance and utility of LLMs
    - Lack of existing language to understand and define them
    - Pareidolia of mind
    - Chat factor
@@ -24,8 +25,10 @@ In no particular order, and with no claims of completeness even in terms of cata
    - It is very clear that once the work is produced, the appetite for checking it is limited
    - LLMs steal joy, reducing creative tasks to the drudgery of housekeeping their errors
 5. LLMs have no concepts of "truth" or "harm", because they **have no concepts**.
-6. LLMs are not intelligence; they "pass" (and therefore invalidate) the Turing Test by "copying the answers".
+6. LLMs are not intelligence; they sidestep the Turing Test by "copying the answers".
 7. LLMs will never "threaten" us, because they have no will, even if we try to give them "agency" (itself an overloaded word here).
+    - Agency is both the ability to have independent thought, and the ability to act independently. "Agentic AIs" are LLMs that have no volition of their own, but have been given authority to act without oversight.
+    - Under this description, the script of https://xkcd.com/576/ is "agentic".
 8. LLMs are not AI, in the sense of classical AI research, nor an equivalence of the human (or any other) mind, per cognitive science. They are statistical tricks.
 9. LLMs do not hallucinate, they bullshit, and they do so equally when producing correct or incorrect outputs.
 10. LLM technology will probably not advance significantly over its current state. Any "true" AI will come from very different technologies.
@@ -39,7 +42,7 @@ In no particular order, and with no claims of completeness even in terms of cata
     - Environmental impacts
     - Use to defer action on genuine global issues, because "Tech will save us".
 12. LLMs cannot be accountable, and are used to obscure accountability for others.
-13. The Environmental impacts of LLMs are _at best_ unclear, and deliberately so. They may already be, and likely will become, significant.
+13. The environmental impacts of LLMs are _at best_ unclear, and deliberately so. They may already be, and likely will become, significant.
 14. LLMs, being inherently averaging, will never produce true innovation or insight; at best they can produce eccentricity, a factor of error not of novelty.
 15. By passing composite information as neutral, LLMs will always serve to propagate existing biases (sometimes through the express intent of their operators).
 16. It is not coincidence that many of the primary proponents of LLMs have atrocious political and social views; it is clear that many see them as a way to accumulate wealth and power rather than further knowledge or better society.
@@ -47,6 +50,16 @@ In no particular order, and with no claims of completeness even in terms of cata
 18. The personal costs of LLM interaction and dependency have already been proven significant, leading to deaths. - Both in terms of harm to the user, and to wider society (in terms of radicalization)
 </div>
 
+## References
+
+ - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922)
+ - [The lethal trifecta for AI agents: private data, untrusted content, and external communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/)
+ - [Computing Machinery and Intelligence](http://www.jstor.org/stable/2251299)
+ - [ChatGPT is bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)
+ - [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://arxiv.org/abs/2506.08872)
+ - [LLMs are Bug Replicators: An Empirical Study on LLMs' Capability in Completing Bug-prone Code](https://arxiv.org/abs/2503.11082)
+ - [The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence](https://firstmonday.org/ojs/index.php/fm/article/view/13636)
+
 ---
 
-[Back to site index](..)
+[Back to site index](../..)

@@ -13,7 +13,7 @@ Hi, I'm **Richard**, AKA parsingphase
 
 I take photos as a hobby, and write code as a profession.
 
-<p class="nav"><i class="fas fa-laptop-code"></i> Software | <a href="/photography/"> <i class="fas fa-camera"></i> Photography</a> | <a href="/3dPrinting/"> <i class="fa fa-cube" aria-hidden="true"></i> 3D Printing</a> | <a href="/mastodon/"> <i class="fab fa-mastodon"></i> Mastodon Guide</a> | <a href="/bluesky/"> <i class="fas fa-globe"></i> Bluesky</a></p>
+<p class="nav"><i class="fas fa-laptop-code"></i> Software | <a href="/photography/"> <i class="fas fa-camera"></i> Photography</a> | <a href="/3dPrinting/"> <i class="fa fa-cube" aria-hidden="true"></i> 3D Printing</a> | <a href="/mastodon/"> <i class="fab fa-mastodon"></i> Mastodon Guide</a> | <a href="/bluesky/"> <i class="fas fa-globe"></i> Bluesky</a> | <a href="/tech/LLMs/"> <i class="fas fa-wave-square"></i> LLMs</a></p>
 
 On the software side, I build things in Typescript and Python, and previously PHP and Java
 
@@ -111,6 +111,13 @@ A management app for a karaoke-style event that I used to run with my wife and f
 ## Created for clients and open-sourced
 
 - <i class="fab fa-github" title="Source"></i> [https://github.com/MapleSyrupGroup/dbsampler](https://github.com/MapleSyrupGroup/dbsampler)
+
+
+## Social
+
+- Bluesky: [@parsingphase.dev](https://bsky.app/profile/parsingphase.dev)
+- Mastodon: <a style="display: none" rel="me" href="https://mastodon.social/@parsingphase">@parsingphase@mastodon.social</a> <a rel="me" href="https://m.phase.org/@parsingphase">@parsingphase@m.phase.org</a>
+- PeerTube: [@parsingphase@spectra.video](https://spectra.video/a/parsingphase/video-channels) - mostly trailcam wildlife videos
 
 ---
 

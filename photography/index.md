@@ -16,6 +16,9 @@ I take photos as a hobby, and write code as a profession.
 <i class="fab fa-flickr"></i> [my Flickr account](https://www.flickr.com/photos/parsingphase) or
 <i class="fa fa-leaf"></i> [my iNaturalist sightings](https://www.inaturalist.org/observations?user_id=parsingphase).</strong>
 
+You might also be interested in my <strong><i class="fas fa-photo-video"></i> 
+[trailcam videos on PeerTube](https://spectra.video/a/parsingphase/video-channels)</strong>.
+
 ---
 
 I've been a casual photographer for most of my life, starting with

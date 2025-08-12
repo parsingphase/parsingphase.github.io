@@ -98,3 +98,9 @@ body {
 a {
     text-decoration: none;
 }
+
+.llms-page a { color: #d5000d }
+
+ol > li {
+    margin-bottom: 0.6em;
+}
