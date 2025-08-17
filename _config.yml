@@ -1,5 +1,5 @@
 theme: jekyll-theme-tactile
-lang: en-GB
+lang: en-US
 title: parsingphase.dev
 show_downloads: false
 exclude: [.idea, .git, tools]

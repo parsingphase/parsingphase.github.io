@@ -1,4 +1,8 @@
-# Thoughts on LLM usage in software development
+---
+description: 'Thoughts on LLM usage in software development'
+title: 'Thoughts on LLM usage in software development'
+---
+
 # Introduction
 
 There is currently considerable excitement around the use of LLMs in development, but little in the way of structured analysis of the immediate impact. The industry’s providers provide plenty of sound and fury, generally pairing impressive promises for its adherents with dire warnings for those “left behind”, while those seeking to provide some form of critique, lacking the billions of dollars poured into the industry, tend to be more dispersed, but sufficiently verbose that their output takes considerable time to analyze.
