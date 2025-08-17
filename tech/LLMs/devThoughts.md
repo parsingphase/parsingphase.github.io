@@ -137,7 +137,7 @@ I’ll finish by re-iterating my initial comments on the limits of this article;
 
 [^8]: [https://peertube.dair-institute.org/w/m5Hb4QbhZWkssGu4kmWbgT](https://peertube.dair-institute.org/w/m5Hb4QbhZWkssGu4kmWbgT)
 
-[^9]: See “Substrate engineering | Chris Krycho | StaffPlus New York 2024” [https://www.youtube.com/watch?v=VkSGJdPyLxQ](https://www.youtube.com/watch?v=VkSGJdPyLxQ)
+[^9]: See "Substrate engineering - Chris Krycho - StaffPlus New York 2024" [https://www.youtube.com/watch?v=VkSGJdPyLxQ](https://www.youtube.com/watch?v=VkSGJdPyLxQ)
 
 [^10]: Should we consider this a “send in more training data” solution?
 
