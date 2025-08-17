@@ -121,31 +121,31 @@ I’ll finish by re-iterating my initial comments on the limits of this article;
 
 
 
-[^1]: ~[https://en.wikipedia.org/wiki/Extraordinary_claims_require_extraordinary_evidence](https://en.wikipedia.org/wiki/Extraordinary_claims_require_extraordinary_evidence)~
+[^1]: [https://en.wikipedia.org/wiki/Extraordinary_claims_require_extraordinary_evidence](https://en.wikipedia.org/wiki/Extraordinary_claims_require_extraordinary_evidence)
 
 [^2]: “Fear Of Missing Out”, the gateway drug to YOLO, or “You Only Live Once”
 
-[^3]: There is a useful term for the tendency to accept “(nearly) good enough” work when further investment is not worthwhile – “satisficing”. See ~[https://www.thebehavioralscientist.com/glossary/satisficing](https://www.thebehavioralscientist.com/glossary/satisficing)~.
+[^3]: There is a useful term for the tendency to accept “(nearly) good enough” work when further investment is not worthwhile – “satisficing”. See [https://www.thebehavioralscientist.com/glossary/satisficing](https://www.thebehavioralscientist.com/glossary/satisficing).
 
 [^4]: I use the term “fabrication” here where some would say “hallucination”. “Hallucination” is problematic for several reasons. Firstly, it uses the language of mind where no mind is present, and therefore biases our analysis of the tooling. Secondly, it presumes a rare, extreme, and abnormal event. In fact, as a stochastic output, a “hallucination” is no different from what happens when an LLM gives a correct answer; both cases operate through the same mechanism, and with the same confidence. Another correct, and more widely used term that reflects this is ”bullshitting”, per its usage by Harry G Frankfurt; information produced where the concern is 100% for confidence and 0% for accuracy^. However, while I don’t disagree with the term personally, its usage, particularly for those unfamiliar with Frankfurt’s context, can negatively impact the tone of a discussion and its perceived seriousness.  ^ As LLMs hold no concepts, let alone a concept of truth or falsity, they cannot be coded for accuracy. Their output language, however, will maintain a consistent level of apparent confidence, which can be affected by its scoping.
 
 [^5]: One nine is 9/10, two nines is 99/100 etc. A common aim for services underlying production systems is 5 nines, which means 99.999% uptime – 5 minutes of outage per year
 
-[^6]: ~[https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/](https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/)~
+[^6]: [https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/](https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/)
 
-[^7]: ~[https://arstechnica.com/ai/2025/07/study-finds-ai-tools-made-open-source-software-developers-19-percent-slower/](https://arstechnica.com/ai/2025/07/study-finds-ai-tools-made-open-source-software-developers-19-percent-slower/)~ introduces the study generally referenced in this area.
+[^7]: [https://arstechnica.com/ai/2025/07/study-finds-ai-tools-made-open-source-software-developers-19-percent-slower/](https://arstechnica.com/ai/2025/07/study-finds-ai-tools-made-open-source-software-developers-19-percent-slower/) introduces the study generally referenced in this area.
 
-[^8]: ~[https://peertube.dair-institute.org/w/m5Hb4QbhZWkssGu4kmWbgT](https://peertube.dair-institute.org/w/m5Hb4QbhZWkssGu4kmWbgT)~
+[^8]: [https://peertube.dair-institute.org/w/m5Hb4QbhZWkssGu4kmWbgT](https://peertube.dair-institute.org/w/m5Hb4QbhZWkssGu4kmWbgT)
 
-[^9]: See “Substrate engineering | Chris Krycho | StaffPlus New York 2024” ~[https://www.youtube.com/watch?v=VkSGJdPyLxQ](https://www.youtube.com/watch?v=VkSGJdPyLxQ)~
+[^9]: See “Substrate engineering | Chris Krycho | StaffPlus New York 2024” [https://www.youtube.com/watch?v=VkSGJdPyLxQ](https://www.youtube.com/watch?v=VkSGJdPyLxQ)
 
 [^10]: Should we consider this a “send in more training data” solution?
 
 [^11]: While these systems may not be strictly LLMs, and are more generally referred to as AI, the truth is that there are at this time no true artificial intelligences. Referring to them as such tends to reinforce some of the more dubious claims made by their creators, as well as misrepresenting decades of AI research, so I’m reluctant to join in. Referring to them as “So-Called AI” (SCAI), or the more loaded “So-Called Artificial Mentation”, seems ungenerous, so I’ll risk over-using the term “LLM” to avoid constantly parroting the word “stochastic”. 
 
-[^12]: ~[https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel](https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel)~
+[^12]: [https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel](https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel)
 
-[^13]: Not to be confused with GANs (~[https://en.wikipedia.org/wiki/Generative_adversarial_network](https://en.wikipedia.org/wiki/Generative_adversarial_network)~), though there’s some overlap in the idea of adversary-as-feedback.
+[^13]: Not to be confused with GANs ([https://en.wikipedia.org/wiki/Generative_adversarial_network](https://en.wikipedia.org/wiki/Generative_adversarial_network)), though there’s some overlap in the idea of adversary-as-feedback.
 
 [^14]: To be clear, I think Substrate Engineering is an interesting discipline, and improving the robustness of deployed systems would improve our industry and help us reinforce the status of Software Engineering as Engineering. I just don’t think it can solve the problem of the potentially unbounded risks of stochastic development.
 
