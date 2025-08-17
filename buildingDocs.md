@@ -16,3 +16,11 @@
 `npx @11ty/eleventy --output tmp/local --pathprefix $PWD/tmp/local` - generate to tmp/local with relative paths
 
 - https://www.11ty.dev
+
+Codeberg pages: https://codeberg.page
+
+Gitlab pages: https://docs.gitlab.com/user/project/pages/custom_domains_ssl_tls_certification/#set-up-a-custom-domain
+
+https://static.app
+
+ https://docs.netlify.com/manage/domains/configure-domains/bring-a-domain-to-netlify/
