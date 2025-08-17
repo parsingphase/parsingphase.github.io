@@ -85,3 +85,13 @@ ol ul {
 ol > li {
   margin-bottom: 0.6em;
 }
+
+sup {
+  vertical-align: super !important;
+  font-size: smaller !important;
+  color: #d5000d !important;
+}
+
+sup a {
+  color: #d5000d !important;
+}
