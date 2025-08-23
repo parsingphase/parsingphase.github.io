@@ -112,6 +112,9 @@ Of these externalities, the environmental ones are intrinsic to all usage, while
 
 The current AI boom is often referred to as a “hype bubble”. Whether or not you agree with the analysis of it being a bubble, it is undeniable that hype is prevalent, and finding accurate and timely information is non-trivial. A balanced view of the industry and technologies will require attention to independent and academic sources, including those whose results may seem critical of the industry.
 
+It's worth addressing why it's so important to solicit external information here, too. After all, in-house analysis or pilot programs are a recognized approach for many medium-impact tools. Here again, the unique nature of LLM tooling is the issue; LLMs can reasonably be described as "seeming machines"; their strength is in "seeming to work", i.e. projecting confidence that is inherently unrelated to actual outcome or accuracy. This can mean that problems can be masked and not appear during initial use. Some other considerations can be found in [Psychological Factors.md](psychologicalFactors.md).
+
+
 # Conclusion
 
 Ultimately (at least, without significant legal changes unlikely to occur in the US in the near future), it is down to each company to choose the level of due diligence they apply, and whether they are prepared for any consequences for failing to do so. Further, it’s down to each company to weigh the factors they consider appropriate. However, as a matter of risk management, this decision of whether, and how, to make such an assessment should be recognized and deliberate, and any assessment made should be recorded for future reference.
