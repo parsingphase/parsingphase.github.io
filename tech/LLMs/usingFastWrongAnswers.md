@@ -47,10 +47,10 @@ In summary, I am not inclined, having explored the idea in this essay, to believ
 
 [^3]: Like everything else here, speed is relative. “Chatbots” are rarely truly conversationally fast. So I’m kinda taking “fast” as a measure of “reduced human time and effort” here.
 
-[^4] There’s also the problem of those who use LLMs without understanding, despite warnings, that LLMs are not reliable. For anyone who’s grown up with every car ad saying “do not attempt” as a car drives down an empty road, or every health product saying “this product does not treat… any disease”, it’s not actually that huge a leap to consider warnings to be generally meaningless. But: if you do not understand the risks of LLMs, you should not use them. And this also means: children should not use them.
+[^4]: There’s also the problem of those who use LLMs without understanding, despite warnings, that LLMs are not reliable. For anyone who’s grown up with every car ad saying “do not attempt” as a car drives down an empty road, or every health product saying “this product does not treat… any disease”, it’s not actually that huge a leap to consider warnings to be generally meaningless. But: if you do not understand the risks of LLMs, you should not use them. And this also means: children should not use them.
 
-[^5] The use of LLMs as tools to “flood the zone”, however, is itself a problem that is not adequately addressed by society.
+[^5]: The use of LLMs as tools to “flood the zone”, however, is itself a problem that is not adequately addressed by society.
 
-[^6] For code, a full validation will by necessity involve reading and understanding every line. No developer should ever submit code they themselves cannot understand or could not write.
+[^6]: For code, a full validation will by necessity involve reading and understanding every line. No developer should ever submit code they themselves cannot understand or could not write.
 
-[^7] [The Rise of Slopsquatting: How AI Hallucinations Are Fueling...](https://socket.dev/blog/slopsquatting-how-ai-hallucinations-are-fueling-a-new-class-of-supply-chain-attacks)
+[^7]: [The Rise of Slopsquatting: How AI Hallucinations Are Fueling...](https://socket.dev/blog/slopsquatting-how-ai-hallucinations-are-fueling-a-new-class-of-supply-chain-attacks)
