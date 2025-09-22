@@ -119,6 +119,7 @@ Ultimately, then, my feelings are that LLM development is a distraction, but als
 
 I’ll finish by re-iterating my initial comments on the limits of this article; I’m writing only about one aspect of LLMs, their use in the development cycle, and drawing conclusions only in that area. I’m very well aware that there is a lot more to be said in other areas, particularly their environmental and social impacts, and while I’ve many more thoughts, trying to structure them in this sort of article is a task for another time.
 
+<hr />
 
 
 [^1]: [https://en.wikipedia.org/wiki/Extraordinary_claims_require_extraordinary_evidence](https://en.wikipedia.org/wiki/Extraordinary_claims_require_extraordinary_evidence)
