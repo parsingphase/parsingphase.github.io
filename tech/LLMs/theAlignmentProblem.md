@@ -1,6 +1,6 @@
 ---
 description: GenAI has an Alignment Problem
-title: GenAI has an Alignment Problem - we don't need its solutions and we can't handle its inherent problems
+title: GenAI has an Alignment Problem - we don't need its solutions and we can't handle its intrinsic problems
 ---
 
 But it’s not the machine’s hostility we need to worry about.
