@@ -160,7 +160,7 @@ I proposed, month ago, that:
 
 Turns out, that was only a fraction of the story. In fact, we’ve now seen that:
 
-The business model of the LLM industry is **to centralize both wealth and cognition by** renting **mass-produced, government-approved** thoughts back to us, **while fostering both technical and psychological dependence.**
+The business model of the LLM industry is **to centralize both wealth and cognition by** renting **mass-produced, government-approved** thoughts back to us **with ads**, **while fostering both technical and psychological dependence.**
 
 Bit of a mess that, really. But we’ve seen it happening, in an opposition to “woke AI” that basically amounts to “LLMs should only emit output aligned with right-wing beliefs”, in Elon Musk continually pushing Grok to reflect his own mindset until it started producing deepfake nudes and CSAM, and in redefining education to mean not producing work through your own learning, but to present AI-generated “essays” that barely exercise the student’s brain. It’s been well said that using an AI to produce educational work is like taking a forklift to the gym.
 
