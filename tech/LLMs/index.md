@@ -7,4 +7,6 @@ title: "Notes on LLMs"
  - [Thoughts on LLM usage in software development](devThoughts.md), giving some general answers to the above
  - The [Psychological Factors](psychologicalFactors.md) that lead us to overestimate LLMs
  - [Building right from wrong - judging and obtaining usefulness from LLMs](usingFastWrongAnswers.md)
- - [GenAI has an Alignment Problem](theAlignmentProblem.md) - we don't need its solutions and we can't handle its intrinsic problems 
+ - [GenAI has an Alignment Problem](theAlignmentProblem.md) - we don't need its solutions and we can't handle its intrinsic problems
+
+![AI Value Propositionv4.001.png](AI%20Value%20Propositionv4.001.png)
