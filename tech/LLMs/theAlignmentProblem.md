@@ -128,7 +128,7 @@ Ethics aside (something far too easily said in a domain where Google decided tha
 
 And what do we think will happen if we drop the human ability to do such things? We know that models that consume their own, or each others’ output, decrease in quality. There’s no reason to expect that this will ever change, which means that even to maintain existing standards, they will need to consume ever more prime, human-created content to stay up to date. We will always need humans who are better than these systems at what they do, both to feed than and to build them. We will need advances in tooling, in languages and platforms, and in medicine, to meet future needs, even if we chose to feed these new abilities into LLM datasets, and we’re only going to get them from the peak of human ability.
 
-Because we’re never going to get novelty or advancements from stochastic tools. LLMs don’t innovate, they regurgitate. The only surprises they can produce are inherently unpleasant. Anyone who thinks they will solve cold fusion or climate change is fundamentally understanding every aspect of the technology.
+Because we’re never going to get novelty or advancements from stochastic tools. LLMs don’t innovate, they regurgitate. The only surprises they can produce are inherently unpleasant. Anyone who thinks they will solve cold fusion or climate change is fundamentally misunderstanding every aspect of the technology.
 
 And if we replace human thought with machine retrieval, humans won’t make those breakthroughs either.
 
