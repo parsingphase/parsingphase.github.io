@@ -62,3 +62,6 @@ We tend to be so astounded that these artifacts are appearing to think, that we 
 "You’re not supposed to recognize the bloody tune," said Gaspode, sitting down heavily and industriously scratching one ear with his hind leg. "I’m a dog. You’re supposed to be bloody amazed I can bloody well get a squeak out of the bloody thing."
 
 When we have our "Gaspode moment" with LLMs, we do see the dog. And we are indeed so bloody amazed by a computer seeming to think, that we fail to analyze the quality of those "thoughts", instead extending a "willing suspension of critique" that we wouldn't accord to any other agent, human or software. We are often sufficiently [amazed](https://en.wiktionary.org/wiki/amaze) that we accept a level of performance from LLMs that we'd accept from no other source.
+
+----
+[More writing on LLMs](.)

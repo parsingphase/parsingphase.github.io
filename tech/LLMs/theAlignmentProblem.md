@@ -106,7 +106,7 @@ So, single pieces of information, single bad “decisions” can be dangerous, b
 
 **A system capable of mimicking human mind and emotion without any form of ethical or moral backstop is utterly incompatible with use in a companionship role.**
 
-I’ve written elsewhere as to how the unique interaction mechanism of chatbots directly strikes the human vulnerability to pareidolia of mind, thereby inherently gaining a level of trust and authority that is utterly inappropriate for stochastic systems. LLMs present a threat model we’ve simply not evolved to handle, and providers deliberately play on this, describing them as sentient, thinking and feeling. And so, we see a growing trend of use of LLMs as companions, even romantic partners, which presents both distinct dangers to the user while they do work, and impactful feelings of betrayal, even bereavement, when a given model used in this way is deprecated. Of course, if the providers’ claims were true, this would be murder - so, we have to assume they don’t believe their own hype. But, it does highlight just how easily these tools can be withdrawn by monopoly providers.
+I’ve written [elsewhere](psychologicalFactors.md) as to how the unique interaction mechanism of chatbots directly strikes the human vulnerability to pareidolia of mind (AKA the "Eliza Effect"), thereby inherently gaining a level of trust and authority that is utterly inappropriate for stochastic systems. LLMs present a threat model we’ve simply not evolved to handle, and providers deliberately play on this, describing them as sentient, thinking and feeling. And so, we see a growing trend of use of LLMs as companions, even romantic partners, which presents both distinct dangers to the user while they do work, and impactful feelings of betrayal, even bereavement, when a given model used in this way is deprecated. Of course, if the providers’ claims were true, this would be murder - so, we have to assume they don’t believe their own hype. But, it does highlight just how easily these tools can be withdrawn by monopoly providers.
 
 **A system’s presentation as a “human replacement” is incompatible with simultaneous claims that it’s “just a tool”.**
 
@@ -126,13 +126,27 @@ Ethics aside (something far too easily said in a domain where Google decided tha
 
 **Abdication of work by humans is incompatible with the maintenance of human ability**
 
-And what do we think will happen if we drop the human ability to do such things? We know that models that consume their own, or each others’ output, decrease in quality. There’s no reason to expect that this will ever change, which means that even to maintain existing standards, they will need to consume ever more prime, human-created content to stay up to date. We will always need humans who are better than these systems at what they do, both to feed than and to build them. We will need advances in tooling, in languages and platforms, and in medicine, to meet future needs, even if we chose to feed these new abilities into LLM datasets, and we’re only going to get them from the peak of human ability.
+And what do we think will happen if we drop the human ability to do such things? We know that models that consume their own, or each others’ output, decrease in quality (known as "model collapse"). There’s no reason to expect that this will ever change, which means that even to maintain existing standards, they will need to consume ever more prime, human-created content to stay up to date. We will always need humans who are better than these systems at what they do, both to feed than and to build them. We will need advances in tooling, in languages and platforms, and in medicine - indeed, in all areas of human achievement - to meet future needs, even if we chose to feed these new abilities into LLM datasets, and we’re only going to get them from the peak of human ability.
+
+In other words:
+
+**The long-term viability of the entire LLM industry is incompatible with widespread use of the industry's products**
+
+Which leads us to realize that:
+
+**The AI industry's dirtiest secret is that it is utterly dependent on people who do *not* sacrifice their skills and knowledge as the industry demands**, because they will always need them to create new content to consume. To some extent, they seem aware of this, as we're seeing (since I first wrote this article) increased roles for skilled humans to directly teach (rather than just monitor) the machine that's supposed to be replacing them - codifying the "reverse centaur" role mentioned above. How they expect to maintain a sufficient class of such "providers" (whether contributing content willingly or otherwise) in the long term is unclear, however; again, we have to assume that they not only don't believe their own hype, but are knowingly reliant on large numbers of people not doing so either, even as we're assaulted and castigated for it. In the meantime, we are the unwilling maintainers of these systems for as long as we maintain our independence of them.
+
+![The-empire-needs-you.png](The-empire-needs-you.png)
+
+And model collapse isn't the only threat to the long-term success of this industry. Suppliers are massively subsiding consumers at the moment - every request costs more to serve than is paid for it; the ratio is obviously well-hidden but estimates of costs being 10-20x revenue are typical. Much as the LLMs are eating themselves in terms of model collapse, the industry is devouring the insane amount of money being shovelled into it for the sake of loss-leader prices. With no reason to believe that they'll ever be able to reduce costs (currently only increasing) to a level where they can make profits at prices acceptable to customers, the industry is left with a choice of bankruptcy or pricing itself out of existence.
+
+Which is ultimately a good thing, because…
+
+**Machine delegation is incompatible with innovation**
 
 Because we’re never going to get novelty or advancements from stochastic tools. LLMs don’t innovate, they regurgitate. The only surprises they can produce are inherently unpleasant. Anyone who thinks they will solve cold fusion or climate change is fundamentally misunderstanding every aspect of the technology.
 
 And if we replace human thought with machine retrieval, humans won’t make those breakthroughs either.
-
-**Machine delegation is incompatible with innovation**
 
 So what is the long game of those behind these technologies? They seem to love, after all, to write scare-pieces on how this “will change everything” (whether it works, or merely disempowers humans), and how our current society “isn’t ready for it”, but none of them seem inclined to propose any solutions, instead externalizing that problem. We have to assume that either they don’t expect this to happen (and that these pieces and pronouncements are merely there for hype, and to distract from more immediate risks and failures), or that they expect to be on top of the ruins after the societal collapse they predict.
 
@@ -162,6 +176,8 @@ Turns out, that was only a fraction of the story. In fact, we’ve now seen that
 
 The business model of the LLM industry is **to centralize both wealth and cognition by** renting **mass-produced, government-approved** thoughts back to us **with ads**, **while fostering both technical and psychological dependence.**
 
+![BusinessModel.png](BusinessModel.png)
+
 Bit of a mess that, really. But we’ve seen it happening, in an opposition to “woke AI” that basically amounts to “LLMs should only emit output aligned with right-wing beliefs”, in Elon Musk continually pushing Grok to reflect his own mindset until it started producing deepfake nudes and CSAM, and in redefining education to mean not producing work through your own learning, but to present AI-generated “essays” that barely exercise the student’s brain. It’s been well said that using an AI to produce educational work is like taking a forklift to the gym.
 
 And it’s not just students having their thoughts stolen from them. Every LLM-generated email, every summary, steals the voice of the user and replaces it with a homogenized, depersonalized mush. Every piece of regurgitative art steals the act of expressions, and the learning of creativity, from its instigator.
@@ -175,7 +191,12 @@ So maybe we can end, even without claiming we’ve completely covered all of the
 **The centralization of cognition by the “AI” industry is incompatible with an informed, functional, fair and happy democratic society**
 
 ----
+[More writing on LLMs](.)
+
+----
 
 This document is presented for now as a draft; the problems it describes are myriad, fractal, and continually growing.
 Trying to make it concise and complete are likely impractical goals, so for now I'm putting it out while it at least has coherence, which I might be able to improve with future editing.
+
+Updated (slightly) 2026-03-22, with images & links
 
