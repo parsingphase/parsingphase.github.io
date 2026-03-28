@@ -22,8 +22,9 @@ I take photos as a hobby, and write code as a profession.
 
 ## Social
 
-<i class="fas fa-globe"></i> Bluesky: [@parsingphase.dev](https://bsky.app/profile/parsingphase.dev)<br />
-<i class="fas fa-globe"></i> Mastodon: <a style="display: none" rel="me" href="https://mastodon.social/@parsingphase">@parsingphase@mastodon.social</a> <a rel="me" href="https://m.phase.org/@parsingphase">@parsingphase@m.phase.org</a>
+<a href="https://bsky.app/profile/parsingphase.dev"><i class="fas fa-globe"></i> Bluesky: @parsingphase.dev</a><br />
+<a rel="me" href="https://m.phase.org/@parsingphase"><i class="fas fa-globe"></i> Mastodon: @parsingphase@m.phase.org</a>
+<a style="display: none" rel="me" href="https://mastodon.social/@parsingphase">@parsingphase@mastodon.social</a>
 
 ---
 

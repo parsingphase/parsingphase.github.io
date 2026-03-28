@@ -5,7 +5,7 @@ Hi, I'm **Richard**, AKA parsingphase
 
 I take photos as a hobby, and write code as a profession.
 
-<p class="nav"><a href="/software/"> <i class="fas fa-laptop-code"></i> Software</a> | <i class="fas fa-camera"></i> Photography</p>
+<p class="nav"><a href="/software/"> <i class="fas fa-laptop-code"></i> Software</a> | <i class="fas fa-camera"></i> Photography | <a href="/"><i class="fas fa-globe"></i> Home</a></p>
 
 ## Software
 On the software side, I build things in Javascript, Python, PHP and occasionally Java
