@@ -6,18 +6,22 @@ Hi, I'm **Richard**, AKA parsingphase
 
 I take photos as a hobby, and write code as a profession.
 
-<strong>Are you here because I gave you a card while birding, or talking birds? <br />You might be looking for
+## Wildlife Content
 
-<i class="fab fa-flickr"></i> [my photos at Flickr](https://www.flickr.com/photos/parsingphase),
+<a href="https://www.flickr.com/photos/parsingphase"> <i class="fab fa-flickr"></i> Bird photos at Flickr</a><br />
+<a href="https://spectra.video/c/parsing_wildlife/videos"> <i class="fas fa-globe"></i> Trailcam & wildlife videos at Spectra</a><br />
+<a href="https://www.inaturalist.org/observations?user_id=parsingphase"> <i class="fa fa-leaf"></i> My iNaturalist sightings</a><br />
+<a href="/photography/"> <i class="fas fa-camera"></i> Writing on Photography</a> 
 
-<i class="fas fa-globe"></i> [my trailcam & wildlife videos at Spectra](https://spectra.video/c/parsing_wildlife/videos),
+## Technical Content
 
-or 
-<i class="fa fa-leaf"></i> [my iNaturalist sightings](https://www.inaturalist.org/observations?user_id=parsingphase).</strong>
+<a href="#"><i class="fas fa-laptop-code"></i> Software</a><br />
+<a href="/3dPrinting/"> <i class="fa fa-cube" aria-hidden="true"></i> 3D Printing</a><br />
+<a href="/mastodon/"> <i class="fas fa-globe"></i> Mastodon</a><br />
+<a href="/tech/LLMs/"> <i class="fas fa-wave-square"></i> Thoughts on LLMs</a><br />
 
-<strong>Or, on the technical side:</strong>
-<p class="nav"><i class="fas fa-laptop-code"></i> Software | <a href="/photography/"> <i class="fas fa-camera"></i> Photography</a> | <a href="/3dPrinting/"> <i class="fa fa-cube" aria-hidden="true"></i> 3D Printing</a> | <a href="/mastodon/"> <i class="fas fa-globe"></i> Mastodon</a> | <a href="/tech/LLMs/"> <i class="fas fa-wave-square"></i> LLMs</a></p>
 
+## Software
 On the software side, I build things in Javascript, Python, PHP and occasionally Java
 
 I create documentation and guides as well as code
