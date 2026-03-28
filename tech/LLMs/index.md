@@ -10,3 +10,7 @@ title: "Notes on LLMs"
  - [GenAI has an Alignment Problem](theAlignmentProblem.md) - we don't need its solutions and we can't handle its intrinsic problems
 
 ![AI Value Propositionv4.001.png](AI%20Value%20Propositionv4.001.png)
+
+![BusinessModel.png](BusinessModel.png)
+
+![The-empire-needs-you.png](The-empire-needs-you.png)

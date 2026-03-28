@@ -136,8 +136,6 @@ Which leads us to realize that:
 
 **The AI industry's dirtiest secret is that it is utterly dependent on people who do *not* sacrifice their skills and knowledge as the industry demands**, because they will always need them to create new content to consume. To some extent, they seem aware of this, as we're seeing (since I first wrote this article) increased roles for skilled humans to directly teach (rather than just monitor) the machine that's supposed to be replacing them - codifying the "reverse centaur" role mentioned above. How they expect to maintain a sufficient class of such "providers" (whether contributing content willingly or otherwise) in the long term is unclear, however; again, we have to assume that they not only don't believe their own hype, but are knowingly reliant on large numbers of people not doing so either, even as we're assaulted and castigated for it. In the meantime, we are the unwilling maintainers of these systems for as long as we maintain our independence of them.
 
-![The-empire-needs-you.png](The-empire-needs-you.png)
-
 And model collapse isn't the only threat to the long-term success of this industry. Suppliers are massively subsiding consumers at the moment - every request costs more to serve than is paid for it; the ratio is obviously well-hidden but estimates of costs being 10-20x revenue are typical. Much as the LLMs are eating themselves in terms of model collapse, the industry is devouring the insane amount of money being shovelled into it for the sake of loss-leader prices. With no reason to believe that they'll ever be able to reduce costs (currently only increasing) to a level where they can make profits at prices acceptable to customers, the industry is left with a choice of bankruptcy or pricing itself out of existence.
 
 Which is ultimately a good thing, because…
@@ -175,8 +173,6 @@ I proposed, month ago, that:
 Turns out, that was only a fraction of the story. In fact, we’ve now seen that:
 
 The business model of the LLM industry is **to centralize both wealth and cognition by** renting **mass-produced, government-approved** thoughts back to us **with ads**, **while fostering both technical and psychological dependence.**
-
-![BusinessModel.png](BusinessModel.png)
 
 Bit of a mess that, really. But we’ve seen it happening, in an opposition to “woke AI” that basically amounts to “LLMs should only emit output aligned with right-wing beliefs”, in Elon Musk continually pushing Grok to reflect his own mindset until it started producing deepfake nudes and CSAM, and in redefining education to mean not producing work through your own learning, but to present AI-generated “essays” that barely exercise the student’s brain. It’s been well said that using an AI to produce educational work is like taking a forklift to the gym.
 

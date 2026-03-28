@@ -4,12 +4,18 @@ description: parsingphase.dev
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 Hi, I'm **Richard**, AKA parsingphase
 
-<strong>Are you here because I gave you a card while birding? <br />You might be looking for my main collection at
-<i class="fab fa-flickr"></i> [my Flickr account](https://www.flickr.com/photos/parsingphase) or 
-<i class="fa fa-leaf"></i> [my iNaturalist sightings](https://www.inaturalist.org/observations?user_id=parsingphase).</strong>
-
 I take photos as a hobby, and write code as a profession.
 
+<strong>Are you here because I gave you a card while birding, or talking birds? <br />You might be looking for
+
+<i class="fab fa-flickr"></i> [my photos at Flickr](https://www.flickr.com/photos/parsingphase),
+
+<i class="fas fa-globe"></i> [my trailcam & wildlife videos at Spectra](https://spectra.video/c/parsing_wildlife/videos),
+
+or 
+<i class="fa fa-leaf"></i> [my iNaturalist sightings](https://www.inaturalist.org/observations?user_id=parsingphase).</strong>
+
+<strong>Or, on the technical side:</strong>
 <p class="nav"><i class="fas fa-laptop-code"></i> Software | <a href="/photography/"> <i class="fas fa-camera"></i> Photography</a> | <a href="/3dPrinting/"> <i class="fa fa-cube" aria-hidden="true"></i> 3D Printing</a> | <a href="/mastodon/"> <i class="fas fa-globe"></i> Mastodon</a> | <a href="/tech/LLMs/"> <i class="fas fa-wave-square"></i> LLMs</a></p>
 
 On the software side, I build things in Javascript, Python, PHP and occasionally Java
