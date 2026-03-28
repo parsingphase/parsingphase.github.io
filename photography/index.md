@@ -6,7 +6,7 @@ Hi, I'm **Richard**, AKA parsingphase
 
 I take photos as a hobby, and write code as a profession.
 
-<p class="nav"><a href="/"> <i class="fas fa-laptop-code"></i> Software</a> | <i class="fas fa-camera"></i> Photography</p>
+<p class="nav"><a href="/software/"> <i class="fas fa-laptop-code"></i> Software</a> | <i class="fas fa-camera"></i> Photography</p>
 
 {% include carousel.html height="410" unit="px" duration="7" %}
 
