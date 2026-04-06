@@ -30,7 +30,7 @@ My online, personal projects include:
 
 ## [Rosetta PPJ](https://parsingphase.dev/rosetta-ppj/) (now with Java added!)
 
-![PHP-Python-Javascript Rosetta](images/PPJ.png)
+![PHP-Python-Javascript Rosetta](../images/PPJ.png)
 
  <i class="fab fa-php fa-lg"></i> PHP \| <i class="fab fa-python"></i> Python \| <i class="fab fa-js-square"></i> Javascript \| <i class="fab fa-java"></i> Java
 
@@ -41,7 +41,7 @@ A cheat sheet for anyone who, like me, finds swapping between multiple C-type la
 
 ## [Batbox](https://batbox.phase.org) 
 
-![Batbox](images/BAT1.png)
+![Batbox](../images/BAT1.png)
 
  <i class="fab fa-python"></i> Python \| <i class="fab fa-python"></i> Django \| <i class="fab fa-js-square"></i> Javascript \| <i class="fas fa-dollar-sign"></i> jQuery \| <i class="fab fa-docker"></i> Docker
 
@@ -64,8 +64,8 @@ volunteering at [Bletchley Park](https://bletchleypark.org.uk)
 
 ## [Beerbot](https://beerbot.phase.org)
 
-![Beerbot Menu](images/BB1.png)
-![Beerbot Tracker](images/BB2.png)
+![Beerbot Menu](../images/BB1.png)
+![Beerbot Tracker](../images/BB2.png)
 
  <i class="fab fa-python"></i> Python \| <i class="fab fa-aws"></i> AWS Serverless
 
@@ -76,7 +76,7 @@ A processing tool for paid supporters of [Untappd](https://untappd.com/), suppor
  
 ## [WeightInWhales](https://weightinwhales.com/)
 
-![Weight In Whales](images/WIW.png)
+![Weight In Whales](../images/WIW.png)
 
 A small salute to the most important of standardised comparison units, the metric blue whale
 
@@ -86,7 +86,7 @@ A small salute to the most important of standardised comparison units, the metri
 
 ## [TakeATicket](https://parsingphase.dev/takeAticket/)
 
-![TakeATicket](images/TAT.png)
+![TakeATicket](../images/TAT.png)
 
 A management app for a karaoke-style event that I used to run with my wife and friends
 
