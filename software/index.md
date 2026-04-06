@@ -53,7 +53,7 @@ A geovisualisation and search tool for audio recordings of bats tagged with the 
 
 ## TDD Deciphered (no longer online)
 
-![TDD Deciphered](images/TDD.png)
+![TDD Deciphered](../images/TDD.png)
 
  <i class="fab fa-php fa-lg"></i> PHP \| <i class="fas fa-check-square"></i> TDD
 
