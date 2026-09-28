@@ -3,6 +3,8 @@ description: 'You do not have to hand IT to the techbros'
 title: 'You do not have to hand IT to the techbros'
 ---
 
+## Coding is *not* the "special case" where genAI is a good idea
+
 A much-deserved backlash to genAI is spreading across society, as more and more people start to recognize the destructive costs behind the shining promises. Whether it's in the arts, education, science, or supposedly agentic systems that are now proposed to run our lives for us, we're starting to see that the trade-offs aren't worth the cost.
 
 But a lot of writing on the topic seems to grant the same exclusion, whether out of a genuine belief that it's a special case, or a desire to seem even-handed by ceding a point to genAI proponents. That exclusion tends to run along the lines of "While genAI may have some use in coding…".
