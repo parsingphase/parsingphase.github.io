@@ -45,11 +45,8 @@ header {
   padding: 5px 0;
 }
 
-header h2 {
-  //display: none
-}
-
 header h1 {
+  // title
   //color: black;
   //font-size: 2em;
   //font-weight: bolder;
@@ -61,6 +58,11 @@ header h1 {
   line-height: 1.2;
   color: #303030;
   letter-spacing: -1px;
+}
+
+header h2 {
+  // description
+  display: none
 }
 
 section#downloads {
