@@ -11,5 +11,8 @@ description: "Some less-structured critiques" #h2
 
 ![The-empire-needs-you.png](The-empire-needs-you.png)
 
+![footguns.png](footguns.png)
+
 ----
 [More writing on LLMs](.)
+----
