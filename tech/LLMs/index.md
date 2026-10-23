@@ -9,9 +9,5 @@ title: "Notes on LLMs"
  - [Building right from wrong - judging and obtaining usefulness from LLMs](usingFastWrongAnswers.md)
  - [GenAI has an Alignment Problem](theAlignmentProblem.md) - we don't need its solutions and we can't handle its intrinsic problems
  - [You do not have to hand IT to the techbros](ydnht.md) - Coding is *not* the "special case" where genAI is a good idea.
-
-![AI Value Propositionv4.001.png](AI%20Value%20Propositionv4.001.png)
-
-![BusinessModel.png](BusinessModel.png)
-
-![The-empire-needs-you.png](The-empire-needs-you.png)
+ - [Responsibility and "programming" in Stochastic Tools](responsibilityAndControl.md) - Why AI labs fail to manage responsibility
+ - [Memes and Images](images.md) - Some less-structured critiques
