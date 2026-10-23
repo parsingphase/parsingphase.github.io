@@ -1,6 +1,6 @@
 ---
-description: "Memes & images for LLMs"
-title: "Memes and images for LLMs"
+title: "Memes and images for LLMs" #h1
+description: "Some less-structured critiques" #h2
 ---
 
 
