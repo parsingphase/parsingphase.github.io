@@ -1,6 +1,6 @@
 ---
 description: 'Responsibility and "programming" in Stochastic Tools'
-title: 'Responsibility and "programming" in Stochastic Tools'
+title: 'Lack of control does not mean lack of liability'
 ---
 
 _The following is a collected thread im response to an interesting post on how people differ in the assignment of responsibility between chatbots (anthropomorphized) and self-driving cars (seen more as machines):_

@@ -1,5 +1,5 @@
 ---
-description: parsingphase.dev | Software
+title: parsingphase.dev | Software
 ---
 Hi, I'm **Richard**, AKA parsingphase
 

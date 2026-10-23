@@ -1,6 +1,6 @@
 ---
-description: "Notes on Bluesky's verification"
-title: "Bluesky's Domain Verification is Good, Actually"
+title: "Notes on Bluesky's verification"
+description: "Bluesky's Domain Verification is Good, Actually"
 ---
 <style>body { color: #000 } .inner { min-width: 80% } a { color: #d5000d }</style>
 

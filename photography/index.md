@@ -1,5 +1,4 @@
 ---
-description: parsingphase.dev 
 title: Photography
 ---
 Hi, I'm **Richard**, AKA parsingphase

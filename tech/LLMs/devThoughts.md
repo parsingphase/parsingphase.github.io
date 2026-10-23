@@ -1,6 +1,6 @@
 ---
 description: 'Thoughts on LLM usage in software development'
-title: 'Thoughts on LLM usage in software development'
+title: 'A personal risk analysis'
 ---
 
 # Introduction

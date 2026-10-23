@@ -1,6 +1,6 @@
 ---
 description: 'Thoughts on LLMs - Psychological complications'
-title: 'Thoughts on LLMs - Psychological complications'
+title: 'Dealing with an entity we never evolved a mental model for'
 ---
 
 How the novel nature of LLMs confounds our ability to evaluate them
