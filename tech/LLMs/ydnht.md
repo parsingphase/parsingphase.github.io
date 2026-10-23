@@ -1,6 +1,6 @@
 ---
-description: 'You do not have to hand IT to the techbros'
 title: 'You do not have to hand IT to the techbros'
+description: 'Coding is *not* the "special case" where genAI is a good idea'
 ---
 
 ## Coding is *not* the "special case" where genAI is a good idea
