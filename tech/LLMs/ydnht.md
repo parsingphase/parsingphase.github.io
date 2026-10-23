@@ -47,5 +47,3 @@ Equally, potential politically-driven constraints should not be ignored. Governm
 
 ----
 [More writing on LLMs](.)
-
-----
